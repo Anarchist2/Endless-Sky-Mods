@@ -136,13 +136,6 @@ planet "Pug Enfolta"
 	tribute 1
 		threshold 0
 		fleet pug_enfolta
-planet "Pug Kaelin"
-	"required reputation" 2
-	description `This Pug world seems to fit with the other Pug worlds that you know of, presumably they are all outposts. Large cities with towers of indescribable design encompass a large portion of the main continent. The remainder of the planet remains practically untouched by anything not native to this planet, as if the Pug cities were simply lowered down onto the land rather than built up over time.`
-	landscape land/myrabella5
-	security 1
-	spaceport `The spaceport here can be described no other way than impressive, it is the largest tower, placed directly central of the gargantuan city. With a base almost looking big enough to pass as a sizable village, very quickly getting thinner as it raises into the cities airspace.`
-	spaceport `Reaching unimaginable heights many would consider impossible, the tower is more than the planets spaceport, it is quite literally the epicenter for everything from logistics to residence.`
 planet "Pug Maboro"
 	bribe 0
 	government "Unknown "
@@ -167,11 +160,6 @@ planet "Quarg Wardragon"
 	tribute 1
 		threshold 0
 		fleet quarg_wardragon
-planet "Relic Station"
-	description `Everything here is enigmatic and frankly alien. The passageways are incomprehensibly large and the walkways are guided by unbroken blinding lights that follow up the edges of the doorways.`
-	description `Mazes of endless halls and slated walls seem designed to disorient visitors. It would be easy to lose yourself here, both your person and your mind.`
-	spaceport `The fluid motion of the automated shipyards arms working tirelessly to finish construction on the latest drone is worrisome. The suspended walkways looming over the drone construction bay apparently doesn't need railing, at least the bright lines of light on the edges of the walkways are a warning.`
-	landscape land/space6
 planet "Shield Beetle"
 	bribe 0
 	government "Unknown "
@@ -226,19 +214,6 @@ planet Archon
 	tribute 1
 		threshold 0
 		fleet archon
-planet Arx
-	description `This ringworld is more than half completed, with no sign of construction slowing down for even a second. The product of millennia of concentrated construction effort which has consumed nearly every other stellar object in this system just to provide the raw materials.`
-	description `Apparently even the Irms' home planet is being picked clean to contribute to this astronomical build. Undeniably this is a huge leap for what appears to be a single star system species.`
-	landscape landscape/arx
-	spaceport `Each completed section of the ring is open and ready for business already. This is a testament to just how much anticipation the Irm hold for their new home.`
-	spaceport `The inside of the ring is a looping ribbon world with direct sunlight beaming down on the inhabitants. Solar power is still collected, just maybe not in such massive amounts as would be expected from a station completely wrapping around a systems star.`
-	tribute 7500
-		threshold 0
-		fleet irm_defense 120
-planet barren_wormhole
-	description ``
-planet barren_wormhole2
-	description ``
 planet Bastion
 	bribe 0
 	government "Unknown "
@@ -323,12 +298,6 @@ planet Grasshopper
 	tribute 1
 		threshold 0
 		fleet grasshopper
-planet graveyard_wormhole
-	description ``
-planet graveyard_wormhole2
-	description ``
-planet graveyard_wormhole3
-	description ``
 planet Hai
 	bribe 0
 	description ""
@@ -362,8 +331,6 @@ planet Irm
 	outfitter irm
 	shipyard irm
 	spaceport ""
-planet irm_gate
-	description ``
 planet Korath
 	bribe 0
 	description ""
@@ -377,20 +344,6 @@ planet Leviathan
 	tribute 1
 		threshold 0
 		fleet leviathan
-planet link_wormhole
-	description ``
-planet Nis
-	description `Eerily, there are no winged creatures amongst the skies and few land roaming animals. Those animals that do walk the land however are large, lumbering beasts that easily dwarf small buildings. The most dominant species is noticeably creatures resembling old earth humans, they boast a very large build and move cautiously in groups.`
-	description `These humanesque creatures appear to have received aid as their technology is far beyond what they might have achieved otherwise. They prove quite formidable in the field of infrastructural and agricultural planning also, perhaps they have been aided in that respect also, the various towns and villages appear to have stood for many centuries.`
-	landscape land/forest0
-	spaceport `The spaceport, located in the very center of a deep crater, shoots out of the ground like a glimmering silver spire. Surrounding the spire are densely populated residential and industrial sectors. The lower airspace of the city and lower levels of the spire are utilized for use by some form of flight capable vehicle, presumably for transit for the wealthy.`
-	spaceport `It appears as though only the very top regions of the spire are intended for foreigners to land, however there are docking bays located at various points around each docking level. Apparently only the most fortunate of Aben ever make it to the top of the spire, it's regarded as the highest honor to be of the few individuals to greet visiting species.`
-planet Pesek
-	description `A lifeless rock with a very thin atmosphere, slightly smaller than the Aben homeworld Nis. Somehow the Aben have managed to travel and colonise here, how they hold the power of spaceflight at their stage of evolution is astounding, even with the advanced technology they have been provided.`
-	description `The colonies sole purpose on this planet appears to be the research and development of the advanced technology they are given. With many flashes of light and booming sounds from off-site locations along the planets surface, the feel for the intensity of research is very intense.`
-	landscape land/mountain2
-	spaceport `The spaceport contains all of two landing pads, if it can even be called that, there is no area for pilots to gather and no shops in the local area, this is clearly meant only for supply deliveries to the colony.`
-	spaceport `A looped broadcast confirms that the facility is not open to visitors, there is nothing to be done here but wait and refuel.`
 planet Plugins
 	bribe 0
 	description `This station orbits the spacial phenomenon at the very center of this system, how this system is held together to be so stable is a mystery. There is no need to go running about to find some superior technology, it's all right here!`

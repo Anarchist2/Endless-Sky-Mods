@@ -91,19 +91,6 @@ fleet hurricane
 	personality heroic
 	variant
 		Hurricane
-fleet irm_defense
-	cargo 3
-	government Irm
-	names "kor mereti"
-	personality
-		heroic
-		unconstrained
-	variant
-		Revelation 1
-	variant
-		Revelation 3
-	variant
-		Revelation 8
 fleet kar_ik_vot_349
 	government "Unknown "
 	personality heroic
