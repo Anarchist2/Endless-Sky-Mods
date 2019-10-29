@@ -341,6 +341,7 @@ outfitter remnant
 	"Thrasher Cannon"
 	"Thrasher Turret"
 	"Tuning Rifle"
+	"Void Rifle"
 	Hyperdrive
 outfitter wanderer
 	"Blue Sun Reactor"
