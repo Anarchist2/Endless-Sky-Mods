@@ -107,6 +107,7 @@ outfit "Capacitor Rack"
 	"outfit space" -.5
 	category Power
 	cost 2000
+	description `This rack is a base for pluggable capacitor modules. Together, they form a modular energy storage system.`
 	mass .5
 	thumbnail outfit/capacitor_rack
 outfit "Chain Blaster Turret"
@@ -465,6 +466,7 @@ outfit "Storage Lockers"
 	"tool storage" 5
 	category Systems
 	cost 13600
+	description `This is a small, self-contained room, that provides safe and convenient way to store, retrieve, and professionally take care of various specialised tools.`
 	mass 13
 	thumbnail outfit/storage_lockers
 outfit "Thrust Module"
@@ -488,6 +490,7 @@ outfit "Tool Rack"
 	"tool storage" 1
 	category Systems
 	cost 13600
+	description `Those racks are designed to safely store, retrieve, and recharge various specialised tools.`
 	mass 3
 	thumbnail outfit/tool_rack
 outfit "Type 0 Radiant Engine"
@@ -529,6 +532,7 @@ outfit Capacitors
 	"energy capacity" 18.75
 	category Power
 	cost 2400
+	description `This is a small capacitor, designed to be plugged in the Capacitor Rack.`
 	thumbnail outfit/capacitors
 outfit fracture_engine_submunition
 	weapon
