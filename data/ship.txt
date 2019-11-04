@@ -51,7 +51,7 @@ ship Apocalypse
 	gun 22 -520 Devastator
 	outfits
 		"Apotropaic Anti-Missile" 8
-		"Irm Large Engines"
+		"Oginau Engine"
 		"Tekina Engine"
 		"Transparency Plating"
 		Devastator 2

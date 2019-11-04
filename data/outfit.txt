@@ -13,7 +13,7 @@ outfit "Apotropaic Anti-Missile"
 		lifetime 1
 		reload 75
 		velocity 500
-outfit "Irm Large Engines"
+outfit "Oginau Engine"
 	"engine capacity" -139
 	"flare sound" "plasma medium"
 	"flare sprite" flare_sprite/irm_large_engines
