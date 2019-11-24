@@ -1,2 +1,2 @@
 # Adde Endless Sky
-A general expansion to the vanilla game. From new systems to changing fleets, to a very cheaty all-content area. It's packed full of all kinds of thing you wouldn't usually find in vanilla.
+New aliens that are uncapable of spaceflight as far as the player is concerned, offers the player multiple missions in aiding the Aben which also benefit the player in turn.
