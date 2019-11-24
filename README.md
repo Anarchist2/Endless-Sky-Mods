@@ -1,2 +1,2 @@
 # Adde Endless Sky
-A general expansion to the vanilla game. From new systems to changing fleets, to a very cheaty all-content area. It's packed full of all kinds of thing you wouldn't usually find in vanilla.
+New aliens to the north of human space that can only be described as technocratic isolationists. They will not begin or turn hostile towards the player under normal circumstances, but you would be one unlucky pilot if you were to find yourself on bad terms with the Irm.
