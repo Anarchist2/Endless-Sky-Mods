@@ -1,2 +1,2 @@
 # Adde Endless Sky
-A general expansion to the vanilla game. From new systems to changing fleets, to a very cheaty all-content area. It's packed full of all kinds of thing you wouldn't usually find in vanilla.
+The most extensive all-content plugin to date. It includes many opportunities to test balance or ship builds against AI driven ships or fleets, all vanilla content and the content of many plugins available to use to put together different ship builds. Many more essential cheat tools are included into Omnis too!
