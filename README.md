@@ -1,2 +1,2 @@
 # Adde Endless Sky
-A general expansion to the vanilla game. From new systems to changing fleets, to a very cheaty all-content area. It's packed full of all kinds of thing you wouldn't usually find in vanilla.
+Any Adde content that doesn't fit in another or deserve it's own branch. This includes many new outfits and ships for various aspects of the vanilla game, even new missions here and there.
