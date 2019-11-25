@@ -397,6 +397,13 @@ planet Tempest
 	tribute 1
 		threshold 0
 		fleet tempest
+planet Vanilla
+	bribe 0
+	description ""
+	landscape landscape/station6
+	outfitter vanilla
+	shipyard vanilla
+	spaceport ""
 planet Variants
 	bribe 0
 	description ""

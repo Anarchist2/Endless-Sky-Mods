@@ -204,6 +204,7 @@ event reveal_map
 	"visit planet" Darkwaste
 	"visit planet" Deep
 	"visit planet" Delve
+	"visit planet" Developer
 	"visit planet" Dune
 	"visit planet" Dustmaker
 	"visit planet" Earth
@@ -330,7 +331,7 @@ event reveal_map
 	"visit planet" Vail
 	"visit planet" Valhalla
 	"visit planet" Vanilla
-	"visit planet" Variants
+	"visit planet" Vanilla
 	"visit planet" Viminal
 	"visit planet" Vinci
 	"visit planet" Warfeed
