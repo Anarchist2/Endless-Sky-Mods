@@ -44,6 +44,8 @@ outfitter deprecated
 	"Mass Expansion"
 	"NDR-114 Android"
 	"Reverse Thruster"
+outfitter developer
+	Deterrence
 outfitter drak
 	"Drak Anti-Missile Field"
 	"Drak Antimatter Cannon"

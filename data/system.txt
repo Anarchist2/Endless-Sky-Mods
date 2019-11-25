@@ -162,6 +162,10 @@ system Omnis
 		distance 2540
 		offset 156
 		sprite ship/derecho
+	object Developer
+		distance 1420
+		offset 340
+		sprite sprite/station8
 	object Drak
 		distance 1420
 		offset 320

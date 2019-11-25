@@ -245,6 +245,13 @@ planet Derecho
 	tribute 1
 		threshold 0
 		fleet derecho
+planet Developer
+	bribe 0
+	description ""
+	landscape landscape/station6
+	outfitter developer
+	shipyard developer
+	spaceport ""
 planet Drak
 	bribe 0
 	description ""
