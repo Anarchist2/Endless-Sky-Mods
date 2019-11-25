@@ -3,10 +3,12 @@ mission licenses_give
 	job
 	name `Licenses- Give`
 	on accept
+		set "license: Aben Technology"
 		set "license: Carrier"
 		set "license: City-Ship"
 		set "license: Coalition"
 		set "license: Cruiser"
+		set "license: Hai Trust"
 		set "license: Heliarch"
 		set "license: Militia Carrier"
 		set "license: Navy"
@@ -27,10 +29,12 @@ mission licenses_take
 	job
 	name `Licenses- Remove`
 	on accept
+		clear "license: Aben Technology"
 		clear "license: Carrier"
 		clear "license: City-Ship"
 		clear "license: Coalition"
 		clear "license: Cruiser"
+		clear "license: Hai Trust"
 		clear "license: Heliarch"
 		clear "license: Militia Carrier"
 		clear "license: Navy"

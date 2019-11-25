@@ -18,6 +18,7 @@ shipyard coalition
 shipyard drak
 	"Void Sprite"
 	Archon
+	Sarkic
 shipyard hai
 	"Lightning Bug"
 	"Pond Strider"
@@ -49,21 +50,25 @@ shipyard human
 	"Marauder Raven"
 	"Marauder Splinter"
 	"Modified Osprey"
+	"Paltry Freighter"
 	"Star Barge"
 	"Star Queen"
 	"Surveillance Drone"
 	"Unknown Ship Type"
 	Aerie
+	Aesalon
 	Argosy
 	Arrow
 	Bactrian
 	Barb
 	Bastion
 	Behemoth
+	Bennu
 	Berserker
 	Blackbird
 	Bounder
 	Boxwing
+	Bulwark
 	Carrier
 	Clipper
 	Corvette
@@ -82,6 +87,7 @@ shipyard human
 	Hawk
 	Headhunter
 	Hornet
+	Hydra
 	Kestrel
 	Lance
 	Leviathan
@@ -101,14 +107,20 @@ shipyard human
 	Splinter
 	Vanguard
 	Wasp
+shipyard irm
+	Apocalypse
+	Revelation
 shipyard korath
 	"Far Lek 14"
 	"Far Osk 27"
 	"Kar Ik Vot 349"
+	"Kar Ik Vot 637"
 	"Korath Chaser"
 	"Korath Raider"
+	"Korath Stalker"
 	"Korath World-Ship"
 	"Met Par Tek 53"
+	"Model 1024"
 	"Model 128"
 	"Model 16"
 	"Model 256"
@@ -121,8 +133,26 @@ shipyard korath
 	"Tek Far 78 - Osk"
 	Nanobot
 shipyard plugin
+	"A-3 Lexel"
+	"A-60 Olisivant"
+	"B-10 Warden"
+	"Kar Ik Vot 637"
+	"Korath Stalker"
+	"Model 1024"
+	"Paltry Freighter"
+	Adel
+	Aesalon
+	Apocalypse
+	Bennu
+	Bulwark
 	Caster
 	Dummy
+	Hobby
+	Hornet
+	Hydra
+	Revelation
+	Sarkic
+	Scud
 shipyard pug
 	"Pug Arfecta"
 	"Pug Enfolta"
@@ -135,6 +165,7 @@ shipyard remnant
 	Albatross
 	Gascraft
 	Gull
+	Hobby
 	Ibis
 	Pelican
 	Penguin
@@ -361,4 +392,5 @@ shipyard wanderer
 	Flycatcher
 	Hurricane
 	Riptide
+	Scud
 	Tempest

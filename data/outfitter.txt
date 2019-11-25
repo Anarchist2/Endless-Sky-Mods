@@ -71,6 +71,8 @@ outfitter hai
 	"Hai Valley Batteries"
 	"Hai Williwaw Cooling"
 	"Ion Cannon"
+	"Ion Mortar"
+	"Katabatic Scanner"
 	"Outfits Expansion"
 	"Pebble Core"
 	"Pulse Cannon"
@@ -113,10 +115,12 @@ outfitter human
 	"Breeder Reactor"
 	"Bullet Boxes"
 	"Bunk Room"
+	"Capacitor Rack"
 	"Cargo Expansion"
 	"Cargo Scanner"
 	"Carrier License"
 	"Catalytic Ramscoop"
+	"Chain Blaster Turret"
 	"Chameleon Anti-Missile"
 	"Chipmunk Plasma Steering"
 	"Chipmunk Plasma Thruster"
@@ -128,11 +132,13 @@ outfitter human
 	"D41-HY Shield Generator"
 	"D67-TM Shield Generator"
 	"D94-YV Shield Generator"
+	"Dual Electron Beam"
 	"Dwarf Core"
 	"Electron Beam"
 	"Electron Turret"
 	"Energy Blaster"
 	"Fission Reactor"
+	"Flame Thrower"
 	"Fragmentation Grenades"
 	"Fuel Pod"
 	"Fusion Reactor"
@@ -152,6 +158,7 @@ outfitter human
 	"Ionic Afterburner"
 	"Javelin Pod"
 	"Javelin Storage Crate"
+	"Knockout Gas"
 	"KP-6 Photovoltaic Array"
 	"KP-6 Photovoltaic Panel"
 	"Large Radar Jammer"
@@ -188,10 +195,12 @@ outfitter human
 	"Particle Cannon"
 	"Pilot's License"
 	"Plasma Cannon"
+	"Plasma Repeater"
 	"Plasma Turret"
 	"Proton Gun"
 	"Proton Turret"
 	"Quad Blaster Turret"
+	"Quad Plasma Turret"
 	"Regional Map"
 	"RT-I Radiothermal"
 	"S-270 Regenerator"
@@ -200,14 +209,18 @@ outfitter human
 	"Scram Drive"
 	"Secret Cargo"
 	"Security Station"
+	"Shipwright Gear"
 	"Sidewinder Missile Launcher"
 	"Sidewinder Missile Rack"
 	"Sidewinder Missile"
 	"Small Bunk Room"
 	"Small Radar Jammer"
+	"Smugglers Fittings"
 	"Stack Core"
+	"Storage Lockers"
 	"Surveillance Pod"
 	"Tactical Scanner"
+	"Tool Rack"
 	"Torpedo Launcher"
 	"Torpedo Storage Rack"
 	"Typhoon Launcher"
@@ -229,12 +242,21 @@ outfitter human
 	"X5700 Ion Thruster"
 	Afterburner
 	Brig
+	Capacitors
 	Flamethrower
 	Hyperdrive
 	Javelin
 	Ramscoop
 	Supercapacitor
 	Torpedo
+outfitter irm
+	"Apotropaic Anti-Missile"
+	"Irm Large Engines"
+	"Tekina Engine"
+	"Transparency Plating"
+	Devastator
+	Harrier
+	Hyperdrive
 outfitter korath
 	"Command Center"
 	"Control Transceiver"
@@ -246,7 +268,9 @@ outfitter korath
 	"Jump Drive"
 	"Korath Banisher"
 	"Korath Detainer"
+	"Korath Disruptor Gun"
 	"Korath Disruptor"
+	"Korath Fire-Lance Turret"
 	"Korath Fire-Lance"
 	"Korath Grab-Strike"
 	"Korath Mine Rack"
@@ -281,9 +305,57 @@ outfitter korath
 	"Thruster (Planetary Class)"
 	"Thruster (Stellar Class)"
 	"Triple Plasma Core"
+	"Vector Engine (Reality Class)"
 	Hyperdrive
 outfitter plugin
+	"Alpha Hermes Frame"
+	"Apotropaic Anti-Missile"
+	"B-1 Achilles Frame"
+	"Balefire Lance"
+	"Balefire Projector"
+	"C-3 Nimbus Frame"
+	"Calypso Weapon"
+	"Capacitor Rack"
+	"Chain Blaster Turret"
+	"Denial Turret"
+	"Deuterium Culture Tanks"
+	"Dual Electron Beam"
+	"Energy Cube"
+	"Flame Thrower"
+	"Fracture Engine"
+	"Heat Sink"
+	"Ion Mortar"
+	"Irm Large Engines"
+	"Katabatic Scanner"
+	"Kinetic Splicer"
+	"Knockout Gas"
+	"Korath Disruptor Gun"
+	"Korath Fire-Lance Turret"
+	"Mass Driver"
+	"Plasma Repeater"
+	"Quad Plasma Turret"
+	"Regional Map"
+	"Shield Modulator"
+	"Shipwright Gear"
+	"Small Ramscoop Module"
+	"Smugglers Fittings"
+	"Storage Cell"
+	"Storage Lockers"
+	"Tekina Engine"
+	"Thrust Module"
+	"Tool Rack"
+	"Transparency Plating"
+	"Type 0 Radiant Engine"
+	"Vector Engine (Reality Class)"
+	Capacitors
 	Deterrence
+	Devastator
+	Harrier
+	pet_battery
+	pet_generator_civilian
+	pet_generator_industrial
+	pet_shielding_complex
+	pet_shielding_planetary
 outfitter pug
 	"Cloaking Device"
 	"Jump Drive"
@@ -347,6 +419,7 @@ outfitter wanderer
 	"Blue Sun Reactor"
 	"Bright Cloud Shielding"
 	"Dark Storm Shielding"
+	"Deuterium Culture Tanks"
 	"Dual Sunbeam Turret"
 	"Large Biochemical Cell"
 	"Moonbeam Turret"

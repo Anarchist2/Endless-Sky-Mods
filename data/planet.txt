@@ -40,6 +40,12 @@ planet "Kar Ik Vot 349"
 	tribute 1
 		threshold 0
 		fleet kar_ik_vot_349
+planet "Kar Ik Vot 637"
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet kar_ik_vot_637
 planet "Korath Raider"
 	bribe 0
 	government "Unknown "
@@ -64,6 +70,12 @@ planet "Met Par Tek 53"
 	tribute 1
 		threshold 0
 		fleet met_par_tek_53
+planet "Model 1024"
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet model_1024
 planet "Model 128"
 	bribe 0
 	government "Unknown "
@@ -190,6 +202,12 @@ planet "Winter Gale"
 	tribute 1
 		threshold 0
 		fleet winter_gale
+planet Apocalypse
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet apocalypse
 planet Archon
 	bribe 0
 	government "Unknown "
@@ -249,6 +267,7 @@ planet Everything
 	outfitter drak
 	outfitter hai
 	outfitter human
+	outfitter irm
 	outfitter korath
 	outfitter plugin
 	outfitter pug
@@ -259,6 +278,7 @@ planet Everything
 	shipyard drak
 	shipyard hai
 	shipyard human
+	shipyard irm
 	shipyard korath
 	shipyard plugin
 	shipyard pug
@@ -285,6 +305,12 @@ planet Hai
 	outfitter hai
 	shipyard hai
 	spaceport ""
+planet Hobby
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet hobby
 planet Human
 	bribe 0
 	description ""
@@ -298,6 +324,13 @@ planet Hurricane
 	tribute 1
 		threshold 0
 		fleet hurricane
+planet Irm
+	bribe 0
+	description ""
+	landscape landscape/station6
+	outfitter irm
+	shipyard irm
+	spaceport ""
 planet Korath
 	bribe 0
 	description ""
