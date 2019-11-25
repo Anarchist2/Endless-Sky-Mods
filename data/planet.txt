@@ -228,17 +228,17 @@ planet Carrier
 		fleet carrier
 planet Coalition
 	bribe 0
-	description ""
+	description `The Coalition is an alliance of three different alien species living in peace with each other: the Saryds, the Kimek, and the Arachi. On many Coalition worlds, all three species live together in harmony, which is made easier by the fact that each species prefers a very different climate and thus gravitates to different parts of a planet. They are ruled by individuals known as the Heliarchs.`
 	landscape landscape/station6
 	outfitter coalition
 	shipyard coalition
-	spaceport ""
+	spaceport `The Coalition is an alliance of three different alien species living in peace with each other: the Saryds, the Kimek, and the Arachi. On many Coalition worlds, all three species live together in harmony, which is made easier by the fact that each species prefers a very different climate and thus gravitates to different parts of a planet. They are ruled by individuals known as the Heliarchs.`
 planet Deprecated
 	bribe 0
-	description ""
+	description ``
 	landscape landscape/station6
 	outfitter deprecated
-	spaceport ""
+	spaceport ``
 planet Derecho
 	bribe 0
 	government "Unknown "
@@ -247,18 +247,18 @@ planet Derecho
 		fleet derecho
 planet Developer
 	bribe 0
-	description ""
+	description ``
 	landscape landscape/station6
 	outfitter developer
 	shipyard developer
-	spaceport ""
+	spaceport ``
 planet Drak
 	bribe 0
-	description ""
+	description `The Drak are supposedly the oldest living species in the galaxy. The Quarg say that the Drak act as something like galactic peacekeepers or police, and will intervene if a species invents a weapon so terrible that it could drive that species to extinction.`
 	landscape landscape/station6
 	outfitter drak
 	shipyard drak
-	spaceport ""
+	spaceport `The Drak are supposedly the oldest living species in the galaxy. The Quarg say that the Drak act as something like galactic peacekeepers or police, and will intervene if a species invents a weapon so terrible that it could drive that species to extinction.`
 planet Dummy
 	bribe 0
 	government "Unknown "
@@ -307,11 +307,11 @@ planet Grasshopper
 		fleet grasshopper
 planet Hai
 	bribe 0
-	description ""
+	description `The Hai are a species of giant, intelligent rodents, who live to the north of human space. They allow any humans who discover their territory to live alongside them, and to trade with them and purchase their technology.`
 	landscape landscape/station6
 	outfitter hai
 	shipyard hai
-	spaceport ""
+	spaceport `The Hai are a species of giant, intelligent rodents, who live to the north of human space. They allow any humans who discover their territory to live alongside them, and to trade with them and purchase their technology.`
 planet Hobby
 	bribe 0
 	government "Unknown "
@@ -320,11 +320,11 @@ planet Hobby
 		fleet hobby
 planet Human
 	bribe 0
-	description ""
+	description ``
 	landscape landscape/station6
 	outfitter human
 	shipyard human
-	spaceport ""
+	spaceport ``
 planet Hurricane
 	bribe 0
 	government "Unknown "
@@ -333,18 +333,18 @@ planet Hurricane
 		fleet hurricane
 planet Irm
 	bribe 0
-	description ""
+	description `The Irm is an inward facing technocratic society, their entire civilization is undertaking the construction of a truly breathtaking megastructure. Although they very obviously despise cooperating with other species due to a lack of trust and no willingness to give them the chance to prove their trust, they have traded with the Hai before whilst observing the rise and fall of the mighty Hai empire.`
 	landscape landscape/station6
 	outfitter irm
 	shipyard irm
-	spaceport ""
+	spaceport `The Irm is an inward facing technocratic society, their entire civilization is undertaking the construction of a truly breathtaking megastructure. Although they very obviously despise cooperating with other species due to a lack of trust and no willingness to give them the chance to prove their trust, they have traded with the Hai before whilst observing the rise and fall of the mighty Hai empire.`
 planet Korath
 	bribe 0
-	description ""
+	description `The Korath are reptilian, bipedal aliens whose territory is almost entirely in ruins: cities destroyed and entire planets scarred by what appears to have been a vicious civil war. Several factions of Korath survive. The "Kor Efreti" live in the shelter of a Quarg ringworld and are on peaceful terms with the Quarg. Other Korath, living as exiles near the galactic core, have been raiding human worlds to steal food and supplies. And deeper in Korath space, two massive armies of automated war drones, known as the Kor Mereti and the Kor Sestor, are locked in an unending struggle. They attack any visitors to their region of space, including the Quarg.`
 	landscape landscape/station6
 	outfitter korath
 	shipyard korath
-	spaceport ""
+	spaceport `The Korath are reptilian, bipedal aliens whose territory is almost entirely in ruins: cities destroyed and entire planets scarred by what appears to have been a vicious civil war. Several factions of Korath survive. The "Kor Efreti" live in the shelter of a Quarg ringworld and are on peaceful terms with the Quarg. Other Korath, living as exiles near the galactic core, have been raiding human worlds to steal food and supplies. And deeper in Korath space, two massive armies of automated war drones, known as the Kor Mereti and the Kor Sestor, are locked in an unending struggle. They attack any visitors to their region of space, including the Quarg.`
 planet Leviathan
 	bribe 0
 	government "Unknown "
@@ -360,25 +360,25 @@ planet Plugins
 	spaceport `This station orbits the spacial phenomenon at the very center of this system, how this system is held together to be so stable is a mystery. There is no need to go running about to find some superior technology, it's all right here!`
 planet Pug
 	bribe 0
-	description ""
+	description `The Quarg claim that the Pug are powerful enough that they could defeat the Quarg, or even the Drak, if they chose to. But the Pug treat warfare like a game. When battling another species, the Pug will limit themselves to ships and weapons that are weak enough that the other species has a chance of defeating them.`
 	landscape landscape/station6
 	outfitter pug
 	shipyard pug
-	spaceport ""
+	spaceport `The Quarg claim that the Pug are powerful enough that they could defeat the Quarg, or even the Drak, if they chose to. But the Pug treat warfare like a game. When battling another species, the Pug will limit themselves to ships and weapons that are weak enough that the other species has a chance of defeating them.`
 planet Quarg
 	bribe 0
-	description ""
+	description `The Quarg are tall, thin, inscrutable aliens who evolved on a very small planet and can live comfortably on worlds with atmosphere so thin that a human being could not breathe it. They discovered spaceflight millions of years ago. Many of them live on artificially constructed ringworlds, including one in human space. They live at peace with most sentient species and claim to be in communication with an even older species named the Drak.`
 	landscape landscape/station6
 	outfitter quarg
 	shipyard quarg
-	spaceport ""
+	spaceport `The Quarg are tall, thin, inscrutable aliens who evolved on a very small planet and can live comfortably on worlds with atmosphere so thin that a human being could not breathe it. They discovered spaceflight millions of years ago. Many of them live on artificially constructed ringworlds, including one in human space. They live at peace with most sentient species and claim to be in communication with an even older species named the Drak.`
 planet Remnant
 	bribe 0
-	description ""
+	description `The Remnant are a group of unusual-looking humans that live in a secluded section of the galaxy. It is unclear how long they have lived apart from the rest of humanity, but they have been free of human influences for long enough that their culture is wildly different from any found in human record. Their buildings seem to be alien in origin, and they communicate amongst each other primarily with sign language. When they do use their voices they sing or chant, rather than speak.`
 	landscape landscape/station6
 	outfitter remnant
 	shipyard remnant
-	spaceport ""
+	spaceport `The Remnant are a group of unusual-looking humans that live in a secluded section of the galaxy. It is unclear how long they have lived apart from the rest of humanity, but they have been free of human influences for long enough that their culture is wildly different from any found in human record. Their buildings seem to be alien in origin, and they communicate amongst each other primarily with sign language. When they do use their voices they sing or chant, rather than speak.`
 planet Solifuge
 	bribe 0
 	government "Unknown "
@@ -399,21 +399,21 @@ planet Tempest
 		fleet tempest
 planet Vanilla
 	bribe 0
-	description ""
+	description ``
 	landscape landscape/station6
 	outfitter vanilla
 	shipyard vanilla
-	spaceport ""
+	spaceport ``
 planet Variants
 	bribe 0
-	description ""
+	description ``
 	landscape landscape/station6
 	shipyard variants
-	spaceport ""
+	spaceport ``
 planet Wanderer
 	bribe 0
-	description ""
+	description `The Wanderers are a bird-like species who inhabit a small region of space adjacent to the Hai. They have been under attack by the "Unfettered" Hai for some time. The Wanderers claim to be peaceful, and most of their ships are not designed for military use.`
 	landscape landscape/station6
 	outfitter wanderer
 	shipyard wanderer
-	spaceport ""
+	spaceport `The Wanderers are a bird-like species who inhabit a small region of space adjacent to the Hai. They have been under attack by the "Unfettered" Hai for some time. The Wanderers claim to be peaceful, and most of their ships are not designed for military use.`
