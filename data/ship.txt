@@ -22,33 +22,33 @@ ship Apocalypse
 		mass 3700
 		ramscoop 7
 		shields 74800
-	drone -96 109 over left
-	drone -96 109 under left
-	drone -96 195 over left
-	drone -96 195 under left
-	drone -96 23 over left
-	drone -96 23 under left
-	drone -96 281 over left
-	drone -96 281 under left
-	drone 96 109 over right
-	drone 96 109 under right
-	drone 96 195 over right
-	drone 96 195 under right
-	drone 96 23 over right
-	drone 96 23 under right
-	drone 96 281 over right
-	drone 96 281 under right
-	engine -129 -101 .6
-	engine -30 486.5 1.2
-	engine -30 486.5 1.2
-	engine -70 472
-	engine 0 499 2
-	engine 129 -101 .6
-	engine 30 486 1.2
-	engine 30 486 1.2
-	engine 70 472
-	gun -22 -520 Devastator
-	gun 22 -520 Devastator
+	drone -103 115 over left
+	drone -103 115 under left
+	drone -103 205.5 over left
+	drone -103 205.5 under left
+	drone -103 25.5 over left
+	drone -103 25.5 under left
+	drone -103 295 over left
+	drone -103 295 under left
+	drone 103 115 over right
+	drone 103 115 under right
+	drone 103 205.5 over right
+	drone 103 205.5 under right
+	drone 103 25.5 over right
+	drone 103 25.5 under right
+	drone 103 295 over right
+	drone 103 295 under right
+	engine -135 -107.5 .6
+	engine -31 510 1.2
+	engine -31 510 1.2
+	engine -74 496
+	engine 0 524 2
+	engine 135 -107.5 .6
+	engine 31 510 1.2
+	engine 31 510 1.2
+	engine 74 496
+	gun -22 -524 Devastator
+	gun 22 -524 Devastator
 	outfits
 		"Apotropaic Anti-Missile" 8
 		"Oginau Engine"
@@ -58,14 +58,14 @@ ship Apocalypse
 		Hyperdrive
 	sprite ship/apocalypse
 	thumbnail thumbnail/apocalypse
-	turret -46 26 "Apotropaic Anti-Missile"
-	turret -46 115 "Apotropaic Anti-Missile"
-	turret -46 204 "Apotropaic Anti-Missile"
-	turret -46 293 "Apotropaic Anti-Missile"
-	turret 46 26 "Apotropaic Anti-Missile"
-	turret 46 115 "Apotropaic Anti-Missile"
-	turret 46 204 "Apotropaic Anti-Missile"
-	turret 46 293 "Apotropaic Anti-Missile"
+	turret -47 115 "Apotropaic Anti-Missile"
+	turret -47 205.5 "Apotropaic Anti-Missile"
+	turret -47 25.5 "Apotropaic Anti-Missile"
+	turret -47 295 "Apotropaic Anti-Missile"
+	turret 47 115 "Apotropaic Anti-Missile"
+	turret 47 205.5 "Apotropaic Anti-Missile"
+	turret 47 25.5 "Apotropaic Anti-Missile"
+	turret 47 295 "Apotropaic Anti-Missile"
 ship Revelation
 	"never disabled"
 	attributes
