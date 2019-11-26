@@ -387,9 +387,9 @@ ship Adel
 	explode "medium explosion" 15
 	explode "small explosion" 20
 	explode "tiny explosion" 10
-	gun -6 -44 "Beam Laser"
-	gun 0 -48 "Korath Fire-Lance"
-	gun 6 -44 "Beam Laser"
+	gun -6 -49.3 "Beam Laser"
+	gun 0 -53 "Korath Fire-Lance"
+	gun 6 -49.3 "Beam Laser"
 	outfits
 		"A255 Atomic Steering"
 		"Beam Laser" 2
@@ -426,16 +426,14 @@ ship Aesalon
 			"hit force" 2400
 			"hull damage" 800
 			"shield damage" 1600
-	engine -17 163
-	engine 17 163
+	engine -19.5 173.5
+	engine 19.5 173.5
 	explode "large explosion" 40
 	explode "medium explosion" 60
 	explode "small explosion" 55
 	explode "tiny explosion" 40
-	gun -17 -94 "Typhoon Launcher"
-	gun -17 -94 "EMP Torpedo Bay"
-	gun 17 -94 "Typhoon Launcher"
-	gun 17 -94 "EMP Torpedo Bay"
+	gun -19.5 -108 "EMP Torpedo Bay"
+	gun 19.5 -108 "EMP Torpedo Bay"
 	outfits
 		"A120 Atomic Thruster"
 		"D41-HY Shield Generator"
@@ -453,14 +451,12 @@ ship Aesalon
 		"Orca Plasma Thruster"
 		"Outfits Expansion"
 		"Scram Drive"
-		"Typhoon Launcher" 2
-		"Typhoon Torpedo" 60
 	sprite ship/aesalon
 	thumbnail thumbnail/aesalon
-	turret -16 -21 "Laser Turret"
-	turret -46 34 "Electron Turret"
-	turret 16 -21 "Laser Turret"
-	turret 46 34 "Electron Turret"
+	turret -63 45.5 "Laser Turret"
+	turret 0 44.5 "Electron Turret"
+	turret 0 7.5 "Laser Turret"
+	turret 63 45.5 "Electron Turret"
 ship Bennu
 	"final explode" "final explosion medium"
 	attributes
@@ -484,16 +480,16 @@ ship Bennu
 			"hull damage" 600
 			"shield damage" 1100
 	description `Firebirds fought on both sides of the Alpha Wars over half a millennium ago. There is a reason why the Firebird has been revered in all corners of human space as a warship to deal with any situation. It only makes sense to steal and use alien technology when you already have the best of the best that humanity has to offer, and these pirates live in a hotbed of alien activity.`
-	engine -34 72
-	engine 34 72
+	engine -36 78
+	engine 36 78
 	explode "large explosion" 8
 	explode "medium explosion" 24
 	explode "small explosion" 36
 	explode "tiny explosion" 18
-	gun -29 -28 "Inhibitor Cannon"
-	gun -40 -13 "Plasma Repeater"
-	gun 29 -28 "Inhibitor Cannon"
-	gun 40 -13 "Plasma Repeater"
+	gun -30.5 -28.5 "Inhibitor Cannon"
+	gun -43 -12 "Plasma Repeater"
+	gun 30.5 -28.5 "Inhibitor Cannon"
+	gun 43 -12 "Plasma Repeater"
 	outfits
 		"Bullfrog Anti-Missile" 2
 		"Fission Reactor"
@@ -513,8 +509,8 @@ ship Bennu
 		Hyperdrive
 	sprite ship/bennu
 	thumbnail thumbnail/bennu
-	turret 0 3 "Bullfrog Anti-Missile"
-	turret 0 19 "Bullfrog Anti-Missile"
+	turret -41.5 44 "Bullfrog Anti-Missile"
+	turret 41.5 44 "Bullfrog Anti-Missile"
 ship Bulwark
 	"final explode" "final explosion large"
 	attributes
