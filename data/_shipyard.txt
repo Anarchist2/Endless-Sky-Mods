@@ -1,4 +1,4 @@
-shipyard Havenworks
-	"Marauder Firebird"
-	"Marauder Leviathan"
-	"Modified Argosy"
+shipyard plugin
+	"Quarg Oriole"
+shipyard quarg
+	"Quarg Oriole"

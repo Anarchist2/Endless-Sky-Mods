@@ -1,2 +1,0 @@
-galaxy label_graveyard
-	pos -95 615

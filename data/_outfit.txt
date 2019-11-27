@@ -1,8 +1,57 @@
-outfit "Large Collector Module"
-	"ion resistance" .3
+outfit "Antimatter Core"
+	"active cooling" 34.25
+	"cooling energy" 6.85
+	"energy generation" 95.9
+	"heat generation" 115.1
+	"outfit space" -137
+	cost 109600000
+	mass 137
+	unplunderable 1
+outfit "Intrusion Countermeasures"
+	"capture defense" 120
+	category "Hand to Hand"
+	plural "Intrusion Countermeasures"
+	unplunderable 1
 outfit "Medium Graviton Thruster"
-	"reverse thrust" 80
-	"reverse thrusting energy" 20
-	"reverse thrusting heat" 10
-outfit "Small Collector Module"
-	"ion resistance" .1
+	"engine capacity" -67
+	"flare sprite" "effect/medium graviton flare"
+	"outfit space" -67
+	"reverse thrust" 30.7
+	"reverse thrusting energy" 4.85
+	"reverse thrusting heat" 3.225
+	"thrusting energy" 9.7
+	"thrusting heat" 6.45
+	cost 1650000
+	mass 67
+	thrust 61.4
+outfit "Medium Graviton Steering"
+	"turning energy" 4.9
+	"turning heat" 3.25
+	cost 1375000
+	turn 1637
+outfit "Nanotech Battery"
+	"active cooling" 12.5
+	"cooling energy" 2.5
+outfit "Quantum Shield Generator"
+	"active cooling" 25.25
+	"cooling energy" 5.05
+	"outfit space" -101
+	"shield energy" 14.4
+	"shield generation" 14.4
+	cost 11530000
+	mass 101
+outfit "Quarg Anti-Missile"
+	"active cooling" 10
+	"cooling energy" 2
+	weapon
+		"anti-missile" 30
+		velocity 750
+outfit "Quarg Skylance"
+	"active cooling" 15
+	"cooling energy" 3
+	weapon
+		"firing energy" 15
+		"firing heat" 5
+		"hull damage" 20
+		"shield damage" 25
+		"turret turn" 2.1

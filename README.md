@@ -1,2 +1,2 @@
-# Adde Endless Sky
-Any Adde content that doesn't fit in another or deserve it's own branch. This includes many new outfits and ships for various aspects of the vanilla game, even new missions here and there.
+# Adde Endless Sky | Quarg Expansion
+This plugin was made to get an early glimpse into the possible future of the Quarg faction. A PR on hold is where a large part of this plugin came from, however a small part of it is mine and I intend it to fit in somewhat.

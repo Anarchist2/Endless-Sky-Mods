@@ -1,9 +1,0 @@
-fleet fallen
-	government Fallen
-	personality
-		coward
-		disables
-		heroic
-		mute
-	variant
-		"A-3 Lexel" 2
