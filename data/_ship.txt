@@ -33,18 +33,15 @@ ship "Quarg Wardragon"
 	attributes
 		"cargo space" 10
 		"engine capacity" 101
-		"fuel capacity" 800
 		"heat dissipation" .6
 		"outfit space" 555
 		"required crew" 56
-		"weapon capacity" 200
 		bunks 98
 		category "Light Warship"
 		cost 39260000
 		drag 4.8
 		hull 49400
 		mass 330
-		ramscoop 10
 		shields 121000
 		weapon
 			"blast radius" 120

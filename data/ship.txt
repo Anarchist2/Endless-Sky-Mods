@@ -1,3 +1,77 @@
+ship "Quarg Balaur"
+	"final explode" "final explosion huge"
+	attributes
+		"cargo space" 890
+		"engine capacity" 290
+		"fuel capacity" 1600
+		"heat dissipation" .5
+		"outfit space" 2060
+		"required crew" 308
+		"weapon capacity" 868
+		bunks 862
+		category "Heavy Warship"
+		cost 34400000
+		drag 38.2
+		hull 590000
+		mass 3170
+		ramscoop 14
+		shields 738000
+		weapon
+			"blast radius" 470
+			"hit force" 2800
+			"hull damage" 1300
+			"shield damage" 2100
+	description "The Balaur is a Quarg capital ship, responsible for the coordination and leadership of some of the fiercest fleets of ships that roam the Milky Way."
+	explode "tiny explosion" 22
+	explode "small explosion" 30
+	explode "medium explosion" 38
+	explode "large explosion" 54
+	explode "huge explosion" 32
+	fighter 0 0 over left
+	fighter 0 0 over right
+	fighter 0 0 under left
+	fighter 0 0 under right
+	gun 0 0
+	gun 0 0
+	gun 0 0
+	gun 0 0
+	gun 0 0
+	outfits
+		"Antimatter Core" 2
+		"Central Repair Hub" 3
+		"Intrusion Countermeasures" 237
+		"Jump Drive"
+		"Large Graviton Steering"
+		"Large Graviton Thruster"
+		"Medium Graviton Steering"
+		"Medium Graviton Thruster"
+		"Nanotech Battery" 2
+		"Peripheral Repair Hub"
+		"Quantum Shield Generator" 2
+		"Quarg Anti-Missile" 5
+		"Quarg Ranseur" 4
+		"Quarg Skydagger" 8
+		"Quarg Skylance" 6
+		"Singularity Core"
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
 ship "Quarg Oriole"
 	"final explode" "final explosion small"
 	attributes
@@ -41,3 +115,103 @@ ship "Quarg Oriole"
 		"Tachyon Core"
 	turret -15.5 44 "Quarg Skydagger"
 	turret 15.5 44 "Quarg Skydagger"
+ship "Quarg Skylark "
+	"final explode" "final explosion medium"
+	attributes
+		"cargo space" 200
+		"engine capacity" 98
+		"fuel capacity" 1000
+		"heat dissipation" .7
+		"hull energy" 5
+		"hull repair rate" 5
+		"outfit space" 435
+		"required crew" 29
+		"weapon capacity" 126
+		bunks 50
+		category Fighter
+		cost 35334000
+		drag 6.1
+		hull 59000
+		mass 360
+		ramscoop 10
+		shields 100000
+		weapon
+			"blast radius" 250
+			"hit force" 1500
+			"hull damage" 500
+			"shield damage" 1000
+	description "The Skylark is used by the Quarg as a freighter and warship."
+	engine -15 117
+	engine 15 117
+	explode "huge explosion" 20
+	explode "large explosion" 40
+	explode "medium explosion" 30
+	explode "small explosion" 16
+	explode "tiny explosion" 12
+	outfits
+		"Fluxion Shield Generator"
+		"Intrusion Countermeasures" 29
+		"Jump Drive"
+		"Medium Graviton Steering"
+		"Nanotech Battery"
+		"Peripheral Repair Hub"
+		"Quarg Anti-Missile" 2
+		"Quarg Skydagger" 2
+		"Small Graviton Thruster"
+		"Tachyon Core"
+	sprite ship/skylark
+	thumbnail thumbnail/skylark
+	turret -12 -80 "Quarg Skylance"
+	turret -34 24 "Quarg Anti-Missile"
+	turret 12 -80 "Quarg Skylance"
+	turret 34 24 "Quarg Anti-Missile"
+ship "Quarg Wardragon "
+	"final explode" "final explosion medium"
+	attributes
+		"cargo space" 10
+		"engine capacity" 101
+		"fuel capacity" 800
+		"heat dissipation" .6
+		"hull energy" 5
+		"hull repair rate" 5
+		"outfit space" 555
+		"required crew" 56
+		"weapon capacity" 200
+		bunks 98
+		category Fighter
+		cost 39260000
+		drag 4.8
+		hull 49400
+		mass 330
+		ramscoop 10
+		shields 121000
+		weapon
+			"blast radius" 250
+			"hit force" 1800
+			"hull damage" 600
+			"shield damage" 1200
+	description "The Wardragon is used by the Quarg as a light warship."
+	engine -14 47
+	engine 14 47
+	explode "huge explosion" 20
+	explode "large explosion" 40
+	explode "medium explosion" 30
+	explode "small explosion" 16
+	explode "tiny explosion" 12
+	outfits
+		"Infimum Shield Generator"
+		"Intrusion Countermeasures" 56
+		"Jump Drive"
+		"Medium Graviton Steering"
+		"Nanotech Battery"
+		"Peripheral Repair Hub"
+		"Quarg Anti-Missile" 2
+		"Quarg Skylance" 2
+		"Singularity Core"
+		"Small Graviton Thruster"
+	sprite ship/wardragon
+	thumbnail thumbnail/wardragon
+	turret -28 7 "Quarg Skylance"
+	turret -9 -14 "Quarg Anti-Missile"
+	turret 28 7 "Quarg Skylance"
+	turret 9 -14 "Quarg Anti-Missile"

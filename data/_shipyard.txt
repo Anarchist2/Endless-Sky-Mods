@@ -1,4 +1,10 @@
 shipyard plugin
+	"Quarg Balaur"
 	"Quarg Oriole"
+	"Quarg Skylark "
+	"Quarg Wardragon "
 shipyard quarg
+	"Quarg Balaur"
 	"Quarg Oriole"
+	"Quarg Skylark "
+	"Quarg Wardragon "

@@ -14,7 +14,6 @@ outfit "Intrusion Countermeasures"
 	unplunderable 1
 outfit "Medium Graviton Thruster"
 	"engine capacity" -67
-	"flare sprite" "effect/medium graviton flare"
 	"outfit space" -67
 	"reverse thrust" 30.7
 	"reverse thrusting energy" 4.85
