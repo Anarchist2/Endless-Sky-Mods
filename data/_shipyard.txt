@@ -2,3 +2,36 @@ shipyard Havenworks
 	"Marauder Firebird"
 	"Marauder Leviathan"
 	"Modified Argosy"
+shopyard human
+	"Paltry Freighter"
+	Adel
+	Aesalon
+	Bennu
+	Bulwark
+	Hornet
+	Hydra
+shipyard korath
+	"Kar Ik Vot 637"
+	"Korath Stalker"
+	"Model 1024"
+shipyard plugin
+	"A-3 Lexel"
+	"A-60 Olisivant"
+	"B-10 Warden"
+	"Kar Ik Vot 637"
+	"Korath Stalker"
+	"Model 1024"
+	"Paltry Freighter"
+	Adel
+	Aesalon
+	Bennu
+	Bulwark
+	Hobby
+	Hornet
+	Hydra
+	Sarkic
+	Scud
+shipyard remnant
+	Hobby
+shipyard wanderer
+	Scud
