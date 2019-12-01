@@ -22,20 +22,26 @@ ship "Quarg Balaur"
 			"hull damage" 1300
 			"shield damage" 2100
 	description "The Balaur is a Quarg capital ship, responsible for the coordination and leadership of some of the fiercest fleets of ships that roam the Milky Way."
+	engine -137 1147 2.5
+	engine 0 1174 6.5
+	engine 137 1147 2.5
 	explode "tiny explosion" 22
 	explode "small explosion" 30
 	explode "medium explosion" 38
 	explode "large explosion" 54
 	explode "huge explosion" 32
-	fighter 0 0 over left
-	fighter 0 0 over right
-	fighter 0 0 under left
-	fighter 0 0 under right
-	gun 0 0
-	gun 0 0
-	gun 0 0
-	gun 0 0
-	gun 0 0
+	fighter -125 824 under left
+	fighter -157 330 under left
+	fighter -173 -91 under left
+	fighter 125 824 under right
+	fighter 157 330 under right
+	fighter 173 -91 under right
+	gun -37 -1184 "Quarg Ranseur"
+	gun -63 -1178 "Quarg Ranseur"
+	gun 0 -1169
+	gun 0 -1184 "Quarg Ranseur"
+	gun 37 -1184 "Quarg Ranseur"
+	gun 63 -1178 "Quarg Ranseur"
 	outfits
 		"Antimatter Core" 2
 		"Central Repair Hub" 3
@@ -49,29 +55,29 @@ ship "Quarg Balaur"
 		"Peripheral Repair Hub"
 		"Quantum Shield Generator" 2
 		"Quarg Anti-Missile" 5
-		"Quarg Ranseur" 4
-		"Quarg Skydagger" 8
+		"Quarg Ranseur" 5
+		"Quarg Skydagger" 6
 		"Quarg Skylance" 6
 		"Singularity Core"
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
-	turret 0 0
+	sprite ship/quarg_balaur
+	thumbnail thumbnail/quarg_balaur
+	turret -112 -674 "Quarg Skydagger"
+	turret -112 -725 "Quarg Skydagger"
+	turret -128 950 "Quarg Anti-Missile"
+	turret -175 -333 "Quarg Skylance"
+	turret -183 57 "Quarg Anti-Missile"
+	turret -195 947 "Quarg Skydagger"
+	turret -209 -267 "Quarg Skylance"
+	turret -247 56 "Quarg Skylance"
+	turret 0 -539 "Quarg Anti-Missile"
+	turret 112 -674 "Quarg Skydagger"
+	turret 112 -725 "Quarg Skydagger"
+	turret 128 950 "Quarg Anti-Missile"
+	turret 175 -333 "Quarg Skylance"
+	turret 183 57 "Quarg Anti-Missile"
+	turret 195 947 "Quarg Skydagger"
+	turret 209 -267 "Quarg Skylance"
+	turret 247 56 "Quarg Skylance"
 ship "Quarg Oriole"
 	"final explode" "final explosion small"
 	attributes
