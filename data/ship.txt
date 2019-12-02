@@ -1,21 +1,21 @@
 ship "Quarg Balaur"
 	"final explode" "final explosion huge"
 	attributes
-		"cargo space" 890
-		"engine capacity" 290
-		"fuel capacity" 1600
-		"heat dissipation" .5
-		"outfit space" 2060
-		"required crew" 308
+		"cargo space" 1290
+		"engine capacity" 640
+		"fuel capacity" 2200
+		"heat dissipation" .2
+		"outfit space" 2760
+		"required crew" 808
 		"weapon capacity" 868
-		bunks 862
+		bunks 3362
 		category "Heavy Warship"
-		cost 34400000
+		cost 2376400000
 		drag 38.2
-		hull 590000
-		mass 3170
+		hull 1660000
+		mass 11470
 		ramscoop 14
-		shields 738000
+		shields 2138000
 		weapon
 			"blast radius" 470
 			"hit force" 2800
@@ -43,22 +43,22 @@ ship "Quarg Balaur"
 	gun 37 -1184 "Quarg Ranseur"
 	gun 63 -1178 "Quarg Ranseur"
 	outfits
-		"Antimatter Core" 2
-		"Central Repair Hub" 3
-		"Intrusion Countermeasures" 237
+		"Antimatter Core" 3
+		"Central Repair Hub" 5
+		"Intrusion Countermeasures" 1362
 		"Jump Drive"
-		"Large Graviton Steering"
-		"Large Graviton Thruster"
+		"Large Graviton Steering" 2
+		"Large Graviton Thruster" 2
 		"Medium Graviton Steering"
-		"Medium Graviton Thruster"
+		"Medium Graviton Thruster" 3
 		"Nanotech Battery" 2
 		"Peripheral Repair Hub"
-		"Quantum Shield Generator" 2
+		"Quantum Shield Generator" 4
 		"Quarg Anti-Missile" 5
 		"Quarg Ranseur" 5
 		"Quarg Skydagger" 6
 		"Quarg Skylance" 6
-		"Singularity Core"
+		"Small Graviton Thruster"
 	sprite ship/quarg_balaur
 	thumbnail thumbnail/quarg_balaur
 	turret -112 -674 "Quarg Skydagger"
