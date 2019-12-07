@@ -214,6 +214,7 @@ shipyard vanilla
 	"Tek Far 71 - Lek"
 	"Tek Far 78 - Osk"
 	"Unknown Ship Type"
+	"Ursa Polaris"
 	"Violin Spider"
 	"Void Sprite"
 	"Water Bug"
