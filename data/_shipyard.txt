@@ -33,5 +33,9 @@ shipyard plugin
 	Scud
 shipyard remnant
 	Hobby
+shipyard variants
+	leviathan_plasma_repeater
+	model_8_disruptor
+	model_8_minelayer
 shipyard wanderer
 	Scud
