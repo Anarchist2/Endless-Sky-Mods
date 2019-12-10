@@ -1,10 +1,10 @@
 planet "Pug Kaelin"
-	"required reputation" 2
-	description `This Pug world seems to fit with the other Pug worlds that you know of, presumably they are all outposts. Large cities with towers of indescribable design encompass a large portion of the main continent. The remainder of the planet remains practically untouched by anything not native to this planet, as if the Pug cities were simply lowered down onto the land rather than built up over time.`
+	"required reputation" -1000
+	description `The world of Pug Kaelin, presumably an ancient outpost, seems to be completely uninhabited. Large, empty cities with towers of indescribable design encompass a portion of one single continent. The rest of the land remains almost untouched by anything not native to this planet, as if the buildings were simply lowered down onto the land rather than built up over time.`
 	landscape land/myrabella5
 	security 1
-	spaceport `The spaceport here can be described no other way than impressive, it is the largest tower, placed directly central of the gargantuan city. With a base almost looking big enough to pass as a sizable village, very quickly getting thinner as it raises into the cities airspace.`
-	spaceport `Reaching unimaginable heights many would consider impossible, the tower is more than the planets spaceport, it is quite literally the epicenter for everything from logistics to residence.`
+	spaceport `The only word you can think of to describe the spaceport is "impressive". It is on the top of the largest tower, placed in the exact centre of one gargantuan city. With a base almost looking big enough to pass as a sizable village, very quickly getting thinner as it raises into the cities airspace.`
+	spaceport `Tiny, four-legged robots walk on the walls of every room, cleaning them in a matter of seconds. You can see more on the road below, and you presume they are everywhere in this city; this makes impossible to estimate how long the planet has been abandoned, since everything here is perfect and clean.`
 planet "Relic Station"
 	description `Everything here is enigmatic and frankly alien. The passageways are incomprehensibly large and the walkways are guided by unbroken blinding lights that follow up the edges of the doorways.`
 	description `Mazes of endless halls and slated walls seem designed to disorient visitors. It would be easy to lose yourself here, both your person and your mind.`
