@@ -511,6 +511,42 @@ ship Bennu
 	thumbnail thumbnail/bennu
 	turret -41.5 44 "Bullfrog Anti-Missile"
 	turret 41.5 44 "Bullfrog Anti-Missile"
+ship Bladewood
+	"final explode" "final explosion large"
+	attributes
+		"fuel capacity" 700
+		"heat dissipation" .4
+		drag 16
+		hull 24700
+		mass 940
+		shields 16900
+		weapon
+			"blast radius" 250
+			"shield damage" 3600
+			"hull damage" 1800
+			"hit force" 5400
+	engine 0 0
+	engine 0 0
+	engine 0 0 2.2
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	explode "huge explosion" 10
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	fighter 0 0
+	gun 0 0
+	gun 0 0
+	gun 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
 ship Bulwark
 	"final explode" "final explosion large"
 	attributes
