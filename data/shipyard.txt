@@ -102,6 +102,11 @@ shipyard human
 	Splinter
 	Vanguard
 	Wasp
+shipyard ka'het
+	Faes'mar
+	Maeri'het
+	Selii'mar
+	Telis'het
 shipyard korath
 	"Far Lek 14"
 	"Far Osk 27"
@@ -241,6 +246,7 @@ shipyard vanilla
 	Dagger
 	Derecho
 	Dreadnought
+	Faes'mar
 	Falcon
 	Finch
 	Firebird
@@ -263,6 +269,7 @@ shipyard vanilla
 	Kestrel
 	Lance
 	Leviathan
+	Maeri'het
 	Manta
 	Mule
 	Nanobot
@@ -278,12 +285,14 @@ shipyard vanilla
 	Riptide
 	Roost
 	Scout
+	Selii'mar
 	Shuttle
 	Skein
 	Solifuge
 	Sparrow
 	Splinter
 	Starling
+	Telis'het
 	Tempest
 	Tern
 	Vanguard
@@ -342,6 +351,7 @@ shipyard variants
 	"Derecho (Tough)"
 	"Derecho (Turret)"
 	"Dreadnought (Jump)"
+	"Faes'mar (Strong)"
 	"Falcon (Heavy)"
 	"Falcon (Laser)"
 	"Falcon (Plasma)"
@@ -414,6 +424,9 @@ shipyard variants
 	"Leviathan (Heavy)"
 	"Leviathan (Laser)"
 	"Lightning Bug (Pulse)"
+	"Maeri'het (Disable-able)"
+	"Maeri'het (EMP)"
+	"Maeri'het (EMP, Disable-able)"
 	"Manta (Mark II)"
 	"Manta (Nuclear)"
 	"Manta (Proton)"
@@ -480,6 +493,11 @@ shipyard variants
 	"Starling (Thrasher)"
 	"Tek Far 71 - Lek (Close Quarters)"
 	"Tek Far 78 - Osk (Close Quarters)"
+	"Telis'het (Disable-able)"
+	"Telis'het (EMP)"
+	"Telis'het (EMP, Disable-able)"
+	"Telis'het (Guns)"
+	"Telis'het (Guns, Disable-able)"
 	"Tempest (Heavy)"
 	"Tempest (Missile)"
 	"Vanguard (Missile)"

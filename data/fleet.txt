@@ -127,6 +127,11 @@ fleet lightning_bug
 	personality heroic
 	variant
 		"Lightning Bug"
+fleet maeri'het
+	government "Unknown "
+	personality heroic
+	variant
+		Maeri'het
 fleet met_par_tek_53
 	government "Unknown "
 	personality heroic
@@ -253,6 +258,11 @@ fleet tek_far_78_osk
 	variant
 		"Far Osk 27" 9
 		"Tek Far 78 - Osk"
+fleet telis'het
+	government "Unknown "
+	personality heroic
+	variant
+		Telis'het
 fleet tempest
 	government "Unknown "
 	personality heroic

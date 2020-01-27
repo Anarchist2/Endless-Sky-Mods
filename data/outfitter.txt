@@ -235,6 +235,15 @@ outfitter human
 	Ramscoop
 	Supercapacitor
 	Torpedo
+outfitter ka'het
+	"Ka'het Annihilator Turret"
+	"Ka'het Annihilator"
+	"Ka'het EMP Deployer"
+	"Ka'het Primary Cooling"
+	"Ka'het Ravager Beam"
+	"Ka'het Ravager Turret"
+	"Ka'het Shield Restorer"
+	"Ka'het Support Cooling"
 outfitter korath
 	"Command Center"
 	"Control Transceiver"
@@ -460,6 +469,14 @@ outfitter vanilla
 	"Javelin Storage Crate"
 	"Jump Drive (Broken)"
 	"Jump Drive"
+	"Ka'het Annihilator Turret"
+	"Ka'het Annihilator"
+	"Ka'het EMP Deployer"
+	"Ka'het Primary Cooling"
+	"Ka'het Ravager Beam"
+	"Ka'het Ravager Turret"
+	"Ka'het Shield Restorer"
+	"Ka'het Support Cooling"
 	"Korath Banisher"
 	"Korath Detainer"
 	"Korath Disruptor"

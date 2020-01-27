@@ -351,6 +351,12 @@ planet Leviathan
 	tribute 1
 		threshold 0
 		fleet leviathan
+planet Maeri'het
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet maeri'het
 planet Plugins
 	bribe 0
 	description `This station orbits the spacial phenomenon at the very center of this system, how this system is held together to be so stable is a mystery. There is no need to go running about to find some superior technology, it's all right here!`
@@ -391,6 +397,12 @@ planet Starling
 	tribute 1
 		threshold 0
 		fleet starling
+planet Telis'het
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet telis'het
 planet Tempest
 	bribe 0
 	government "Unknown "

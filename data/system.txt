@@ -274,6 +274,10 @@ system Omnis
 		distance 1420
 		offset 220
 		sprite sprite/station8
+	object Ka'het
+		distance 1420
+		offset 100
+		sprite sprite/station8
 	object Korath
 		distance 1420
 		offset 120
@@ -282,6 +286,10 @@ system Omnis
 		distance 2080
 		offset 5
 		sprite ship/leviathan
+	object Maeri'het
+		distance 1860
+		offset 97
+		sprite ship/maeri'het
 	object Plugins
 		distance 444
 		offset 45
@@ -306,6 +314,10 @@ system Omnis
 		distance 1980
 		offset 35
 		sprite ship/starling
+	object Telis'het
+		distance 1900
+		offset 102
+		sprite ship/telis'het
 	object Tempest
 		distance 2140
 		offset 166

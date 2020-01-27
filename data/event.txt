@@ -1065,6 +1065,12 @@ event x100_battles
 		tribute 1
 			threshold 0
 			fleet leviathan 100
+	planet Maeri'het
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet maeri'het 100
 	planet Sarkic
 		bribe 0
 		government "Unknown "
@@ -1083,6 +1089,12 @@ event x100_battles
 		tribute 1
 			threshold 0
 			fleet starling 100
+	planet Telis'het
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet telis'het 100
 	planet Tempest
 		bribe 0
 		government "Unknown "
@@ -1354,6 +1366,12 @@ event x10_battles
 		tribute 1
 			threshold 0
 			fleet leviathan 10
+	planet Maeri'het
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet maeri'het 10
 	planet Sarkic
 		bribe 0
 		government "Unknown "
@@ -1372,6 +1390,12 @@ event x10_battles
 		tribute 1
 			threshold 0
 			fleet starling 10
+	planet Telis'het
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet telis'het 10
 	planet Tempest
 		bribe 0
 		government "Unknown "
@@ -1643,6 +1667,12 @@ event x1_battles
 		tribute 1
 			threshold 0
 			fleet leviathan
+	planet Maeri'het
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet maeri'het
 	planet Sarkic
 		bribe 0
 		government "Unknown "
@@ -1661,6 +1691,12 @@ event x1_battles
 		tribute 1
 			threshold 0
 			fleet starling
+	planet Telis'het
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet telis'het
 	planet Tempest
 		bribe 0
 		government "Unknown "
