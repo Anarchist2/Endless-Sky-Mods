@@ -1,35 +1,3 @@
-system "Pug Aki'il"
-	asteroids "large metal" 47 5
-	asteroids "large rock" 2 10
-	asteroids "medium metal" 100 8
-	asteroids "medium rock" 4 5
-	asteroids "small metal" 48 6
-	asteroids "small rock" 4 8
-	government Pug
-	object
-		distance 1106
-		period 667
-		sprite planet/rock7
-	object
-		distance 149
-		period 33
-		sprite planet/rock18
-	object
-		distance 2637
-		period 2456
-		sprite planet/neptune
-	object
-		distance 497
-		period 201
-		sprite planet/desert7
-	object "Pug Kaelin"
-		distance 824
-		period 429
-		sprite planet/ocean3
-	object
-		period 10
-		sprite star/k0
-	pos -83 722
 system Aurigae
 	asteroids "large metal" 28 3
 	asteroids "large rock" 14 2
@@ -79,7 +47,6 @@ system Celiatis
 	asteroids "small metal" 3 2
 	asteroids "small rock" 7 2
 	government Uninhabited
-	link Delia
 	link Mafari
 	minables copper 7 3
 	minables iron 30 2
@@ -111,52 +78,6 @@ system Celiatis
 		period 10
 		sprite star/k5
 	pos -136 759
-system Delia
-	asteroids "large metal" 10 9
-	asteroids "large rock" 11 5
-	asteroids "medium metal" 6 5
-	asteroids "medium rock" 31 6
-	asteroids "small metal" 7 8
-	asteroids "small rock" 76 6
-	government Uninhabited
-	link Celiatis
-	link Dixere
-	link Giribea
-	minables copper 1 7
-	minables lead 3 12
-	minables tungsten 3 11
-	object
-		distance 2044
-		period 1676
-		sprite planet/gas1
-		object
-			distance 229
-			period 13
-			sprite planet/oberon
-		object
-			distance 336
-			period 24
-			sprite planet/rock14
-	object
-		distance 346
-		period 117
-		sprite planet/cloud1
-		object
-			distance 152
-			period 15
-			sprite planet/ice0
-	object
-		distance 925
-		period 510
-		sprite planet/gas6
-		object
-			distance 306
-			period 13
-			sprite planet/rock7
-	object
-		period 10
-		sprite star/k0
-	pos -41 757
 system Diespiter
 	asteroids "large metal" 76 3
 	asteroids "large rock" 3 1
@@ -192,42 +113,6 @@ system Diespiter
 		period 10
 		sprite star/k5-old
 	pos 332 210
-system Dixere
-	asteroids "large metal" 5 6
-	asteroids "large rock" 2 3
-	asteroids "medium metal" 7 5
-	asteroids "medium rock" 11 6
-	asteroids "small metal" 3 6
-	asteroids "small rock" 1 5
-	government Uninhabited
-	link Delia
-	link Feraticus
-	minables lead 2 6
-	minables silver 1 7
-	object
-		distance 204
-		period 42
-		sprite planet/lava4
-	object
-		distance 2254
-		period 1567
-		sprite planet/gas3
-	object
-		distance 452
-		period 141
-		sprite planet/dust5
-	object
-		distance 617
-		period 224
-		sprite planet/lava5
-	object
-		distance 794
-		period 328
-		sprite planet/dust6
-	object
-		period 13
-		sprite star/k5
-	pos 33 708
 system Egeria
 	asteroids "large metal" 5 4
 	asteroids "large rock" 9 7
@@ -266,105 +151,6 @@ system Egeria
 		period 389
 		sprite planet/wormhole-red
 	pos 288 146
-system Esix
-	asteroids "large metal" 1 1
-	asteroids "large rock" 1 2
-	asteroids "small metal" 1 2
-	government Uninhabited
-	link Gerenus
-	link Nona
-	link Paeli
-	link Queri
-	object
-		distance 1019
-		period 553
-		sprite planet/gas14
-		object
-			distance 216
-			period 12
-			sprite planet/rock7
-		object
-			distance 366
-			period 28
-			sprite planet/lava0
-		object
-			distance 473
-			period 41
-			sprite planet/ice0
-		object
-			distance 616
-			period 62
-			sprite planet/rock0
-	object
-		distance 210
-		period 51
-		sprite planet/dust6
-	object
-		distance 2331
-		period 1913
-		sprite planet/uranus
-		object
-			distance 223
-			period 14
-			sprite planet/callisto
-	object
-		distance 42
-		period 17
-		sprite star/m0
-	object
-		distance 58
-		offset 180
-		period 17
-		sprite star/m4
-	object graveyard_wormhole2
-		distance 1342
-		period 411
-		sprite planet/wormhole-red
-	pos 142 532
-system Fearis
-	asteroids "large metal" 1 1
-	asteroids "large rock" 2 2
-	asteroids "medium rock" 7 1
-	asteroids "small rock" 1 4
-	government Uninhabited
-	link Feraticus
-	link Lire
-	object
-		distance 1035
-		period 405
-		sprite planet/gas12
-		object
-			distance 263
-			period 11
-			sprite planet/miranda
-		object
-			distance 390
-			period 20
-			sprite planet/dust5
-	object
-		distance 1783
-		period 916
-		sprite planet/gas10
-		object
-			distance 207
-			period 15
-			sprite planet/ice0
-	object
-		distance 279
-		period 56
-		sprite planet/desert5
-		object
-			distance 145
-			period 19
-			sprite planet/lava0
-	object
-		period 10
-		sprite star/g0
-	object graveyard_wormhole
-		distance 1529
-		period 782
-		sprite planet/wormhole-red
-	pos -16 643
 system Felii
 	asteroids "large metal" 1 3
 	government Uninhabited
@@ -401,144 +187,6 @@ system Felii
 		period 10
 		sprite star/m0
 	pos -209 817
-system Feraticus
-	asteroids "large metal" 1 3
-	asteroids "large rock" 5 6
-	asteroids "medium metal" 2 4
-	asteroids "medium rock" 4 5
-	asteroids "small metal" 1 4
-	asteroids "small rock" 2 6
-	government Uninhabited
-	link Dixere
-	link Fearis
-	link Giribea
-	link Relifer
-	minables iron 1 7
-	minables silver 2 8
-	object
-		distance 1663
-		period 825
-		sprite planet/forest4
-		object
-			distance 183
-			period 22
-			sprite planet/dust3
-	object
-		distance 169
-		period 26
-		sprite planet/lava3
-	object
-		distance 2128
-		period 1195
-		sprite planet/gas4
-	object
-		distance 536
-		period 151
-		sprite planet/ice8
-	object
-		distance 988
-		period 378
-		sprite planet/gas6
-		object
-			distance 278
-			period 11
-			sprite planet/rock14
-	object
-		period 10
-		sprite star/g0
-	pos 58 630
-system Fereti
-	asteroids "large metal" 1 2
-	asteroids "large rock" 2 1
-	asteroids "medium rock" 3 1
-	asteroids "small rock" 2 2
-	government Uninhabited
-	link Lire
-	object
-		distance 2276
-		period 1737
-		sprite planet/gas6
-		object
-			distance 279
-			period 11
-			sprite planet/io
-		object
-			distance 387
-			period 19
-			sprite planet/desert4
-		object
-			distance 485
-			period 27
-			sprite planet/lava0
-	object
-		distance 337
-		period 98
-		sprite planet/desert8
-		object
-			distance 139
-			period 21
-			sprite planet/dust1
-	object
-		distance 674
-		period 280
-		sprite planet/callisto
-	object
-		distance 845
-		period 393
-		sprite planet/dust5
-	object
-		period 10
-		sprite star/g5
-	pos -39 600
-system Gerenus
-	asteroids "large metal" 5 5
-	asteroids "large rock" 5 4
-	asteroids "medium metal" 33 8
-	asteroids "medium rock" 53 12
-	asteroids "small metal" 1 7
-	asteroids "small rock" 12 11
-	government Uninhabited
-	link Esix
-	link Nona
-	minables aluminum 6 11
-	minables copper 14 19
-	minables iron 14 20
-	object
-		distance 1094
-		period 579
-		sprite planet/neptune
-		object
-			distance 226
-			period 16
-			sprite planet/dust5
-		object
-			distance 381
-			period 37
-			sprite planet/callisto
-	object
-		distance 186
-		period 40
-		sprite planet/lava4
-	object
-		distance 1989
-		period 1420
-		sprite planet/gas9
-		object
-			distance 217
-			period 11
-			sprite planet/dust0
-		object
-			distance 285
-			period 18
-			sprite planet/tethys
-	object
-		distance 482
-		period 169
-		sprite planet/rock19
-	object
-		period 10
-		sprite star/g5
-	pos 197 514
 system Gerusti
 	asteroids "large metal" 39 1
 	asteroids "large rock" 21 1
@@ -581,80 +229,6 @@ system Gerusti
 		period 10
 		sprite star/m0
 	pos -241 754
-system Giribea
-	asteroids "large metal" 29 4
-	asteroids "large rock" 2 1
-	asteroids "medium metal" 150 3
-	asteroids "medium rock" 10 2
-	asteroids "small metal" 17 3
-	asteroids "small rock" 1 2
-	government Uninhabited
-	link Delia
-	link Feraticus
-	link Lire
-	minables copper 11 4
-	minables gold 40 4
-	minables tungsten 11 5
-	object
-		distance 1583
-		period 1008
-		sprite planet/gas10
-		object
-			distance 214
-			period 16
-			sprite planet/luna
-		object
-			distance 311
-			period 28
-			sprite planet/miranda
-	object
-		distance 159
-		period 32
-		sprite planet/ice6
-	object
-		period 10
-		sprite star/g5
-	pos -6 674
-system Lire
-	asteroids "large metal" 1 2
-	government Uninhabited
-	link Fearis
-	link Fereti
-	link Giribea
-	minables iron 3 11
-	minables titanium 21 14
-	object
-		distance 1086
-		period 649
-		sprite planet/gas13
-		object
-			distance 279
-			period 13
-			sprite planet/rock17
-	object
-		distance 138
-		period 29
-		sprite planet/europa
-	object
-		distance 2293
-		period 1991
-		sprite planet/gas5
-		object
-			distance 260
-			period 13
-			sprite planet/luna
-		object
-			distance 351
-			period 21
-			sprite planet/rock3
-	object
-		distance 488
-		period 195
-		sprite planet/forest0
-	object
-		period 10
-		sprite star/k0
-	pos -59 676
 system Mafari
 	asteroids "large metal" 8 2
 	asteroids "large rock" 179 5
@@ -745,46 +319,6 @@ system Marati
 		period 13
 		sprite star/g5
 	pos -106 572
-system Nona
-	asteroids "large metal" 1 3
-	asteroids "medium metal" 3 7
-	asteroids "small metal" 5 8
-	government Uninhabited
-	link Esix
-	link Gerenus
-	minables lead 1 10
-	object
-		distance 1804
-		period 1226
-		sprite planet/gas15
-		object
-			distance 201
-			period 15
-			sprite planet/ice0
-		object
-			distance 319
-			period 29
-			sprite planet/dust4
-	object
-		distance 353
-		period 106
-		sprite planet/cloud0
-		object
-			distance 150
-			period 22
-			sprite planet/rock14
-	object
-		distance 961
-		period 477
-		sprite planet/gas10
-		object
-			distance 223
-			period 17
-			sprite planet/rock0
-	object
-		period 10
-		sprite star/g5
-	pos 166 558
 system Ottava
 	asteroids "large metal" 15 1
 	asteroids "large rock" 4 1
@@ -828,46 +362,6 @@ system Ottava
 		period 243
 		sprite planet/dust3
 	pos -76 525
-system Paeli
-	asteroids "large metal" 1 4
-	asteroids "large rock" 1 2
-	asteroids "medium metal" 1 3
-	asteroids "medium rock" 3 3
-	asteroids "small rock" 9 2
-	government Uninhabited
-	link Esix
-	link Polerius
-	minables aluminum 3 4
-	minables lead 3 5
-	minables titanium 2 4
-	object
-		distance 1040
-		period 608
-		sprite planet/rock19
-	object
-		distance 258
-		period 75
-		sprite planet/venus
-		object
-			distance 124
-			period 15
-			sprite planet/europa
-	object
-		distance 3017
-		period 3005
-		sprite planet/gas7
-	object
-		distance 608
-		period 272
-		sprite planet/lava1
-	object
-		distance 766
-		period 384
-		sprite planet/titan
-	object
-		period 10
-		sprite star/k0
-	pos 129 497
 system Paritixi
 	asteroids "large metal" 14 1
 	asteroids "large rock" 27 2
@@ -938,51 +432,6 @@ system Perima
 		period 782
 		sprite planet/wormhole-red
 	pos -254 634
-system Polerius
-	government Uninhabited
-	link Paeli
-	asteroids "small rock" 2 4
-	asteroids "medium rock" 8 5
-	asteroids "large rock" 4 3
-	asteroids "small metal" 13 4
-	asteroids "medium metal" 22 2
-	asteroids "large metal" 6 4
-	minables gold 1 3
-	minables lead 2 3
-	object
-		distance 106
-		offset 180
-		period 13
-		sprite star/k0
-	object
-		distance 1271
-		period 386
-		sprite planet/gas15
-		object
-			distance 190
-			period 13
-			sprite planet/luna
-	object
-		distance 1860
-		period 684
-		sprite planet/gas5
-		object
-			distance 237
-			period 12
-			sprite planet/dust3
-	object
-		distance 30
-		period 13
-		sprite star/f5
-	object
-		distance 344
-		period 54
-		sprite planet/cloud3
-	object
-		distance 549
-		period 109
-		sprite planet/rock19
-	pos 88 482
 system Postverta
 	asteroids "large metal" 9 3
 	asteroids "large rock" 4 3
@@ -1105,42 +554,6 @@ system Prosa
 		period 389
 		sprite planet/wormhole-red
 	pos 303 194
-system Queri
-	asteroids "large metal" 6 2
-	asteroids "large rock" 4 3
-	asteroids "medium metal" 13 2
-	asteroids "medium rock" 4 3
-	asteroids "small metal" 12 3
-	asteroids "small rock" 7 4
-	government Uninhabited
-	link Esix
-	link Ritilas
-	minables lead 4 4
-	minables silicon 3 5
-	object
-		distance 1710
-		period 1282
-		sprite planet/gas16
-	object
-		distance 244
-		period 69
-		sprite planet/rock2
-	object
-		distance 2528
-		period 2305
-		sprite planet/jupiter
-	object
-		distance 536
-		period 225
-		sprite planet/gas8
-	object
-		distance 846
-		period 446
-		sprite planet/rock13
-	object
-		period 10
-		sprite star/k0
-	pos 67 505
 system Raliesa
 	asteroids "large metal" 14 3
 	asteroids "large rock" 2 3
@@ -1233,53 +646,6 @@ system Remia
 		period 10
 		sprite star/m0
 	pos -134 619
-system Relifer
-	asteroids "large metal" 2 3
-	asteroids "large rock" 1 2
-	asteroids "medium metal" 1 3
-	asteroids "medium rock" 11 1
-	asteroids "small metal" 20 3
-	asteroids "small rock" 1 2
-	government Uninhabited
-	link Feraticus
-	minables lead 6 4
-	minables silver 13 4
-	object
-		distance 1600
-		period 779
-		sprite planet/ocean8
-		object
-			distance 194
-			period 23
-			sprite planet/rock14
-	object
-		distance 205
-		period 35
-		sprite planet/rock18
-	object
-		distance 3281
-		period 2287
-		sprite planet/gas16
-		object
-			distance 215
-			period 16
-			sprite planet/miranda
-	object
-		distance 577
-		period 169
-		sprite planet/cloud2
-	object
-		distance 851
-		period 302
-		sprite planet/rock13
-	object
-		period 10
-		sprite star/g0
-	object graveyard_wormhole2
-		distance 1342
-		period 411
-		sprite planet/wormhole-red
-	pos 19 603
 system Resetus
 	asteroids "large metal" 4 7
 	asteroids "large rock" 1 7
@@ -1328,48 +694,6 @@ system Resetus
 		period 782
 		sprite planet/wormhole-red
 	pos -176 568
-system Ritilas
-	asteroids "large metal" 4 4
-	asteroids "large rock" 18 2
-	asteroids "medium rock" 125 2
-	asteroids "small rock" 4 3
-	government Uninhabited
-	link Queri
-	minables aluminum 28 5
-	minables copper 4 5
-	minables iron 1 4
-	object
-		distance 130
-		period 38
-		sprite planet/rock15
-	object
-		distance 1614
-		period 1699
-		sprite planet/jupiter
-		object
-			distance 260
-			period 13
-			sprite planet/rock7
-		object
-			distance 370
-			period 22
-			sprite planet/europa
-		object
-			distance 482
-			period 33
-			sprite planet/lava0
-	object
-		distance 533
-		period 322
-		sprite planet/rock4
-	object
-		period 10
-		sprite star/m4
-	object graveyard_wormhole
-		distance 1529
-		period 782
-		sprite planet/wormhole-red
-	pos 11 523
 system Serpentis
 	asteroids "large metal" 2 2
 	asteroids "large rock" 16 1

@@ -13,10 +13,6 @@ planet barren_wormhole
 	description ``
 planet barren_wormhole2
 	description ``
-planet graveyard_wormhole
-	description ``
-planet graveyard_wormhole2
-	description ``
 planet graveyard_wormhole3
 	description ``
 planet link_wormhole
