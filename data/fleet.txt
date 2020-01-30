@@ -7,3 +7,20 @@ fleet fallen
 		mute
 	variant
 		"A-3 Lexel" 2
+fleet hobby
+	government "Unknown "
+	personality heroic
+	variant
+		Hobby
+fleet kar_ik_vot_637
+	government "Unknown "
+	personality heroic
+	variant
+		"Far Lek 14" 3
+		"Far Osk 27" 2
+		"Kar Ik Vot 637"
+fleet model_1024
+	government "Unknown "
+	personality heroic
+	variant
+		"Model 1024"

@@ -1,3 +1,15 @@
+planet "Kar Ik Vot 637"
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet kar_ik_vot_637
+planet "Model 1024"
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet model_1024
 planet "Pug Kaelin"
 	"required reputation" -1000
 	description `The world of Pug Kaelin, presumably an ancient outpost, seems to be completely uninhabited. Large, empty cities with towers of indescribable design encompass a portion of one single continent. The rest of the land remains almost untouched by anything not native to this planet, as if the buildings were simply lowered down onto the land rather than built up over time.`
@@ -15,5 +27,11 @@ planet barren_wormhole2
 	description ``
 planet graveyard_wormhole3
 	description ``
+planet Hobby
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet hobby
 planet link_wormhole
 	description ``

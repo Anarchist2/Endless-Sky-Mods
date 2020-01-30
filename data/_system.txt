@@ -18,6 +18,19 @@ system Lucina
 		period 389
 		sprite planet/wormhole-red
 	government "Uninhabited "
+system Omnis
+	add object "Kar Ik Vot 637"
+		distance 3980
+		offset 130
+		sprite ship/kar_ik_vot_637
+	add object "Model 1024"
+		distance 4740
+		offset 112
+		sprite ship/model_1024
+	add object Hobby
+		distance 2040
+		offset 45
+		sprite ship/hobby
 system Parca
 	government "Uninhabited "
 system Peragenor

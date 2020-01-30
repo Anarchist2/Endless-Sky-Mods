@@ -2,7 +2,7 @@ shipyard Havenworks
 	"Marauder Firebird"
 	"Marauder Leviathan"
 	"Modified Argosy"
-shopyard human
+shipyard human
 	"Paltry Freighter"
 	Adel
 	Aesalon
