@@ -28,10 +28,6 @@ system Omnis
 		distance 3260
 		offset 130
 		sprite "ship/kar ik vot 349"
-	object "Kar Ik Vot 637"
-		distance 3980
-		offset 130
-		sprite ship/kar_ik_vot_637
 	object "Korath Raider"
 		distance 1860
 		offset 120
@@ -48,10 +44,6 @@ system Omnis
 		distance 1860
 		offset 130
 		sprite "ship/met par tek 53"
-	object "Model 1024"
-		distance 4740
-		offset 112
-		sprite ship/model_1024
 	object "Model 128"
 		distance 3300
 		offset 112
@@ -136,10 +128,6 @@ system Omnis
 		distance 2200
 		offset 160
 		sprite "ship/winter gale"
-	object Apocalypse
-		distance 2240
-		offset 220
-		sprite ship/apocalypse
 	object Archon
 		distance 1920
 		offset 320
@@ -162,18 +150,10 @@ system Omnis
 		distance 2540
 		offset 156
 		sprite ship/derecho
-	object Developer
-		distance 1420
-		offset 340
-		sprite sprite/station8
 	object Drak
 		distance 1420
 		offset 320
 		sprite sprite/station8
-	object Dummy
-		distance 1860
-		offset 340
-		sprite ship/caster
 	object Everything
 		distance 1218
 		sprite sprite/everything
@@ -259,10 +239,6 @@ system Omnis
 		distance 1420
 		offset 80
 		sprite sprite/station8
-	object Hobby
-		distance 2040
-		offset 45
-		sprite ship/hobby
 	object Human
 		distance 1420
 		sprite sprite/station8
@@ -270,10 +246,6 @@ system Omnis
 		distance 2540
 		offset 164
 		sprite ship/hurricane
-	object Irm
-		distance 1420
-		offset 220
-		sprite sprite/station8
 	object Ka'het
 		distance 1420
 		offset 100

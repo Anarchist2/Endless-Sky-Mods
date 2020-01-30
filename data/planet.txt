@@ -245,13 +245,6 @@ planet Derecho
 	tribute 1
 		threshold 0
 		fleet derecho
-planet Developer
-	bribe 0
-	description ``
-	landscape landscape/station6
-	outfitter developer
-	shipyard developer
-	spaceport ``
 planet Drak
 	bribe 0
 	description `The Drak are supposedly the oldest living species in the galaxy. The Quarg say that the Drak act as something like galactic peacekeepers or police, and will intervene if a species invents a weapon so terrible that it could drive that species to extinction.`
@@ -259,12 +252,6 @@ planet Drak
 	outfitter drak
 	shipyard drak
 	spaceport `The Drak are supposedly the oldest living species in the galaxy. The Quarg say that the Drak act as something like galactic peacekeepers or police, and will intervene if a species invents a weapon so terrible that it could drive that species to extinction.`
-planet Dummy
-	bribe 0
-	government "Unknown "
-	tribute 1
-		threshold 0
-		fleet dummy
 planet Everything
 	bribe 0
 	description `This ringworld is much bigger than any previously seen, consuming well over a whole systems worth of materials to construct. Here the outfitters and shipyards stock anything from vanilla content to plugin content. There is no need to go running about to find some superior technology, it's all right here!`

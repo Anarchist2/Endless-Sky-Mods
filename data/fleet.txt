@@ -42,11 +42,6 @@ fleet derecho
 	personality heroic
 	variant
 		Derecho
-fleet dummy
-	government "Unknown "
-	personality heroic
-	variant
-		Dummy
 fleet falcon
 	government "Unknown "
 	personality heroic
