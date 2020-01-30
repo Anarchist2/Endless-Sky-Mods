@@ -1,0 +1,5 @@
+fleet quarg_balaur
+	government "Unknown "
+	personality heroic
+	variant
+		"Quarg Balaur"

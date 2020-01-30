@@ -1,0 +1,6 @@
+planet "Quarg Balaur"
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet quarg_balaur
