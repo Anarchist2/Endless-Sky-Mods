@@ -1,3 +1,9 @@
+fleet apocalypse
+	government "Unknown "
+	personality heroic
+	variant
+		Apocalypse
+		Revelation 16
 fleet irm_defense
 	cargo 3
 	government Irm
