@@ -15,8 +15,6 @@ shipyard coalition
 	"Saryd Sojourner"
 	"Saryd Traveler"
 	"Saryd Visitor"
-shipyard developer
-	Caster
 shipyard drak
 	"Void Sprite"
 	Archon
@@ -128,7 +126,6 @@ shipyard korath
 	Nanobot
 shipyard plugin
 	Caster
-	Dummy
 shipyard pug
 	"Pug Arfecta"
 	"Pug Enfolta"
