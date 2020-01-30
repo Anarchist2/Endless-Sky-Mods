@@ -131,7 +131,7 @@ outfit "Quarg Ranseur"
 		piercing .1
 		reload 24
 		sound skylance
-		sprite projectile/skylance
+		sprite sprite/ranseur
 			"frame rate" 1
 		velocity 800
 outfit "Quarg Skydagger"
@@ -148,6 +148,8 @@ outfit "Quarg Skydagger"
 	weapon
 		"firing energy" 4.6
 		"firing heat" 1.5
+		"hardpoint sprite" "hardpoint/quarg skylance"
+		"hardpoint offset" 10
 		"hit effect" "skylance impact"
 		"hull damage" 6.1
 		"ion damage" .03
@@ -157,6 +159,6 @@ outfit "Quarg Skydagger"
 		lifetime 1
 		reload 1
 		sound skylance
-		sprite projectile/skylance
+		sprite sprite/skydagger
 			"frame rate" 1
 		velocity 430
