@@ -40,12 +40,6 @@ planet "Kar Ik Vot 349"
 	tribute 1
 		threshold 0
 		fleet kar_ik_vot_349
-planet "Kar Ik Vot 637"
-	bribe 0
-	government "Unknown "
-	tribute 1
-		threshold 0
-		fleet kar_ik_vot_637
 planet "Korath Raider"
 	bribe 0
 	government "Unknown "
@@ -70,12 +64,6 @@ planet "Met Par Tek 53"
 	tribute 1
 		threshold 0
 		fleet met_par_tek_53
-planet "Model 1024"
-	bribe 0
-	government "Unknown "
-	tribute 1
-		threshold 0
-		fleet model_1024
 planet "Model 128"
 	bribe 0
 	government "Unknown "
@@ -208,12 +196,6 @@ planet Aerie
 	tribute 1
 		threshold 0
 		fleet aerie
-planet Apocalypse
-	bribe 0
-	government "Unknown "
-	tribute 1
-		threshold 0
-		fleet apocalypse
 planet Archon
 	bribe 0
 	government "Unknown "
@@ -347,12 +329,6 @@ planet Hai
 	outfitter hai
 	shipyard hai
 	spaceport `The Hai are a species of giant, intelligent rodents, who live to the north of human space. They allow any humans who discover their territory to live alongside them, and to trade with them and purchase their technology.`
-planet Hobby
-	bribe 0
-	government "Unknown "
-	tribute 1
-		threshold 0
-		fleet hobby
 planet Human
 	bribe 0
 	description ``
