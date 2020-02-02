@@ -1005,6 +1005,12 @@ event x100_battles
 		tribute 1
 			threshold 0
 			fleet winter_gale 100
+	planet Aerie
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet aerie 100
 	planet Apocalypse
 		bribe 0
 		government "Unknown "
@@ -1017,6 +1023,12 @@ event x100_battles
 		tribute 1
 			threshold 0
 			fleet archon 100
+	planet Bactrian
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet bactrian 100
 	planet Bastion
 		bribe 0
 		government "Unknown "
@@ -1029,18 +1041,48 @@ event x100_battles
 		tribute 1
 			threshold 0
 			fleet carrier 100
+	planet Clipper
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet clipper 100
+	planet Cruiser
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet cruiser 100
 	planet Derecho
 		bribe 0
 		government "Unknown "
 		tribute 1
 			threshold 0
 			fleet derecho 100
+	planet Dreadnought
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet dreadnought 100
 	planet Falcon
 		bribe 0
 		government "Unknown "
 		tribute 1
 			threshold 0
 			fleet falcon 100
+	planet Firebird
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet firebird 100
+	planet Gunboat
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet gunboat 100
 	planet Grasshopper
 		bribe 0
 		government "Unknown "
@@ -1059,6 +1101,12 @@ event x100_battles
 		tribute 1
 			threshold 0
 			fleet hurricane 100
+	planet Kestrel
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet kestrel 100
 	planet Leviathan
 		bribe 0
 		government "Unknown "
@@ -1071,6 +1119,36 @@ event x100_battles
 		tribute 1
 			threshold 0
 			fleet maeri'het 100
+	planet Manta
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet manta 100
+	planet Mule
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet mule 100
+	planet Protector
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet protector 100
+	planet Rainmaker
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet rainmaker 100
+	planet Raven
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet raven 100
 	planet Sarkic
 		bribe 0
 		government "Unknown "
@@ -1083,6 +1161,18 @@ event x100_battles
 		tribute 1
 			threshold 0
 			fleet solifuge 100
+	planet Sparrow
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet sparrow 100
+	planet Splinter
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet splinter 100
 	planet Starling
 		bribe 0
 		government "Unknown "
@@ -1101,6 +1191,12 @@ event x100_battles
 		tribute 1
 			threshold 0
 			fleet tempest 100
+	planet Vanguard
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet vanguard 100
 event x10_battles
 	planet "Albatross "
 		bribe 0
@@ -1306,6 +1402,12 @@ event x10_battles
 		tribute 1
 			threshold 0
 			fleet winter_gale 10
+	planet Aerie
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet aerie 10
 	planet Apocalypse
 		bribe 0
 		government "Unknown "
@@ -1318,6 +1420,12 @@ event x10_battles
 		tribute 1
 			threshold 0
 			fleet archon 10
+	planet Bactrian
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet bactrian 10
 	planet Bastion
 		bribe 0
 		government "Unknown "
@@ -1330,18 +1438,48 @@ event x10_battles
 		tribute 1
 			threshold 0
 			fleet carrier 10
+	planet Clipper
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet clipper 10
+	planet Cruiser
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet cruiser 10
 	planet Derecho
 		bribe 0
 		government "Unknown "
 		tribute 1
 			threshold 0
 			fleet derecho 10
+	planet Dreadnought
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet dreadnought 10
 	planet Falcon
 		bribe 0
 		government "Unknown "
 		tribute 1
 			threshold 0
 			fleet falcon 10
+	planet Firebird
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet firebird 10
+	planet Gunboat
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet gunboat 10
 	planet Grasshopper
 		bribe 0
 		government "Unknown "
@@ -1360,6 +1498,12 @@ event x10_battles
 		tribute 1
 			threshold 0
 			fleet hurricane 10
+	planet Kestrel
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet kestrel 10
 	planet Leviathan
 		bribe 0
 		government "Unknown "
@@ -1372,6 +1516,36 @@ event x10_battles
 		tribute 1
 			threshold 0
 			fleet maeri'het 10
+	planet Manta
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet manta 10
+	planet Mule
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet mule 10
+	planet Protector
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet protector 10
+	planet Rainmaker
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet rainmaker 10
+	planet Raven
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet raven 10
 	planet Sarkic
 		bribe 0
 		government "Unknown "
@@ -1384,6 +1558,18 @@ event x10_battles
 		tribute 1
 			threshold 0
 			fleet solifuge 10
+	planet Sparrow
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet sparrow 10
+	planet Splinter
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet splinter 10
 	planet Starling
 		bribe 0
 		government "Unknown "
@@ -1402,6 +1588,12 @@ event x10_battles
 		tribute 1
 			threshold 0
 			fleet tempest 10
+	planet Vanguard
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet vanguard 10
 event x1_battles
 	planet "Albatross "
 		bribe 0
@@ -1607,6 +1799,12 @@ event x1_battles
 		tribute 1
 			threshold 0
 			fleet winter_gale
+	planet Aerie
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet aerie
 	planet Apocalypse
 		bribe 0
 		government "Unknown "
@@ -1619,6 +1817,12 @@ event x1_battles
 		tribute 1
 			threshold 0
 			fleet archon
+	planet Bactrian
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet bactrian
 	planet Bastion
 		bribe 0
 		government "Unknown "
@@ -1631,18 +1835,48 @@ event x1_battles
 		tribute 1
 			threshold 0
 			fleet carrier
+	planet Clipper
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet clipper
+	planet Cruiser
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet cruiser
 	planet Derecho
 		bribe 0
 		government "Unknown "
 		tribute 1
 			threshold 0
 			fleet derecho
+	planet Dreadnought
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet dreadnought
 	planet Falcon
 		bribe 0
 		government "Unknown "
 		tribute 1
 			threshold 0
 			fleet falcon
+	planet Firebird
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet firebird
+	planet Gunboat
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet gunboat
 	planet Grasshopper
 		bribe 0
 		government "Unknown "
@@ -1661,6 +1895,12 @@ event x1_battles
 		tribute 1
 			threshold 0
 			fleet hurricane
+	planet Kestrel
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet kestrel
 	planet Leviathan
 		bribe 0
 		government "Unknown "
@@ -1673,6 +1913,36 @@ event x1_battles
 		tribute 1
 			threshold 0
 			fleet maeri'het
+	planet Manta
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet manta
+	planet Mule
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet mule
+	planet Protector
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet protector
+	planet Rainmaker
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet rainmaker
+	planet Raven
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet raven
 	planet Sarkic
 		bribe 0
 		government "Unknown "
@@ -1685,6 +1955,18 @@ event x1_battles
 		tribute 1
 			threshold 0
 			fleet solifuge
+	planet Sparrow
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet sparrow
+	planet Splinter
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet splinter
 	planet Starling
 		bribe 0
 		government "Unknown "
@@ -1703,3 +1985,9 @@ event x1_battles
 		tribute 1
 			threshold 0
 			fleet tempest
+	planet Vanguard
+		bribe 0
+		government "Unknown "
+		tribute 1
+			threshold 0
+			fleet vanguard

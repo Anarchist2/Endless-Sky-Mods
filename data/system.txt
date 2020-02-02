@@ -128,20 +128,42 @@ system Omnis
 		distance 2200
 		offset 160
 		sprite "ship/winter gale"
+	object Aerie
+		distance 2340
+		offset 17
+		sprite ship/aerie
 	object Archon
 		distance 1920
 		offset 320
 		sprite ship/archon
+	object Argosy
+		distance 2020
+		offset 357
+		sprite ship/argosy
+	object Bactrian
+		distance 2620
+		offset 13
+		sprite ship/bactrian
 	object Bastion
-		distance 1860
+		distance 2160
+		offset 2
 		sprite ship/bastion
 	object Carrier
-		distance 2340
+		distance 2740
+		offset 354
 		sprite ship/carrier
+	object Clipper
+		distance 1950
+		offset 4
+		sprite ship/clipper
 	object Coalition
 		distance 1420
 		offset 200
 		sprite sprite/station8
+	object Cruiser
+		distance 2440
+		offset 349
+		sprite ship/cruiser
 	object Deprecated
 		distance 444
 		offset 135
@@ -154,6 +176,10 @@ system Omnis
 		distance 1420
 		offset 320
 		sprite sprite/station8
+	object Dreadnought
+		distance 2780
+		offset 7
+		sprite ship/dreadnought
 	object Everything
 		distance 1218
 		sprite sprite/everything
@@ -226,11 +252,19 @@ system Omnis
 		offset 340
 		sprite sprite/everything
 	object Falcon
-		distance 2080
-		offset 355
+		distance 2300
+		offset 356
 		sprite ship/falcon
+	object Firebird
+		distance 2060
+		offset 8
+		sprite ship/firebird
 	object gateway
 		sprite planet/wisp
+	object Gunboat
+		distance 2140
+		offset 346
+		sprite ship/gunboat
 	object Grasshopper
 		distance 1860
 		offset 74
@@ -250,22 +284,38 @@ system Omnis
 		distance 1420
 		offset 100
 		sprite sprite/station8
+	object Kestrel
+		distance 2560
+		offset 2
+		sprite ship/kestrel
 	object Korath
 		distance 1420
 		offset 120
 		sprite sprite/station8
 	object Leviathan
-		distance 2080
-		offset 5
+		distance 2340
+		offset 8
 		sprite ship/leviathan
 	object Maeri'het
 		distance 1860
 		offset 97
 		sprite ship/maeri'het
+	object Manta
+		distance 1960
+		offset 346
+		sprite ship/manta
+	object Mule
+		distance 2160
+		offset 13
+		sprite ship/mule
 	object Plugins
 		distance 444
 		offset 45
 		sprite sprite/station8
+	object Protector
+		distance 2460
+		offset 344
+		sprite ship/protector
 	object Pug
 		distance 1420
 		offset 280
@@ -274,6 +324,14 @@ system Omnis
 		distance 1420
 		offset 240
 		sprite sprite/station8
+	object Rainmaker
+		distance 2140
+		offset 351
+		sprite ship/rainmaker
+	object Raven
+		distance 1960
+		offset 352
+		sprite ship/raven
 	object Remnant
 		distance 1420
 		offset 40
@@ -282,6 +340,13 @@ system Omnis
 		distance 2160
 		offset 76
 		sprite "ship/hai solifuge"
+	object Sparrow
+		distance 1860
+		sprite ship/sparrow
+	object Splinter
+		distance 2130
+		offset 342
+		sprite ship/splinter
 	object Starling
 		distance 1980
 		offset 35
@@ -294,6 +359,10 @@ system Omnis
 		distance 2140
 		offset 166
 		sprite ship/tempest
+	object Vanguard
+		distance 2360
+		offset 339
+		sprite ship/vanguard
 	object Vanilla
 		distance 444
 		offset 315
