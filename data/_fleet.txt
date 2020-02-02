@@ -72,3 +72,18 @@ fleet "Wanderer Flycatchers"
 		Scud 4
 	add variant
 		Scud 5
+fleet archon
+	government "Unknown "
+	personality heroic
+	variant
+		Archon
+		Sarkic 6
+fleet korath_raider
+	government "Unknown "
+	personality heroic
+	variant
+		"Korath Chaser" 2
+		"Korath Raider"
+	variant
+		"Korath Raider"
+		"Korath Stalker" 2
