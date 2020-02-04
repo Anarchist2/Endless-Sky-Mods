@@ -4,6 +4,12 @@ planet "Albatross "
 	tribute 1
 		threshold 0
 		fleet albatross
+planet "Arach Courier"
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet arach_courier
 planet "Autumn Leaf"
 	bribe 0
 	government "Unknown "

@@ -13,6 +13,11 @@ fleet archon
 	personality heroic
 	variant
 		Archon
+fleet arach_courier
+	government "Unknown "
+	personality heroic
+	variant
+		"Arach Courier"
 fleet autumn_leaf
 	government "Unknown "
 	personality heroic

@@ -6,6 +6,9 @@ system Omnis
 		sprite sprite/black-hole-core-land
 		object
 			sprite planet/wisp
+		object "Arach Courier"
+			distance 700
+			sprite "ship/arach courier"
 		object "Heliarch Interdictor"
 			distance 700
 			sprite "ship/heliarch interdictor"
