@@ -7,17 +7,67 @@ system Omnis
 		object
 			sprite planet/wisp
 		object "Arach Courier"
-			distance 700
+			distance 600
 			sprite "ship/arach courier"
+		object "Arach Freighter"
+			distance 600
+			offset 30
+			sprite "ship/arach freighter"
+		object "Arach Hulk"
+			distance 600
+			offset 60
+			sprite "ship/arach hulk"
+		object "Arach Spindle"
+			distance 600
+			offset 90
+			sprite "ship/arach spindle"
+		object "Arach Transport"
+			distance 600
+			offset 120
+			sprite "ship/arach transport"
 		object "Heliarch Interdictor"
-			distance 700
+			distance 600
+			offset 150
 			sprite "ship/heliarch interdictor"
 		object "Heliarch Neutralizer"
-			distance 700
+			distance 600
+			offset 180
 			sprite "ship/heliarch neutralizer"
 		object "Heliarch Punisher"
-			distance 700
+			distance 600
+			offset 210
 			sprite "ship/heliarch punisher"
+		object "Kimek Briar"
+			distance 600
+			offset 240
+			sprite "ship/kimek briar"
+		object "Kimek Spire"
+			distance 600
+			offset 270
+			sprite "ship/kimek spire"
+		object "Kimek Thistle"
+			distance 600
+			offset 300
+			sprite "ship/kimek thistle"
+		object "Kimek Thorn"
+			distance 600
+			offset 330
+			sprite "ship/kimek thorn"
+		object "Saryd Runabout"
+			distance 1000
+			sprite "ship/saryd runabout"
+		object "Saryd Sojourner"
+			distance 1000
+			offset 20
+			sprite "ship/saryd sojourner"
+		object "Saryd Traveler"
+			distance 1000
+			offset 40
+			sprite "ship/saryd traveler"
+		object "Saryd Visitor"
+			distance 1000
+			offset 60
+			sprite "ship/saryd visitor"
 	object Deprecated
 		distance 444
 		offset 135
@@ -28,8 +78,16 @@ system Omnis
 		sprite sprite/black-hole-core-land
 		object
 			sprite planet/wisp
+		object "Void Sprite Infant"
+			distance 600
+			sprite "ship/void sprite infant"
+		object "Void Sprite"
+			distance 600
+			offset 30
+			sprite "ship/void sprite adult"
 		object Archon
-			distance 700
+			distance 600
+			offset 60
 			sprite ship/archon
 	object Everything
 		distance 1218
@@ -111,88 +169,242 @@ system Omnis
 		object
 			sprite planet/wisp
 		object "Lightning Bug"
-			distance 700
+			distance 600
 			sprite "ship/hai lightning bug"
 		object "Pond Strider"
-			distance 700
+			distance 600
+			offset 30
 			sprite "ship/hai pond strider"
 		object "Shield Beetle"
-			distance 700
+			distance 600
+			offset 60
 			sprite "ship/hai shield beetle"
+		object "Water Bug"
+			distance 600
+			offset 90
+			sprite "ship/hai water bug"
+		object Aphid
+			distance 600
+			offset 120
+			sprite "ship/hai aphid"
+		object Centipede
+			distance 600
+			offset 150
+			sprite "ship/hai centipede"
+		object Geocoris
+			distance 600
+			offset 180
+			sprite "ship/hai geocoris"
 		object Grasshopper
-			distance 700
+			distance 600
+			offset 210
 			sprite "ship/hai grasshopper"
 		object Solifuge
-			distance 700
+			distance 600
+			offset 240
 			sprite "ship/hai solifuge"
 	object Human
 		distance 4000
 		sprite sprite/black-hole-core-land
 		object
 			sprite planet/wisp
+		object "Bulk Freighter"
+			distance 600
+			sprite "ship/bulk freighter"
+		object "Hauler II"
+			distance 600
+			offset 30
+			sprite "ship/hauler ii"
+		object "Hauler III"
+			distance 600
+			offset 60
+			sprite "ship/hauler iii"
+		object "Heavy Shuttle"
+			distance 600
+			offset 90
+			sprite "ship/heavy shuttle"
+		object "Modified Argosy"
+			distance 600
+			offset 120
+			sprite "ship/modified argosy"
+		object "Quicksilver "
+			distance 600
+			offset 150
+			sprite ship/quicksilver
+		object "Star Barge"
+			distance 600
+			offset 180
+			sprite "ship/star barge"
+		object "Star Queen"
+			distance 600
+			offset 210
+			sprite "ship/star queen"
 		object Aerie
-			distance 700
+			distance 600
+			offset 240
 			sprite ship/aerie
 		object Argosy
-			distance 700
+			distance 600
+			offset 270
 			sprite ship/argosy
+		object Arrow
+			distance 600
+			offset 300
+			sprite ship/arrow
 		object Bactrian
-			distance 700
+			distance 600
+			offset 330
 			sprite ship/bactrian
 		object Bastion
-			distance 700
+			distance 1000
 			sprite ship/bastion
+		object Behemoth
+			distance 1000
+			offset 20
+			sprite ship/behemoth
+		object Berserker
+			distance 1000
+			offset 40
+			sprite ship/berserker
+		object Blackbird
+			distance 1000
+			offset 60
+			sprite ship/blackbird
+		object Bounder
+			distance 1000
+			offset 80
+			sprite ship/bounder
 		object Carrier
-			distance 700
+			distance 1000
+			offset 100
 			sprite ship/carrier
 		object Clipper
-			distance 700
+			distance 1000
+			offset 120
 			sprite ship/clipper
+		object Corvette
+			distance 1000
+			offset 140
+			sprite ship/corvette
 		object Cruiser
-			distance 700
+			distance 1000
+			offset 160
 			sprite ship/cruiser
 		object Dreadnought
-			distance 700
+			distance 1000
+			offset 180
 			sprite ship/dreadnought
 		object Falcon
-			distance 700
+			distance 1000
+			offset 200
 			sprite ship/falcon
 		object Firebird
-			distance 700
+			distance 1000
+			offset 220
 			sprite ship/firebird
+		object Flivver
+			distance 1000
+			offset 240
+			sprite ship/flivver
+		object Freighter
+			distance 1000
+			offset 260
+			sprite ship/freighter
+		object Frigate
+			distance 1000
+			offset 280
+			sprite ship/frigate
+		object Fury
+			distance 1000
+			offset 300
+			sprite ship/fury
 		object Gunboat
-			distance 700
+			distance 1000
+			offset 320
 			sprite ship/gunboat
+		object Hauler
+			distance 1000
+			offset 340
+			sprite "ship/hauler i"
+		object Hawk
+			distance 1400
+			sprite ship/hawk
+		object Headhunter
+			distance 1400
+			offset 10
+			sprite ship/headhunter
 		object Kestrel
-			distance 700
+			distance 1400
+			offset 20
 			sprite ship/kestrel
+		object Lance
+			distance 1400
+			offset 30
+			sprite ship/lance
 		object Leviathan
-			distance 700
+			distance 1400
+			offset 40
 			sprite ship/leviathan
 		object Manta
-			distance 700
+			distance 1400
+			offset 50
 			sprite ship/manta
 		object Mule
-			distance 700
+			distance 1400
+			offset 60
 			sprite ship/mule
+		object Nest
+			distance 1400
+			offset 70
+			sprite ship/nest
+		object Osprey
+			distance 1400
+			offset 80
+			sprite ship/osprey
 		object Protector
-			distance 700
+			distance 1400
+			offset 90
 			sprite ship/protector
 		object Rainmaker
-			distance 700
+			distance 1400
+			offset 100
 			sprite ship/rainmaker
 		object Raven
-			distance 700
+			distance 1400
+			offset 110
 			sprite ship/raven
+		object Roost
+			distance 1400
+			offset 120
+			sprite ship/roost
+		object Scout
+			distance 1400
+			offset 130
+			sprite ship/scout
+		object Shuttle
+			distance 1400
+			offset 140
+			sprite ship/shuttle
+		object Skein
+			distance 1400
+			offset 150
+			sprite ship/skein
 		object Sparrow
-			distance 700
+			distance 1400
+			offset 160
 			sprite ship/sparrow
 		object Splinter
-			distance 700
+			distance 1400
+			offset 170
 			sprite ship/splinter
 		object Vanguard
-			distance 700
+			distance 1400
+			offset 180
 			sprite ship/vanguard
+		object Wasp
+			distance 1400
+			offset 190
+			sprite ship/wasp
 	object Ka'het
 		distance 4000
 		offset 108
@@ -200,10 +412,11 @@ system Omnis
 		object
 			sprite planet/wisp
 		object Maeri'het
-			distance 700
+			distance 600
 			sprite ship/maeri'het
 		object Telis'het
-			distance 700
+			distance 600
+			offset 30
 			sprite ship/telis'het
 	object Korath
 		distance 4000
@@ -212,46 +425,58 @@ system Omnis
 		object
 			sprite planet/wisp
 		object "Kar Ik Vot 349"
-			distance 700
+			distance 600
 			sprite "ship/kar ik vot 349"
 		object "Korath Raider"
-			distance 700
+			distance 600
+			offset 30
 			sprite ship/raider
 		object "Korath World-Ship A"
-			distance 700
+			distance 600
+			offset 60
 			sprite "ship/world-ship a"
 		object "Met Par Tek 53"
-			distance 700
+			distance 600
+			offset 90
 			sprite "ship/met par tek 53"
 		object "Model 128"
-			distance 700
+			distance 600
+			offset 120
 			sprite "ship/model 128"
 		object "Model 16"
-			distance 700
+			distance 600
+			offset 150
 			sprite "ship/model 16"
 		object "Model 256"
-			distance 700
+			distance 600
+			offset 180
 			sprite "ship/model 256"
 		object "Model 32"
-			distance 700
+			distance 600
+			offset 210
 			sprite "ship/model 32"
 		object "Model 512"
-			distance 700
+			distance 600
+			offset 240
 			sprite "ship/model 512"
 		object "Model 64"
-			distance 700
+			distance 600
+			offset 270
 			sprite "ship/model 64"
 		object "Model 8"
-			distance 700
+			distance 600
+			offset 300
 			sprite "ship/model 8"
 		object "Tek Far 109"
-			distance 700
+			distance 600
+			offset 330
 			sprite "ship/tek far 109"
 		object "Tek Far 71 - Lek"
-			distance 700
+			distance 1000
 			sprite "ship/tek far 71 lek"
 		object "Tek Far 78 - Osk"
-			distance 700
+			distance 1000
+			offset 20
 			sprite "ship/tek far 78 osk"
 	object Plugins
 		distance 444
@@ -264,16 +489,19 @@ system Omnis
 		object
 			sprite planet/wisp
 		object "Pug Arfecta"
-			distance 700
+			distance 600
 			sprite "ship/pug arfecta"
 		object "Pug Enfolta"
-			distance 700
+			distance 600
+			offset 30
 			sprite "ship/pug enfolta"
 		object "Pug Maboro"
-			distance 700
+			distance 600
+			offset 60
 			sprite "ship/pug maboro"
 		object "Pug Zibruka"
-			distance 700
+			distance 600
+			offset 90
 			sprite "ship/pug zibruka"
 	object Quarg
 		distance 4000
@@ -282,10 +510,11 @@ system Omnis
 		object
 			sprite planet/wisp
 		object "Quarg Skylark"
-			distance 700
+			distance 600
 			sprite ship/skylark
 		object "Quarg Wardragon"
-			distance 700
+			distance 600
+			offset 30
 			sprite ship/wardragon
 	object Remnant
 		distance 4000
@@ -294,10 +523,31 @@ system Omnis
 		object
 			sprite planet/wisp
 		object "Albatross "
-			distance 700
+			distance 600
 			sprite ship/albatross
+		object Gascraft
+			distance 600
+			offset 30
+			sprite ship/gascraft
+		object Gull
+			distance 600
+			offset 60
+			sprite ship/gull
+		object Ibis
+			distance 600
+			offset 90
+			sprite ship/ibis
+		object Pelican
+			distance 600
+			offset 120
+			sprite ship/pelican
+		object Penguin
+			distance 600
+			offset 150
+			sprite ship/penguin
 		object Starling
-			distance 700
+			distance 600
+			offset 180
 			sprite ship/starling
 	object Vanilla
 		distance 444
@@ -314,27 +564,46 @@ system Omnis
 		object
 			sprite planet/wisp
 		object "Autumn Leaf"
-			distance 700
+			distance 600
 			sprite "ship/autumn leaf"
 		object "Cool Breeze"
-			distance 700
+			distance 600
+			offset 30
 			sprite "ship/cool breeze"
+		object "Deep River"
+			distance 600
+			offset 60
+			sprite "ship/deep river"
+		object "Earth Shaper"
+			distance 600
+			offset 90
+			sprite "ship/earth shaper"
 		object "Strong Wind"
-			distance 700
+			distance 600
+			offset 120
 			sprite "ship/strong wind"
 		object "Summer Leaf"
-			distance 700
+			distance 600
+			offset 150
 			sprite "ship/summer leaf"
 		object "Winter Gale"
-			distance 700
+			distance 600
+			offset 180
 			sprite "ship/winter gale"
 		object Derecho
-			distance 700
+			distance 600
+			offset 210
 			sprite ship/derecho
 		object Hurricane
-			distance 700
+			distance 600
+			offset 240
 			sprite ship/hurricane
+		object Riptide
+			distance 600
+			offset 270
+			sprite ship/riptide
 		object Tempest
-			distance 700
+			distance 600
+			offset 300
 			sprite ship/tempest
 	pos -10 -10016

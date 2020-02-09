@@ -8,16 +8,51 @@ fleet albatross
 	personality heroic
 	variant
 		Albatross
-fleet archon
+fleet aphid
 	government "Unknown "
 	personality heroic
 	variant
-		Archon
+		Aphid
 fleet arach_courier
 	government "Unknown "
 	personality heroic
 	variant
 		"Arach Courier"
+fleet arach_freighter
+	government "Unknown "
+	personality heroic
+	variant
+		"Arach Freighter"
+fleet arach_hulk
+	government "Unknown "
+	personality heroic
+	variant
+		"Arach Hulk"
+fleet arach_spindle
+	government "Unknown "
+	personality heroic
+	variant
+		"Arach Spindle"
+fleet arach_transport
+	government "Unknown "
+	personality heroic
+	variant
+		"Arach Transport"
+fleet archon
+	government "Unknown "
+	personality heroic
+	variant
+		Archon
+fleet argosy
+	government "Unknown "
+	personality heroic
+	variant
+		Argosy
+fleet arrow
+	government "Unknown "
+	personality heroic
+	variant
+		Arrow
 fleet autumn_leaf
 	government "Unknown "
 	personality heroic
@@ -33,6 +68,31 @@ fleet bastion
 	personality heroic
 	variant
 		Bastion
+fleet behemoth
+	government "Unknown "
+	personality heroic
+	variant
+		Behemoth
+fleet berserker
+	government "Unknown "
+	personality heroic
+	variant
+		Berserker
+fleet blackbird
+	government "Unknown "
+	personality heroic
+	variant
+		Blackbird
+fleet bounder
+	government "Unknown "
+	personality heroic
+	variant
+		Bounder
+fleet bulk_freighter
+	government "Unknown "
+	personality heroic
+	variant
+		"Bulk Freighter"
 fleet carrier
 	government "Unknown "
 	personality heroic
@@ -40,6 +100,11 @@ fleet carrier
 		"Combat Drone" 6
 		Carrier
 		Lance 4
+fleet centipede
+	government "Unknown "
+	personality heroic
+	variant
+		Centipede
 fleet clipper
 	government "Unknown "
 	personality heroic
@@ -50,11 +115,21 @@ fleet cool_breeze
 	personality heroic
 	variant
 		"Cool Breeze"
+fleet corvette
+	government "Unknown "
+	personality heroic
+	variant
+		Corvette
 fleet cruiser
 	government "Unknown "
 	personality heroic
 	variant
 		Cruiser
+fleet deep_river
+	government "Unknown "
+	personality heroic
+	variant
+		"Deep River"
 fleet derecho
 	government "Unknown "
 	personality heroic
@@ -65,6 +140,11 @@ fleet dreadnought
 	personality heroic
 	variant
 		Dreadnought
+fleet earth_shaper
+	government "Unknown "
+	personality heroic
+	variant
+		"Earth Shaper"
 fleet falcon
 	government "Unknown "
 	personality heroic
@@ -75,16 +155,81 @@ fleet firebird
 	personality heroic
 	variant
 		Firebird
-fleet gunboat
+fleet flivver
 	government "Unknown "
 	personality heroic
 	variant
-		Gunboat
+		Flivver
+fleet freighter
+	government "Unknown "
+	personality heroic
+	variant
+		Freighter
+fleet frigate
+	government "Unknown "
+	personality heroic
+	variant
+		Frigate
+fleet fury
+	government "Unknown "
+	personality heroic
+	variant
+		Fury
+fleet gascraft
+	government "Unknown "
+	personality heroic
+	variant
+		Gascraft
+fleet geocoris
+	government "Unknown "
+	personality heroic
+	variant
+		Geocoris
 fleet grasshopper
 	government "Unknown "
 	personality heroic
 	variant
 		Grasshopper
+fleet gull
+	government "Unknown "
+	personality heroic
+	variant
+		Gull
+fleet gunboat
+	government "Unknown "
+	personality heroic
+	variant
+		Gunboat
+fleet hauler
+	government "Unknown "
+	personality heroic
+	variant
+		Hauler
+fleet hauler_ii
+	government "Unknown "
+	personality heroic
+	variant
+		"Hauler II"
+fleet hauler_iii
+	government "Unknown "
+	personality heroic
+	variant
+		"Hauler III"
+fleet hawk
+	government "Unknown "
+	personality heroic
+	variant
+		Hawk
+fleet headhunter
+	government "Unknown "
+	personality heroic
+	variant
+		Headhunter
+fleet heavy_shuttle
+	government "Unknown "
+	personality heroic
+	variant
+		"Heavy Shuttle"
 fleet heliarch_interdictor
 	government "Unknown "
 	personality heroic
@@ -105,6 +250,11 @@ fleet hurricane
 	personality heroic
 	variant
 		Hurricane
+fleet ibis
+	government "Unknown "
+	personality heroic
+	variant
+		Ibis
 fleet kar_ik_vot_349
 	government "Unknown "
 	personality heroic
@@ -115,6 +265,26 @@ fleet kestrel
 	personality heroic
 	variant
 		Kestrel
+fleet kimek_briar
+	government "Unknown "
+	personality heroic
+	variant
+		"Kimek Briar"
+fleet kimek_spire
+	government "Unknown "
+	personality heroic
+	variant
+		"Kimek Spire"
+fleet kimek_thistle
+	government "Unknown "
+	personality heroic
+	variant
+		"Kimek Thistle"
+fleet kimek_thorn
+	government "Unknown "
+	personality heroic
+	variant
+		"Kimek Thorn"
 fleet korath_raider
 	government "Unknown "
 	personality heroic
@@ -126,6 +296,11 @@ fleet korath_world-ship_a
 	personality heroic
 	variant
 		"Korath World-Ship"
+fleet lance
+	government "Unknown "
+	personality heroic
+	variant
+		Lance
 fleet leviathan
 	government "Unknown "
 	personality heroic
@@ -186,11 +361,36 @@ fleet model_8
 	personality heroic
 	variant
 		"Model 8"
+fleet modified_argosy
+	government "Unknown "
+	personality heroic
+	variant
+		"Modified Argosy"
 fleet mule
 	government "Unknown "
 	personality heroic
 	variant
 		Mule
+fleet nest
+	government "Unknown "
+	personality heroic
+	variant
+		Nest
+fleet osprey
+	government "Unknown "
+	personality heroic
+	variant
+		Osprey
+fleet pelican
+	government "Unknown "
+	personality heroic
+	variant
+		Pelican
+fleet penguin
+	government "Unknown "
+	personality heroic
+	variant
+		Penguin
 fleet pond_strider
 	government "Unknown "
 	personality heroic
@@ -232,6 +432,11 @@ fleet quarg_wardragon
 	personality heroic
 	variant
 		"Quarg Wardragon"
+fleet quicksilver
+	government "Unknown "
+	personality heroic
+	variant
+		Quicksilver
 fleet rainmaker
 	government "Unknown "
 	personality heroic
@@ -242,11 +447,56 @@ fleet raven
 	personality heroic
 	variant
 		Raven
+fleet riptide
+	government "Unknown "
+	personality heroic
+	variant
+		Riptide
+fleet roost
+	government "Unknown "
+	personality heroic
+	variant
+		Roost
+fleet saryd_runabout
+	government "Unknown "
+	personality heroic
+	variant
+		"Saryd Runabout"
+fleet saryd_sojourner
+	government "Unknown "
+	personality heroic
+	variant
+		"Saryd Sojourner"
+fleet saryd_traveler
+	government "Unknown "
+	personality heroic
+	variant
+		"Saryd Traveler"
+fleet saryd_visitor
+	government "Unknown "
+	personality heroic
+	variant
+		"Saryd Visitor"
+fleet scout
+	government "Unknown "
+	personality heroic
+	variant
+		Scout
 fleet shield_beetle
 	government "Unknown "
 	personality heroic
 	variant
 		"Shield Beetle"
+fleet shuttle
+	government "Unknown "
+	personality heroic
+	variant
+		Shuttle
+fleet skein
+	government "Unknown "
+	personality heroic
+	variant
+		Skein
 fleet solifuge
 	government "Unknown "
 	personality heroic
@@ -268,6 +518,16 @@ fleet starling
 	personality heroic
 	variant
 		Starling
+fleet star_barge
+	government "Unknown "
+	personality heroic
+	variant
+		"Star Barge"
+fleet star_queen
+	government "Unknown "
+	personality heroic
+	variant
+		"Star Queen"
 fleet strong_wind
 	government "Unknown "
 	personality heroic
@@ -312,6 +572,26 @@ fleet vanguard
 	personality heroic
 	variant
 		Vanguard
+fleet void_sprite_infant
+	government "Unknown "
+	personality heroic
+	variant
+		"Void Sprite (Infant)"
+fleet void_sprite
+	government "Unknown "
+	personality heroic
+	variant
+		"Void Sprite"
+fleet wasp
+	government "Unknown "
+	personality heroic
+	variant
+		Wasp
+fleet water_bug
+	government "Unknown "
+	personality heroic
+	variant
+		"Water Bug"
 fleet winter_gale
 	government "Unknown "
 	personality heroic
