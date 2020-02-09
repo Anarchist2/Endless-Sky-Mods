@@ -17,6 +17,7 @@ shipyard coalition
 	"Saryd Visitor"
 shipyard drak
 	"Void Sprite"
+	"Void Sprite Infant"
 	Archon
 shipyard hai
 	"Lightning Bug"

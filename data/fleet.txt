@@ -3,6 +3,7 @@ fleet aerie
 	personality heroic
 	variant
 		Aerie
+		Dagger 2
 fleet albatross
 	government "Unknown "
 	personality heroic
@@ -63,6 +64,7 @@ fleet bactrian
 	personality heroic
 	variant
 		Bactrian
+		Dagger 3
 fleet bastion
 	government "Unknown "
 	personality heroic
@@ -124,6 +126,7 @@ fleet cruiser
 	government "Unknown "
 	personality heroic
 	variant
+		"Combat Drone" 4
 		Cruiser
 fleet deep_river
 	government "Unknown "
@@ -255,6 +258,8 @@ fleet ibis
 	personality heroic
 	variant
 		Ibis
+		Petrel 2
+		Tern 4
 fleet kar_ik_vot_349
 	government "Unknown "
 	personality heroic
@@ -370,11 +375,13 @@ fleet mule
 	government "Unknown "
 	personality heroic
 	variant
+		Dagger
 		Mule
 fleet nest
 	government "Unknown "
 	personality heroic
 	variant
+		Finch 2
 		Nest
 fleet osprey
 	government "Unknown "
@@ -456,6 +463,7 @@ fleet roost
 	government "Unknown "
 	personality heroic
 	variant
+		Finch 4
 		Roost
 fleet saryd_runabout
 	government "Unknown "
@@ -496,6 +504,7 @@ fleet skein
 	government "Unknown "
 	personality heroic
 	variant
+		Finch 6
 		Skein
 fleet solifuge
 	government "Unknown "
