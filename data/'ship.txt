@@ -1,0 +1,791 @@
+ship Adder
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-3 1
+		CM-FT-3 1
+		CM-PP-3 1
+		CM-S-3 1
+		CM-TH-3 1
+		cost 86810
+		HP-M 1
+		HP-S 2
+		HP-U 2
+		hull 1620
+		IC-1 3
+		IC-2 2
+		IC-3 2
+		mass 35
+ship "Alliance Challenger"
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-4 1
+		CM-PP-6 1
+		CM-S-4 1
+		CM-TH-6 1
+		cost 28982605
+		HP-L 1
+		HP-M 3
+		HP-S 3
+		HP-U 4
+		hull 5400
+		IC-1 1
+		IC-2 2
+		IC-3 2
+		IC-4 3
+		IC-6 2
+		mass 450
+ship "Alliance Chieftain"
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-4 1
+		CM-PP-6 1
+		CM-S-4 1
+		CM-TH-6 1
+		cost 18991773
+		HP-L 2
+		HP-M 1
+		HP-S 3
+		HP-U 4
+		hull 5040
+		IC-1 1
+		IC-2 2
+		IC-4 4
+		IC-5 1
+		IC-6 1
+		mass 400
+ship "Alliance Crusader"
+	attributes
+		"required crew" 1
+		bunks 3
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-4 1
+		CM-PP-6 1
+		CM-S-4 1
+		CM-TH-6 1
+		cost 23675231
+		HP-L 1
+		HP-M 2
+		HP-S 3
+		HP-U 4
+		hull 5400
+		IC-1 1
+		IC-2 2
+		IC-3 2
+		IC-4 3
+		IC-5 1
+		IC-6 1
+		mass 500
+ship Anaconda
+	attributes
+		"required crew" 1
+		bunks 3
+		category Interceptor
+		CM-FSD-6 1
+		CM-FT-5 1
+		CM-PP-8 1
+		CM-S-8 1
+		CM-TH-7 1
+		cost 146968450
+		HP-H 1
+		HP-L 3
+		HP-M 2
+		HP-S 2
+		HP-U 8
+		hull 9450
+		IC-1 1
+		IC-2 1
+		IC-4 3
+		IC-5 4
+		IC-6 3
+		IC-7 1
+		mass 400
+ship "Asp Explorer"
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-5 1
+		CM-PP-5 1
+		CM-S-5 1
+		CM-TH-5 1
+		cost 6660150
+		HP-M 2
+		HP-S 4
+		HP-U 4
+		hull 3780
+		IC-1 1
+		IC-2 2
+		IC-3 3
+		IC-5 1
+		IC-6 1
+		mass 280
+ship "Asp Scout"
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-4 1
+		CM-FT-4 1
+		CM-PP-4 1
+		CM-S-4 1
+		CM-TH-4 1
+		cost 3961150
+		HP-M 2
+		HP-S 2
+		HP-U 2
+		hull 3240
+		IC-1 1
+		IC-2 2
+		IC-3 2
+		IC-4 1
+		IC-5 1
+		mass 150
+ship "Beluga Liner"
+	attributes
+		"required crew" 1
+		bunks 3
+		category Interceptor
+		CM-FSD-7 1
+		CM-FT-7 1
+		CM-PP-6 1
+		CM-S-5 1
+		CM-TH-7 1
+		cost 84531770
+		HP-M 5
+		HP-U 6
+		hull 5040
+		IC-1 1
+		IC-3 4
+		IC-4 1
+		IC-5 2
+		IC-6 4
+		mass 950
+ship "Cobra Mk III"
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-4 1
+		CM-FT-4 1
+		CM-PP-4 1
+		CM-S-3 1
+		CM-TH-4 1
+		cost 348720
+		HP-M 2
+		HP-S 2
+		HP-U 2
+		hull 2160
+		IC-1 2
+		IC-2 3
+		IC-4 3
+		mass 180
+ship "Cobra Mk IV"
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-4 1
+		CM-FT-4 1
+		CM-PP-4 1
+		CM-S-3 1
+		CM-TH-4 1
+		cost 746660
+		HP-M 2
+		HP-S 3
+		HP-U 2
+		hull 2160
+		IC-1 2
+		IC-2 2
+		IC-3 2
+		IC-4 4
+		mass 210
+ship "Diamondback Explorer"
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-5 1
+		CM-PP-4 1
+		CM-S-3 1
+		CM-TH-4 1
+		cost 1893760
+		HP-L 1
+		HP-M 2
+		HP-U 4
+		hull 2700
+		IC-1 2
+		IC-2 2
+		IC-3 2
+		IC-4 2
+		mass 260
+ship "Diamondback Scout"
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-4 1
+		CM-FT-4 1
+		CM-PP-4 1
+		CM-S-2 1
+		CM-TH-4 1
+		cost 563330
+		HP-M 2
+		HP-S 2
+		HP-U 4
+		hull 2160
+		IC-1 2
+		IC-2 1
+		IC-3 3
+		mass 170
+ship Dolphin
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-4 1
+		CM-FT-4 1
+		CM-PP-4 1
+		CM-S-3 1
+		CM-TH-5 1
+		cost 1336330
+		HP-S 2
+		HP-U 3
+		hull 1980
+		IC-1 2
+		IC-2 3
+		IC-3 1
+		IC-4 2
+		IC-5 1
+		mass 140
+ship Eagle
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-3 1
+		CM-FT-2 1
+		CM-PP-2 1
+		CM-S-2 1
+		CM-TH-3 1
+		cost 43800
+		HP-S 3
+		HP-U 1
+		hull 720
+		IC-1 4
+		IC-2 2
+		IC-3 1
+		mass 50
+ship "Federal Assault Ship"
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-4 1
+		CM-PP-6 1
+		CM-S-4 1
+		CM-TH-6 1
+		cost 19814210
+		HP-L 2
+		HP-M 2
+		HP-U 4
+		hull 5400
+		IC-1 1
+		IC-2 2
+		IC-3 1
+		IC-4 3
+		IC-5 2
+		mass 480
+ship "Federal Corvette"
+	attributes
+		"required crew" 1
+		bunks 3
+		category Interceptor
+		CM-FSD-6 1
+		CM-FT-5 1
+		CM-PP-8 1
+		CM-S-8 1
+		CM-TH-7 1
+		cost 187968450
+		HP-H 2
+		HP-L 1
+		HP-M 2
+		HP-S 2
+		HP-U 8
+		hull 6660
+		IC-1 1
+		IC-3 1
+		IC-4 2
+		IC-5 4
+		IC-6 2
+		IC-7 3
+		mass 900
+ship "Federal Dropship"
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-4 1
+		CM-PP-6 1
+		CM-S-4 1
+		CM-TH-6 1
+		cost 14313210
+		HP-L 1
+		HP-M 4
+		HP-U 4
+		hull 5400
+		IC-1 1
+		IC-2 1
+		IC-3 2
+		IC-4 3
+		IC-5 2
+		IC-6 1
+		mass 580
+ship "Federal Gunship"
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-4 1
+		CM-PP-6 1
+		CM-S-5 1
+		CM-TH-6 1
+		cost 35813210
+		HP-L 1
+		HP-M 4
+		HP-S 2
+		HP-U 4
+		hull 6300
+		IC-1 1
+		IC-2 2
+		IC-3 3
+		IC-5 1
+		IC-6 2
+		mass 580
+ship Fer-de-Lance
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-4 1
+		CM-FT-3 1
+		CM-PP-6 1
+		CM-S-4 1
+		CM-TH-5 1
+		cost 51566040
+		HP-H 1
+		HP-M 4
+		HP-U 6
+		hull 4050
+		IC-1 2
+		IC-2 1
+		IC-4 2
+		IC-5 1
+		mass 250
+ship "Hauler "
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-2 1
+		CM-FT-2 1
+		CM-PP-2 1
+		CM-S-1 1
+		CM-TH-2 1
+		cost 51720
+		HP-S 1
+		HP-U 2
+		hull 1800
+		IC-1 3
+		IC-2 1
+		IC-3 2
+		mass 14
+ship "Imperial Clipper"
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-4 1
+		CM-PP-6 1
+		CM-S-5 1
+		CM-TH-6 1
+		cost 22295860
+		HP-L 2
+		HP-M 2
+		HP-U 4
+		hull 4860
+		IC-1 1
+		IC-2 2
+		IC-3 2
+		IC-4 2
+		IC-6 1
+		IC-7 1
+		mass 400
+ship "Imperial Courier"
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-3 1
+		CM-FT-3 1
+		CM-PP-4 1
+		CM-S-2 1
+		CM-TH-3 1
+		cost 2541930
+		HP-M 3
+		HP-U 4
+		hull 1440
+		IC-1 3
+		IC-2 3
+		IC-3 2
+		mass 35
+ship "Imperial Cutter"
+	attributes
+		"required crew" 1
+		bunks 3
+		category Interceptor
+		CM-FSD-7 1
+		CM-FT-6 1
+		CM-PP-8 1
+		CM-S-7 1
+		CM-TH-8 1
+		cost 208968450
+		HP-H 1
+		HP-L 2
+		HP-M 4
+		HP-U 8
+		hull 7200
+		IC-1 1
+		IC-3 1
+		IC-4 1
+		IC-5 4
+		IC-6 3
+		IC-8 2
+		mass 1100
+ship "Imperial Eagle"
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-3 1
+		CM-FT-2 1
+		CM-PP-3 1
+		CM-S-2 1
+		CM-TH-3 1
+		cost 109830
+		HP-M 1
+		HP-S 2
+		HP-U 1
+		hull 1080
+		IC-1 4
+		IC-2 2
+		IC-3 1
+		mass 50
+ship Keelback
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-4 1
+		CM-FT-4 1
+		CM-PP-4 1
+		CM-S-2 1
+		CM-TH-4 1
+		cost 3125150
+		HP-M 2
+		HP-S 2
+		HP-U 3
+		hull 4860
+		IC-1 1
+		IC-2 2
+		IC-3 1
+		IC-4 1
+		IC-5 2
+		mass 180
+ship "Krait Mk II"
+	attributes
+		"required crew" 1
+		bunks 3
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-5 1
+		CM-PP-7 1
+		CM-S-6 1
+		CM-TH-6 1
+		cost 44215225
+		HP-L 3
+		HP-M 2
+		HP-U 4
+		hull 3960
+		IC-1 1
+		IC-2 1
+		IC-3 2
+		IC-4 1
+		IC-5 2
+		IC-6 2
+		mass 320
+ship "Krait Phantom"
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-5 1
+		CM-PP-7 1
+		CM-S-6 1
+		CM-TH-6 1
+		cost 37472254
+		HP-L 2
+		HP-M 2
+		HP-U 4
+		hull 3240
+		IC-1 1
+		IC-2 1
+		IC-3 3
+		IC-5 3
+		IC-6 1
+		mass 270
+ship Mamba
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-4 1
+		CM-FT-3 1
+		CM-PP-6 1
+		CM-S-4 1
+		CM-TH-5 1
+		cost 56329581
+		HP-H 1
+		HP-L 2
+		HP-S 2
+		HP-U 6
+		hull 4140
+		IC-1 1
+		IC-2 2
+		IC-3 1
+		IC-4 1
+		IC-5 1
+		mass 250
+ship Orca
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-5 1
+		CM-PP-5 1
+		CM-S-4 1
+		CM-TH-6 1
+		cost 48538900
+		HP-L 1
+		HP-M 2
+		HP-U 4
+		hull 3960
+		IC-1 1
+		IC-2 2
+		IC-3 1
+		IC-4 1
+		IC-5 3
+		IC-6 1
+		mass 290
+ship Python
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-5 1
+		CM-PP-7 1
+		CM-S-6 1
+		CM-TH-6 1
+		cost 56977180
+		HP-L 3
+		HP-M 2
+		HP-U 4
+		hull 4680
+		IC-1 1
+		IC-2 1
+		IC-3 2
+		IC-4 1
+		IC-5 2
+		IC-6 3
+		mass 350
+ship Sidewinder
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-2 1
+		CM-FT-1 1
+		CM-PP-2 1
+		CM-S-1 1
+		CM-TH-2 1
+		cost 31000
+		HP-S 2
+		HP-U 2
+		hull 1080
+		IC-1 4
+		IC-2 2
+		mass 25
+ship "Type-10 Defender"
+	attributes
+		"required crew" 1
+		bunks 3
+		category Interceptor
+		CM-FSD-7 1
+		CM-FT-6 1
+		CM-PP-8 1
+		CM-S-4 1
+		CM-TH-7 1
+		cost 124914502
+		HP-L 4
+		HP-M 3
+		HP-S 2
+		HP-U 8
+		hull 10440
+		IC-1 1
+		IC-2 1
+		IC-3 2
+		IC-4 2
+		IC-5 3
+		IC-6 1
+		IC-7 1
+		IC-8 1
+		mass 1200
+ship "Type-6 Transporter"
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-4 1
+		CM-FT-4 1
+		CM-PP-3 1
+		CM-S-2 1
+		CM-TH-4 1
+		cost 1044950
+		HP-S 2
+		HP-U 3
+		hull 3240
+		IC-1 1
+		IC-2 2
+		IC-3 1
+		IC-4 2
+		IC-5 2
+		mass 155
+ship "Type-7 Transporter"
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-5 1
+		CM-FT-5 1
+		CM-PP-5 1
+		CM-S-3 1
+		CM-TH-5 1
+		cost 17471260
+		HP-S 4
+		HP-U 4
+		hull 6120
+		IC-1 1
+		IC-2 1
+		IC-3 2
+		IC-5 3
+		IC-6 3
+		mass 350
+ship "Type-9 Heavy"
+	attributes
+		"required crew" 1
+		bunks 3
+		category Interceptor
+		CM-FSD-6 1
+		CM-FT-6 1
+		CM-PP-6 1
+		CM-S-4 1
+		CM-TH-7 1
+		cost 76554840
+		HP-M 3
+		HP-S 2
+		HP-U 4
+		hull 8640
+		IC-1 1
+		IC-2 1
+		IC-3 2
+		IC-4 2
+		IC-5 1
+		IC-6 1
+		IC-7 1
+		IC-8 2
+		mass 850
+ship Viper
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-3 1
+		CM-FT-2 1
+		CM-PP-3 1
+		CM-S-3 1
+		CM-TH-3 1
+		cost 141930
+		HP-M 2
+		HP-S 2
+		HP-U 2
+		hull 1260
+		IC-1 3
+		IC-2 1
+		IC-3 3
+		mass 50
+ship "Viper Mk IV"
+	attributes
+		"required crew" 1
+		bunks 1
+		category Interceptor
+		CM-FSD-4 1
+		CM-FT-4 1
+		CM-PP-4 1
+		CM-S-3 1
+		CM-TH-4 1
+		cost 436930
+		HP-M 2
+		HP-S 2
+		HP-U 2
+		hull 2700
+		IC-1 3
+		IC-2 2
+		IC-3 2
+		IC-4 2
+		mass 190
+ship Vulture
+	attributes
+		"required crew" 1
+		bunks 2
+		category Interceptor
+		CM-FSD-4 1
+		CM-FT-3 1
+		CM-PP-4 1
+		CM-S-4 1
+		CM-TH-5 1
+		cost 4924620
+		HP-L 2
+		HP-U 4
+		hull 2880
+		IC-1 4
+		IC-2 1
+		IC-4 1
+		IC-5 2
+		mass 230
