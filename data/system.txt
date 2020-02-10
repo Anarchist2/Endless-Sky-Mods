@@ -544,7 +544,7 @@ system Omnis
 		object Penguin
 			distance 600
 			offset 150
-			sprite ship/penguin
+			sprite ship/penguin/penguin
 		object Starling
 			distance 600
 			offset 180
