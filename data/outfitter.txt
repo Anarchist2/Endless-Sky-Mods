@@ -59,6 +59,7 @@ outfitter drak
 outfitter hai
 	"Boulder Reactor"
 	"Bullfrog Anti-Missile"
+	"Chameleon Anti-Missile"
 	"Fuel Pod"
 	"Geode Reactor"
 	"Hai Chasm Batteries"
@@ -118,7 +119,6 @@ outfitter human
 	"Cargo Scanner"
 	"Carrier License"
 	"Catalytic Ramscoop"
-	"Chameleon Anti-Missile"
 	"Chipmunk Plasma Steering"
 	"Chipmunk Plasma Thruster"
 	"City-Ship License"
