@@ -6,6 +6,8 @@ system Omnis
 	add object Irm
 		distance 10500
 		sprite sprite/black-hole-core-land
+		object
+			sprite sprite/wisp_red
 system Waypoint
 	add object irm_gate
 		distance 6048
