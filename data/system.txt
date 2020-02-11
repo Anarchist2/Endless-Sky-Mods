@@ -287,7 +287,7 @@ system Omnis
 	object Coalition
 		distance 10000
 		sprite sprite/black-hole-core-land
-		object
+		object coalition_gateway
 			sprite planet/wisp
 	object Corvette
 		distance 4000
@@ -308,7 +308,7 @@ system Omnis
 	object Drak
 		distance 13000
 		sprite sprite/black-hole-core-land
-		object
+		object drak_gateway
 			sprite planet/wisp
 	object Dreadnought
 		distance 4000
@@ -413,8 +413,6 @@ system Omnis
 		distance 6000
 		offset 12
 		sprite ship/gascraft
-	object gateway
-		sprite planet/wisp
 	object Geocoris
 		distance 5000
 		offset 32
@@ -434,7 +432,7 @@ system Omnis
 	object Hai
 		distance 5000
 		sprite sprite/black-hole-core-land
-		object
+		object hai_gateway
 			sprite planet/wisp
 	object Hauler
 		distance 4000
@@ -451,7 +449,7 @@ system Omnis
 	object Human
 		distance 4000
 		sprite sprite/black-hole-core-land
-		object
+		object human_gateway
 			sprite planet/wisp
 	object Hurricane
 		distance 9000
@@ -460,7 +458,7 @@ system Omnis
 	object Ka'het
 		distance 7000
 		sprite sprite/black-hole-core-land
-		object
+		object ka'het_gateway
 			sprite planet/wisp
 	object Kestrel
 		distance 4000
@@ -469,7 +467,7 @@ system Omnis
 	object Korath
 		distance 8000
 		sprite sprite/black-hole-core-land
-		object
+		object korath_gateway
 			sprite planet/wisp
 	object Ibis
 		distance 6000
@@ -499,6 +497,8 @@ system Omnis
 		distance 4000
 		offset 156
 		sprite ship/nest
+	object omnis_gateway
+		sprite planet/wisp
 	object Osprey
 		distance 4000
 		offset 160
@@ -522,12 +522,12 @@ system Omnis
 	object Pug
 		distance 12000
 		sprite sprite/black-hole-core-land
-		object
+		object pug_gateway
 			sprite planet/wisp
 	object Quarg
 		distance 11000
 		sprite sprite/black-hole-core-land
-		object
+		object quarg_gateway
 			sprite planet/wisp
 	object Rainmaker
 		distance 4000
@@ -540,7 +540,7 @@ system Omnis
 	object Remnant
 		distance 6000
 		sprite sprite/black-hole-core-land
-		object
+		object remnant_gateway
 			sprite planet/wisp
 	object Riptide
 		distance 9000
@@ -601,7 +601,7 @@ system Omnis
 	object Wanderer
 		distance 9000
 		sprite sprite/black-hole-core-land
-		object
+		object wanderer_gateway
 			sprite planet/wisp
 	object Wasp
 		distance 4000
