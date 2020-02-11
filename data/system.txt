@@ -7,67 +7,67 @@ system Omnis
 			sprite planet/wisp
 	object "Arach Courier"
 		distance 10000
-		offset 6
+		offset 4
 		sprite "ship/arach courier"
 	object "Arach Freighter"
 		distance 10000
-		offset 9
+		offset 6
 		sprite "ship/arach freighter"
 	object "Arach Hulk"
 		distance 10000
-		offset 12
+		offset 8
 		sprite "ship/arach hulk"
 	object "Arach Spindle"
 		distance 10000
-		offset 15
+		offset 10
 		sprite "ship/arach spindle"
 	object "Arach Transport"
 		distance 10000
-		offset 18
+		offset 12
 		sprite "ship/arach transport"
 	object "Heliarch Interdictor"
 		distance 10000
-		offset 21
+		offset 14
 		sprite "ship/heliarch interdictor"
 	object "Heliarch Neutralizer"
 		distance 10000
-		offset 24
+		offset 16
 		sprite "ship/heliarch neutralizer"
 	object "Heliarch Punisher"
 		distance 10000
-		offset 27
+		offset 18
 		sprite "ship/heliarch punisher"
 	object "Kimek Briar"
 		distance 10000
-		offset 30
+		offset 20
 		sprite "ship/kimek briar"
 	object "Kimek Spire"
 		distance 10000
-		offset 33
+		offset 22
 		sprite "ship/kimek spire"
 	object "Kimek Thistle"
 		distance 10000
-		offset 36
+		offset 24
 		sprite "ship/kimek thistle"
 	object "Kimek Thorn"
 		distance 10000
-		offset 39
+		offset 26
 		sprite "ship/kimek thorn"
 	object "Saryd Runabout"
 		distance 10000
-		offset 42
+		offset 28
 		sprite "ship/saryd runabout"
 	object "Saryd Sojourner"
 		distance 10000
-		offset 45
+		offset 30
 		sprite "ship/saryd sojourner"
 	object "Saryd Traveler"
 		distance 10000
-		offset 48
+		offset 32
 		sprite "ship/saryd traveler"
 	object "Saryd Visitor"
 		distance 10000
-		offset 51
+		offset 34
 		sprite "ship/saryd visitor"
 	object Deprecated
 		distance 444
@@ -425,11 +425,11 @@ system Omnis
 			sprite planet/wisp
 	object Maeri'het
 		distance 7000
-		offset 8
+		offset 6
 		sprite ship/maeri'het
 	object Telis'het
 		distance 7000
-		offset 12
+		offset 9
 		sprite ship/telis'het
 
 
@@ -530,11 +530,11 @@ system Omnis
 			sprite planet/wisp
 	object "Quarg Skylark"
 		distance 11000
-		offset 6
+		offset 4
 		sprite ship/skylark
 	object "Quarg Wardragon"
 		distance 11000
-		offset 9
+		offset 6
 		sprite ship/wardragon
 	object Remnant
 		distance 6000
