@@ -1,12 +1,11 @@
 system Omnis
 	add object Apocalypse
-		distance 2240
-		offset 220
+		distance 10500
+		offset -4
 		sprite ship/apocalypse
 	add object Irm
-		distance 1420
-		offset 220
-		sprite sprite/station8
+		distance 10500
+		sprite sprite/black-hole-core-land
 system Waypoint
 	add object irm_gate
 		distance 6048
