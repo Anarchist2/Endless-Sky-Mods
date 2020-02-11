@@ -10,6 +10,12 @@ planet "Model 1024"
 	tribute 1
 		threshold 0
 		fleet model_1024
+planet "Paltry Freighter"
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet paltry_freighter
 planet "Pug Kaelin"
 	"required reputation" -1000
 	description `The world of Pug Kaelin, presumably an ancient outpost, seems to be completely uninhabited. Large, empty cities with towers of indescribable design encompass a portion of one single continent. The rest of the land remains almost untouched by anything not native to this planet, as if the buildings were simply lowered down onto the land rather than built up over time.`
@@ -21,10 +27,34 @@ planet "Relic Station"
 	description `Everything here is enigmatic and frankly alien. The passageways are incomprehensibly large and the walkways are guided by unbroken blinding lights that follow up the edges of the doorways.`
 	description `Mazes of endless halls and slated walls seem designed to disorient visitors. It would be easy to lose yourself here, both your person and your mind.`
 	landscape land/space6
+planet Adel
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet adel
+planet Aesalon
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet aesalon
 planet barren_wormhole
 	description ``
 planet barren_wormhole2
 	description ``
+planet Bennu
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet bennu
+planet Bulwark
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet bulwark
 planet graveyard_wormhole3
 	description ``
 planet Hobby
@@ -33,5 +63,17 @@ planet Hobby
 	tribute 1
 		threshold 0
 		fleet hobby
+planet Hornet
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet hornet
+planet Hydra
+	bribe 0
+	government "Unknown "
+	tribute 1
+		threshold 0
+		fleet hydra
 planet link_wormhole
 	description ``

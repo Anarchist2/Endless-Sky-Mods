@@ -20,17 +20,45 @@ system Lucina
 	government "Uninhabited "
 system Omnis
 	add object "Kar Ik Vot 637"
-		distance 3980
-		offset 130
+		distance 8000
+		offset -6
 		sprite ship/kar_ik_vot_637
 	add object "Model 1024"
-		distance 4740
-		offset 112
+		distance 8000
+		offset -9
 		sprite ship/model_1024
+	add object "Paltry Freighter"
+		distance 4000
+		offset -8
+		sprite ship/paltry_freighter
+	add object Adel
+		distance 4000
+		offset -12
+		sprite ship/adel
+	add object Aesalon
+		distance 4000
+		offset -16
+		sprite ship/aesalon
+	add object Bennu
+		distance 4000
+		offset -20
+		sprite ship/bennu
+	add object Bulwark
+		distance 4000
+		offset -24
+		sprite ship/bulwark
 	add object Hobby
-		distance 2040
-		offset 45
+		distance 6000
+		offset -6
 		sprite ship/hobby
+	add object Hornet
+		distance 4000
+		offset -28
+		sprite ship/hornet
+	add object Hydra
+		distance 4000
+		offset -32
+		sprite ship/hydra
 system Parca
 	government "Uninhabited "
 system Peragenor
