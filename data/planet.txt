@@ -333,7 +333,7 @@ planet "Void Sprite"
 	government "Unknown "
 	tribute 1
 		threshold 0
-		fleet void_sprite_adult
+		fleet void_sprite
 planet "Water Bug"
 	bribe 0
 	government "Unknown "
