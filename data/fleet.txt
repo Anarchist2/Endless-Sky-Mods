@@ -238,11 +238,11 @@ fleet heliarch_interdictor
 	personality heroic
 	variant
 		"Heliarch Interdictor"
-fleet heliarch_neutralizor
+fleet heliarch_neutralizer
 	government "Unknown "
 	personality heroic
 	variant
-		"Heliarch Neutralizor"
+		"Heliarch Neutralizer"
 fleet heliarch_punisher
 	government "Unknown "
 	personality heroic
