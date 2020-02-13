@@ -297,6 +297,7 @@ shipyard vanilla
 	Wasp
 shipyard variants
 	"Albatross (Heavy)"
+	"Albatross (Shield)"
 	"Albatross (Sniper)"
 	"Albatross (Turret)"
 	"Aphid (Anti-Missile)"
@@ -308,6 +309,7 @@ shipyard variants
 	"Argosy (Turret)"
 	"Arrow (Hai)"
 	"Autumn Leaf (Heavy)"
+	"Bactrian (Cosmic Devil)"
 	"Bactrian (Hai Engines)"
 	"Bactrian (Hai Weapons)"
 	"Bactrian (Hired Gun)"
@@ -328,6 +330,7 @@ shipyard variants
 	"Bulk Freighter (Hai)"
 	"Bulk Freighter (Heavy)"
 	"Bulk Freighter (Proton)"
+	"Carrier (Alpha)"
 	"Carrier (Jump)"
 	"Carrier (Mark II)"
 	"Centipede (Pulse)"
@@ -341,6 +344,7 @@ shipyard variants
 	"Cruiser (Heavy)"
 	"Cruiser (Jump)"
 	"Cruiser (Mark II)"
+	"Deep River (Jump, Unarmed)"
 	"Deep River 0"
 	"Deep River 1"
 	"Deep River 2"
@@ -485,6 +489,7 @@ shipyard variants
 	"Splinter (Proton)"
 	"Star Barge (Armed)"
 	"Star Queen (Hai)"
+	"Star Queen (Unarmed)"
 	"Starling (Heavy)"
 	"Starling (Hunter)"
 	"Starling (Sniper)"
@@ -511,6 +516,7 @@ shipyard variants
 	"Water Bug (Pulse)"
 	"Winter Gale (Heavy)"
 	"Winter Gale (Missile)"
+	Doombat
 shipyard wanderer
 	"Autumn Leaf"
 	"Cool Breeze"
