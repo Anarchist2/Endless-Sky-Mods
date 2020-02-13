@@ -1,10 +1,10 @@
 ship Adder
 	attributes
+		"fuel capacity" 8
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-3 1
-		CM-FT-3 1
 		CM-PP-3 1
 		CM-S-3 1
 		CM-TH-3 1
@@ -19,11 +19,11 @@ ship Adder
 		mass 35
 ship "Alliance Challenger"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-4 1
 		CM-PP-6 1
 		CM-S-4 1
 		CM-TH-6 1
@@ -41,11 +41,11 @@ ship "Alliance Challenger"
 		mass 450
 ship "Alliance Chieftain"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-4 1
 		CM-PP-6 1
 		CM-S-4 1
 		CM-TH-6 1
@@ -63,11 +63,11 @@ ship "Alliance Chieftain"
 		mass 400
 ship "Alliance Crusader"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 3
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-4 1
 		CM-PP-6 1
 		CM-S-4 1
 		CM-TH-6 1
@@ -86,11 +86,11 @@ ship "Alliance Crusader"
 		mass 500
 ship Anaconda
 	attributes
+		"fuel capacity" 32
 		"required crew" 1
 		bunks 3
 		category Interceptor
 		CM-FSD-6 1
-		CM-FT-5 1
 		CM-PP-8 1
 		CM-S-8 1
 		CM-TH-7 1
@@ -110,11 +110,11 @@ ship Anaconda
 		mass 400
 ship "Asp Explorer"
 	attributes
+		"fuel capacity" 32
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-5 1
 		CM-PP-5 1
 		CM-S-5 1
 		CM-TH-5 1
@@ -131,11 +131,11 @@ ship "Asp Explorer"
 		mass 280
 ship "Asp Scout"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-4 1
-		CM-FT-4 1
 		CM-PP-4 1
 		CM-S-4 1
 		CM-TH-4 1
@@ -152,11 +152,11 @@ ship "Asp Scout"
 		mass 150
 ship "Beluga Liner"
 	attributes
+		"fuel capacity" 128
 		"required crew" 1
 		bunks 3
 		category Interceptor
 		CM-FSD-7 1
-		CM-FT-7 1
 		CM-PP-6 1
 		CM-S-5 1
 		CM-TH-7 1
@@ -172,11 +172,11 @@ ship "Beluga Liner"
 		mass 950
 ship "Cobra Mk III"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-4 1
-		CM-FT-4 1
 		CM-PP-4 1
 		CM-S-3 1
 		CM-TH-4 1
@@ -191,11 +191,11 @@ ship "Cobra Mk III"
 		mass 180
 ship "Cobra Mk IV"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-4 1
-		CM-FT-4 1
 		CM-PP-4 1
 		CM-S-3 1
 		CM-TH-4 1
@@ -211,11 +211,11 @@ ship "Cobra Mk IV"
 		mass 210
 ship "Diamondback Explorer"
 	attributes
+		"fuel capacity" 32
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-5 1
 		CM-PP-4 1
 		CM-S-3 1
 		CM-TH-4 1
@@ -231,11 +231,11 @@ ship "Diamondback Explorer"
 		mass 260
 ship "Diamondback Scout"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-4 1
-		CM-FT-4 1
 		CM-PP-4 1
 		CM-S-2 1
 		CM-TH-4 1
@@ -250,11 +250,11 @@ ship "Diamondback Scout"
 		mass 170
 ship Dolphin
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-4 1
-		CM-FT-4 1
 		CM-PP-4 1
 		CM-S-3 1
 		CM-TH-5 1
@@ -270,11 +270,11 @@ ship Dolphin
 		mass 140
 ship Eagle
 	attributes
+		"fuel capacity" 4
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-3 1
-		CM-FT-2 1
 		CM-PP-2 1
 		CM-S-2 1
 		CM-TH-3 1
@@ -288,11 +288,11 @@ ship Eagle
 		mass 50
 ship "Federal Assault Ship"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-4 1
 		CM-PP-6 1
 		CM-S-4 1
 		CM-TH-6 1
@@ -309,11 +309,11 @@ ship "Federal Assault Ship"
 		mass 480
 ship "Federal Corvette"
 	attributes
+		"fuel capacity" 32
 		"required crew" 1
 		bunks 3
 		category Interceptor
 		CM-FSD-6 1
-		CM-FT-5 1
 		CM-PP-8 1
 		CM-S-8 1
 		CM-TH-7 1
@@ -333,11 +333,11 @@ ship "Federal Corvette"
 		mass 900
 ship "Federal Dropship"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-4 1
 		CM-PP-6 1
 		CM-S-4 1
 		CM-TH-6 1
@@ -355,11 +355,11 @@ ship "Federal Dropship"
 		mass 580
 ship "Federal Gunship"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-4 1
 		CM-PP-6 1
 		CM-S-5 1
 		CM-TH-6 1
@@ -377,11 +377,11 @@ ship "Federal Gunship"
 		mass 580
 ship Fer-de-Lance
 	attributes
+		"fuel capacity" 8
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-4 1
-		CM-FT-3 1
 		CM-PP-6 1
 		CM-S-4 1
 		CM-TH-5 1
@@ -397,11 +397,11 @@ ship Fer-de-Lance
 		mass 250
 ship "Hauler "
 	attributes
+		"fuel capacity" 4
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-2 1
-		CM-FT-2 1
 		CM-PP-2 1
 		CM-S-1 1
 		CM-TH-2 1
@@ -415,11 +415,11 @@ ship "Hauler "
 		mass 14
 ship "Imperial Clipper"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-4 1
 		CM-PP-6 1
 		CM-S-5 1
 		CM-TH-6 1
@@ -437,11 +437,11 @@ ship "Imperial Clipper"
 		mass 400
 ship "Imperial Courier"
 	attributes
+		"fuel capacity" 8
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-3 1
-		CM-FT-3 1
 		CM-PP-4 1
 		CM-S-2 1
 		CM-TH-3 1
@@ -455,11 +455,11 @@ ship "Imperial Courier"
 		mass 35
 ship "Imperial Cutter"
 	attributes
+		"fuel capacity" 64
 		"required crew" 1
 		bunks 3
 		category Interceptor
 		CM-FSD-7 1
-		CM-FT-6 1
 		CM-PP-8 1
 		CM-S-7 1
 		CM-TH-8 1
@@ -478,11 +478,11 @@ ship "Imperial Cutter"
 		mass 1100
 ship "Imperial Eagle"
 	attributes
+		"fuel capacity" 4
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-3 1
-		CM-FT-2 1
 		CM-PP-3 1
 		CM-S-2 1
 		CM-TH-3 1
@@ -497,11 +497,11 @@ ship "Imperial Eagle"
 		mass 50
 ship Keelback
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-4 1
-		CM-FT-4 1
 		CM-PP-4 1
 		CM-S-2 1
 		CM-TH-4 1
@@ -518,11 +518,11 @@ ship Keelback
 		mass 180
 ship "Krait Mk II"
 	attributes
+		"fuel capacity" 32
 		"required crew" 1
 		bunks 3
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-5 1
 		CM-PP-7 1
 		CM-S-6 1
 		CM-TH-6 1
@@ -540,11 +540,11 @@ ship "Krait Mk II"
 		mass 320
 ship "Krait Phantom"
 	attributes
+		"fuel capacity" 32
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-5 1
 		CM-PP-7 1
 		CM-S-6 1
 		CM-TH-6 1
@@ -561,11 +561,11 @@ ship "Krait Phantom"
 		mass 270
 ship Mamba
 	attributes
+		"fuel capacity" 8
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-4 1
-		CM-FT-3 1
 		CM-PP-6 1
 		CM-S-4 1
 		CM-TH-5 1
@@ -583,11 +583,11 @@ ship Mamba
 		mass 250
 ship Orca
 	attributes
+		"fuel capacity" 32
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-5 1
 		CM-PP-5 1
 		CM-S-4 1
 		CM-TH-6 1
@@ -605,11 +605,11 @@ ship Orca
 		mass 290
 ship Python
 	attributes
+		"fuel capacity" 32
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-5 1
 		CM-PP-7 1
 		CM-S-6 1
 		CM-TH-6 1
@@ -627,11 +627,11 @@ ship Python
 		mass 350
 ship Sidewinder
 	attributes
+		"fuel capacity" 2
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-2 1
-		CM-FT-1 1
 		CM-PP-2 1
 		CM-S-1 1
 		CM-TH-2 1
@@ -644,11 +644,11 @@ ship Sidewinder
 		mass 25
 ship "Type-10 Defender"
 	attributes
+		"fuel capacity" 64
 		"required crew" 1
 		bunks 3
 		category Interceptor
 		CM-FSD-7 1
-		CM-FT-6 1
 		CM-PP-8 1
 		CM-S-4 1
 		CM-TH-7 1
@@ -669,11 +669,11 @@ ship "Type-10 Defender"
 		mass 1200
 ship "Type-6 Transporter"
 	attributes
+		"fuel capacity" 16
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-4 1
-		CM-FT-4 1
 		CM-PP-3 1
 		CM-S-2 1
 		CM-TH-4 1
@@ -689,11 +689,11 @@ ship "Type-6 Transporter"
 		mass 155
 ship "Type-7 Transporter"
 	attributes
+		"fuel capacity" 32
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-5 1
-		CM-FT-5 1
 		CM-PP-5 1
 		CM-S-3 1
 		CM-TH-5 1
@@ -709,11 +709,11 @@ ship "Type-7 Transporter"
 		mass 350
 ship "Type-9 Heavy"
 	attributes
+		"fuel capacity" 64
 		"required crew" 1
 		bunks 3
 		category Interceptor
 		CM-FSD-6 1
-		CM-FT-6 1
 		CM-PP-6 1
 		CM-S-4 1
 		CM-TH-7 1
@@ -733,11 +733,11 @@ ship "Type-9 Heavy"
 		mass 850
 ship Viper
 	attributes
+		"fuel capacity" 4
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-3 1
-		CM-FT-2 1
 		CM-PP-3 1
 		CM-S-3 1
 		CM-TH-3 1
@@ -752,11 +752,11 @@ ship Viper
 		mass 50
 ship "Viper Mk IV"
 	attributes
+		"fuel capacity" 32
 		"required crew" 1
 		bunks 1
 		category Interceptor
 		CM-FSD-4 1
-		CM-FT-4 1
 		CM-PP-4 1
 		CM-S-3 1
 		CM-TH-4 1
@@ -772,11 +772,11 @@ ship "Viper Mk IV"
 		mass 190
 ship Vulture
 	attributes
+		"fuel capacity" 8
 		"required crew" 1
 		bunks 2
 		category Interceptor
 		CM-FSD-4 1
-		CM-FT-3 1
 		CM-PP-4 1
 		CM-S-4 1
 		CM-TH-5 1
