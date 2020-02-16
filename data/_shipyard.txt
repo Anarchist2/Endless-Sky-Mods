@@ -15,9 +15,6 @@ shipyard korath
 	"Korath Stalker"
 	"Model 1024"
 shipyard plugin
-	"A-3 Lexel"
-	"A-60 Olisivant"
-	"B-10 Warden"
 	"Kar Ik Vot 637"
 	"Korath Stalker"
 	"Model 1024"

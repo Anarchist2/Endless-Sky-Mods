@@ -23,10 +23,6 @@ planet "Pug Kaelin"
 	security 1
 	spaceport `The only word you can think of to describe the spaceport is "impressive". It is on the top of the largest tower, placed in the exact centre of one gargantuan city. With a base almost looking big enough to pass as a sizable village, very quickly getting thinner as it raises into the cities airspace.`
 	spaceport `Tiny, four-legged robots walk on the walls of every room, cleaning them in a matter of seconds. You can see more on the road below, and you presume they are everywhere in this city; this makes impossible to estimate how long the planet has been abandoned, since everything here is perfect and clean.`
-planet "Relic Station"
-	description `Everything here is enigmatic and frankly alien. The passageways are incomprehensibly large and the walkways are guided by unbroken blinding lights that follow up the edges of the doorways.`
-	description `Mazes of endless halls and slated walls seem designed to disorient visitors. It would be easy to lose yourself here, both your person and your mind.`
-	landscape land/space6
 planet Adel
 	bribe 0
 	government "Unknown "

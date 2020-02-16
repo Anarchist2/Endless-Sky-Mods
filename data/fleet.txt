@@ -18,15 +18,6 @@ fleet bulwark
 	personality heroic
 	variant
 		Bulwark
-fleet fallen
-	government Fallen
-	personality
-		coward
-		disables
-		heroic
-		mute
-	variant
-		"A-3 Lexel" 2
 fleet hobby
 	government "Unknown "
 	personality heroic
