@@ -1,5 +1,3 @@
-government "Uninhabited "
-	color .4 .4 .4
 government Fallen
 	"attitude toward"
 		"Free Worlds" -.1
