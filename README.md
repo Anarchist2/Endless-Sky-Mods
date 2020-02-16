@@ -1,2 +1,2 @@
 # Adde Endless Sky
-Any Adde content that doesn't fit in another or deserve it's own branch. This includes many new outfits and ships for various aspects of the vanilla game, even new missions here and there.
+A redesign of an old plugin that used to pop up from time to time way back when. Most of the ships and outfits use the same stats, the ships will get new sprites, outfits might not. This is in no way a revival, it's just a small nod to an old plugin.
