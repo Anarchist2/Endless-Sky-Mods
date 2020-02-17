@@ -7,7 +7,6 @@ outfit "Central Repair Hub"
 	category Systems
 	cost 6120000
 	mass 59
-	thumbnail outfit/unknown
 outfit "Fluxion Shield Generator"
 	"active cooling" 13.25
 	"cooling energy" 2.65
@@ -17,7 +16,6 @@ outfit "Fluxion Shield Generator"
 	category Systems
 	cost 5000000
 	mass 53
-	thumbnail outfit/unknown
 outfit "Infimum Shield Generator"
 	"active cooling" 17.75
 	"cooling energy" 3.55
@@ -27,7 +25,6 @@ outfit "Infimum Shield Generator"
 	category Systems
 	cost 7368000
 	mass 71
-	thumbnail outfit/unknown
 outfit "Large Graviton Steering"
 	"engine capacity" -73
 	"outfit space" -73
@@ -36,7 +33,6 @@ outfit "Large Graviton Steering"
 	category Engines
 	cost 2512000
 	mass 73
-	thumbnail outfit/unknown
 	turn 2541
 outfit "Large Graviton Thruster"
 	"engine capacity" -97
@@ -51,7 +47,6 @@ outfit "Large Graviton Thruster"
 	cost 3014000
 	mass 97
 	thrust 95.3
-	thumbnail outfit/unknown
 outfit "Peripheral Repair Hub"
 	"active cooling" 7.25
 	"cooling energy" 1.45
@@ -61,7 +56,6 @@ outfit "Peripheral Repair Hub"
 	category Systems
 	cost 2735000
 	mass 29
-	thumbnail outfit/unknown
 outfit "Singularity Core"
 	"active cooling" 19.75
 	"cooling energy" 3.95
@@ -71,7 +65,6 @@ outfit "Singularity Core"
 	category Power
 	cost 51350000
 	mass 79
-	thumbnail outfit/unknown
 	unplunderable 1
 outfit "Small Graviton Steering"
 	"engine capacity" -35
@@ -81,7 +74,6 @@ outfit "Small Graviton Steering"
 	category Engines
 	cost 715000
 	mass 35
-	thumbnail outfit/unknown
 	turn 1021
 outfit "Small Graviton Thruster"
 	"engine capacity" -47
@@ -96,7 +88,6 @@ outfit "Small Graviton Thruster"
 	cost 858000
 	mass 47
 	thrust 38.3
-	thumbnail outfit/unknown
 outfit "Tachyon Core"
 	"active cooling" 9.25
 	"cooling energy" 1.85
@@ -106,7 +97,6 @@ outfit "Tachyon Core"
 	category Power
 	cost 18500000
 	mass 37
-	thumbnail outfit/unknown
 	unplunderable 1
 outfit "Quarg Ranseur"
 	"active cooling" 7.55
@@ -117,7 +107,6 @@ outfit "Quarg Ranseur"
 	category Guns
 	cost 8150000
 	mass 31
-	thumbnail outfit/unknown
 	weapon
 		"burst count" 10
 		"burst reload" 1
@@ -144,7 +133,6 @@ outfit "Quarg Skydagger"
 	category Turrets
 	cost 6000000
 	mass 23
-	thumbnail outfit/unknown
 	weapon
 		"firing energy" 4.6
 		"firing heat" 1.5
