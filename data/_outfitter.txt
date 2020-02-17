@@ -44,6 +44,7 @@ outfitter human
 	Capacitors
 outfitter korath
 	"Korath Disruptor Gun"
+	"Korath Dual Fire-Lance Turret"
 	"Korath Fire-Lance Turret"
 	"Vector Engine (Reality Class)"
 outfitter plugin
@@ -56,6 +57,7 @@ outfitter plugin
 	"Katabatic Scanner"
 	"Knockout Gas"
 	"Korath Disruptor Gun"
+	"Korath Dual Fire-Lance Turret"
 	"Korath Fire-Lance Turret"
 	"Mass Driver"
 	"Plasma Repeater"

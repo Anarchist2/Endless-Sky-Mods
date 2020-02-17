@@ -136,7 +136,7 @@ outfit "Korath Disruptor Gun"
 		sprite projectile/disruptor
 			"frame rate" 15
 		velocity 480
-outfit "Korath Fire-Lance Turret"
+outfit "Korath Dual Fire-Lance Turret"
 	"outfit space" -52
 	"required crew" 1
 	"turret mounts" -1
@@ -144,7 +144,6 @@ outfit "Korath Fire-Lance Turret"
 	category Turrets
 	cost 1193000
 	mass 52
-	thumbnail outfit/fire-lance_turret
 	weapon
 		"firing energy" 5.3
 		"firing heat" 3.7
@@ -152,8 +151,8 @@ outfit "Korath Fire-Lance Turret"
 		"hit effect" "fire-lance impact"
 		"hull damage" 3.2
 		"shield damage" 7.6
-		"turret turn" 3
-		inaccuracy .5
+		"turret turn" 2
+		inaccuracy .4
 		lifetime 1
 		reload 1
 		sound fire-lance
@@ -161,6 +160,30 @@ outfit "Korath Fire-Lance Turret"
 			"frame rate" 12
 			"random start frame"
 		velocity 350
+outfit "Korath Fire-Lance Turret"
+	"outfit space" -27
+	"required crew" 1
+	"turret mounts" -1
+	"weapon capacity" -27
+	category Turrets
+	cost 913000
+	mass 27
+	weapon
+		"firing energy" 4.2
+		"firing heat" 3.5
+		"heat damage" 17
+		"hit effect" "fire-lance impact"
+		"hull damage" 1.2
+		"shield damage" 3.9
+		"turret turn" 3.5
+		inaccuracy .3
+		lifetime 1
+		reload 1
+		sound fire-lance
+		sprite projectile/fire-lance
+			"frame rate" 12
+			"random start frame"
+		velocity 610
 outfit "Mass Driver"
 	"gun ports" -1
 	"outfit space" -54
