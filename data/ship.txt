@@ -1,21 +1,21 @@
 ship "A-3 Lexel"
 	attributes
-		"cargo space" 20
-		"engine capacity" 85
+		"cargo space" 18
+		"engine capacity" 75
 		"fuel capacity" 400
 		"heat dissipation" .4
 		"jump drive" 1
 		"jump speed" 1
-		"outfit space" 180
+		"outfit space" 160
 		"weapon capacity" 40
 		automaton 1
 		category Interceptor
 		cost 900000
 		drag 2.5
-		hull 800
+		hull 1100
 		hyperdrive 1
 		mass 165
-		shields 3500
+		shields 2550
 		weapon
 			"blast radius" 50
 			"hit force" 100
@@ -39,56 +39,44 @@ ship "A-3 Lexel"
 		"Balefire Projector" 2	
 		"Energy Cube" 20
 		"Heat Sink" 5
-		"Shield Modulator" 15
+		"Shield Modulator" 13
 		"Storage Cell" 8
 		"Thrust Module" 8
 	sprite ship/lexel
 	thumbnail thumbnail/lexel
 ship "A-60 Olisivant"
 	attributes
-		"cargo space" 500
-		"engine capacity" 210
+		"cargo space" 610
+		"engine capacity" 145
 		"fuel capacity" 800
 		"heat dissipation" 1
+		"hull repair rate" 1.3
 		"jump drive" 1
 		"jump speed" 1
-		"outfit space" 800
+		"outfit space" 1137
 		"turret mounts" 6
-		"weapon capacity" 330
+		"weapon capacity" 527
 		automaton 1
 		category "Heavy Warship"
 		cost 31000000
-		drag 14.75
-		hull 10000
+		drag 11.86
+		hull 12700
 		hyperdrive 1
-		mass 1000
-		ramscoop 60
-		shields 18000
+		mass 1080
+		ramscoop 12
+		shields 20600
 	explode "big explosion" 20
 	explode "huge explosion" 20
-	fighter 0 0
-	fighter 0 0
-	fighter 0 0
-	fighter 0 0
-	gun 0 0
-	gun 0 0
-	gun 0 0
-	gun 0 0
-	gun 0 0
-	gun 0 0
 	outfits
 		"C-3 Nimbus Frame"
-		"Calypso Weapon" 2
-		"Denial Turret" 2
-		"Energy Cube" 40
-		"Fracture Engine" 2
+		"Calypso Weapon" 5
+		"Denial Turret" 3
+		"Energy Cube" 198
+		"Fracture Engine"
 		"Heat Sink" 20
-		"Shield Modulator" 85
-		"Storage Cell" 18
+		"Shield Modulator" 144
+		"Storage Cell" 96
 		"Thrust Module" 45
-	turret 0 0
-	turret 0 0
-	turret 0 0
 	turret 0 0
 	turret 0 0
 	turret 0 0
@@ -100,23 +88,23 @@ ship "A-60 Olisivant"
 	turret 0 0
 ship "B-10 Warden"
 	attributes
-		"cargo space" 50
-		"engine capacity" 180
+		"cargo space" 4
+		"engine capacity" 83
 		"fuel capacity" 500
 		"heat dissipation" 1
-		"hull repair rate" 2
+		"hull repair rate" 1.8
 		"jump drive" 1
 		"jump speed" 1
-		"outfit space" 400
-		"weapon capacity" 175
+		"outfit space" 392
+		"weapon capacity" 140
 		automaton 1
 		category "Medium Warship"
 		cost 4000000
-		drag 6.5
-		hull 2500
+		drag 8.9
+		hull 2750
 		hyperdrive 1
-		mass 275
-		shields 9000
+		mass 245
+		shields 8150
 		weapon
 			"blast radius" 50
 			"hit force" 100
@@ -129,14 +117,15 @@ ship "B-10 Warden"
 	gun 0 0
 	gun 0 0
 	gun 0 0
+	gun 0 0
 	outfits
 		"B-1 Achilles Frame"
-		"Balefire Lance" 2
+		"Balefire Lance"
+		"Balefire Projector" 4
 		"Denial Turret"
-		"Energy Cube" 34
+		"Energy Cube" 63
 		"Heat Sink" 16
-		"Kinetic Splicer" 2
 		"Shield Modulator" 60
-		"Storage Cell" 18
+		"Storage Cell" 28
 		"Thrust Module" 26
 	turret 0 0
