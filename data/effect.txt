@@ -30,13 +30,3 @@ effect denial_turret_hit
 	sprite sprite/denial_turret_hit
 		"frame rate" 23
 		"no repeat"
-effect kinetic_splicer_hit
-	"random angle" 360
-	"random spin" 4
-	"random velocity" .1
-	"velocity scale" -.05
-	lifetime 21
-	sound banisher
-	sprite sprite/kinetic_splicer_hit
-		"frame rate" 20
-		"no repeat"

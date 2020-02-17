@@ -151,34 +151,6 @@ outfit "Heat Sink"
 	cost 3800
 	description `This heat sink has a modular design.`
 	mass 1
-outfit "Kinetic Splicer"
-	"gun ports" -1
-	"outfit space" -35
-	"weapon capacity" -35
-	category Guns
-	cost 540000
-	description `This bizzarre weapon fires orbs of energy that somehow are able to track targets and then pull them towards you.`
-	mass 35
-	weapon
-		"firing energy" 15
-		"firing heat" 12
-		"hit effect" kinetic_splicer_hit
-		"hit force" -352
-		"hull damage" 30
-		"shield damage" 50
-		acceleration .5
-		drag .1
-		homing 3
-		inaccuracy 35
-		lifetime 600
-		reload 16
-		sound seeker
-		sprite sprite/kinetic_splicer
-			"frame rate" 20
-			"random start frame"
-		tracking .3
-		turn 4
-		velocity 5
 outfit "Shield Modulator"
 	"energy generation" -.024
 	"heat generation" .162
