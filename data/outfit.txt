@@ -1,3 +1,7 @@
+outfit "Remote Pilot"
+	automaton -1
+	bunks 1
+	category Systems
 outfit Deterrence
 	"turret mounts" -1
 	category Turrets

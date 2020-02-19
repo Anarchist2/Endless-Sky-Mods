@@ -292,6 +292,7 @@ outfitter korath
 	"Triple Plasma Core"
 	Hyperdrive
 outfitter plugin
+	"Remote Pilot"
 	Deterrence
 outfitter pug
 	"Cloaking Device"
