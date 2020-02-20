@@ -1,5 +1,43 @@
 fleet quarg_balaur
 	government "Unknown "
-	personality heroic
+	personality
+		heroic
 	variant
 		"Quarg Balaur"
+fleet quarg_defence
+	government Quarg
+	personality
+		forbearing
+		opportunistic
+	variant
+		"Quarg Balaur"
+		"Quarg Wardragon" 11
+	variant 3
+		"Quarg Skylark" 2
+		"Quarg Wardragon" 8
+	variant 4
+		"Quarg Skylark" 1
+		"Quarg Wardragon" 6
+	variant 4
+		"Quarg Skylark" 2
+		"Quarg Wardragon" 5
+fleet quarg_ring_defence
+	government Quarg
+	personality
+		forbearing
+		opportunistic
+	varian 2
+		"Quarg Balaur" 2
+		"Quarg Wardragon" 5
+	variant 5
+		"Quarg Balaur"
+		"Quarg Skylark" 1
+		"Quarg Wardragon" 9
+	variant 6
+		"Quarg Balaur"
+		"Quarg Skylark" 3
+		"Quarg Wardragon" 6
+	variant 8
+		"Quarg Balaur"
+		"Quarg Skylark" 4
+		"Quarg Wardragon" 11

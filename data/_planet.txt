@@ -1,0 +1,12 @@
+planet "Alta Hai"
+	tribute 38000
+		fleet quarg_ring_defence 3
+		threshold 61000
+planet "Kuwaru Efreti"
+	tribute 57000
+		fleet quarg_ring_defence 5
+		threshold 76000
+planet Lagrange
+	tribute 12400
+		fleet quarg_defence 2
+		threshold 34000
