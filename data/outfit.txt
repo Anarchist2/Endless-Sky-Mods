@@ -1,3 +1,12 @@
+outfit "Extra Engines"
+	"engine capacity" 1
+	category Systems
+outfit "Extra Outfit"
+	"outfit space" 1
+	category Systems
+outfit "Extra Weapons"
+	"weapon capacity" 1
+	category Systems
 outfit "Remote Pilot"
 	automaton -1
 	bunks 1

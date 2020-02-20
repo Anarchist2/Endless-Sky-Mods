@@ -292,6 +292,9 @@ outfitter korath
 	"Triple Plasma Core"
 	Hyperdrive
 outfitter plugin
+	"Extra Engines"
+	"Extra Outfit"
+	"Extra Weapons"
 	"Remote Pilot"
 	Deterrence
 outfitter pug
