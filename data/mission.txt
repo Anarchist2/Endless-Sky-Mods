@@ -42,14 +42,6 @@ mission drak_guarding_Prima
 			`	The shadows grow, reaching for you, grasping for what the light abandons, waiting. The darkness ensues and you submit, reaching for the man in the corner.`
 			`	"Be gone, quick." the voice says. The cancer within your head seems to fall away, and you are left talking to thin air, with no more than a hazy experience to carry with you. Perhaps it was a warning.`
 				decline
-mission exile_drone_raid
-	invisible
-	landing
-	on offer
-		event exile_drone_raid
-		fail
-	to offer
-		has "event: wanderers: exiles have drones"
 mission hai_enlisted_1
 	description `Defeat a pirate raid on <destination>.`
 	name `Defend <planet>`

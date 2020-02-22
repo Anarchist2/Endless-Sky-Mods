@@ -19,14 +19,6 @@ system Lucina
 		sprite planet/wormhole-red
 	government "Uninhabited "
 system Omnis
-	add object "Kar Ik Vot 637"
-		distance 8000
-		offset -6
-		sprite ship/kar_ik_vot_637
-	add object "Model 1024"
-		distance 8000
-		offset -9
-		sprite ship/model_1024
 	add object "Paltry Freighter"
 		distance 4000
 		offset -8

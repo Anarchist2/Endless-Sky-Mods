@@ -10,14 +10,7 @@ shipyard human
 	Bulwark
 	Hornet
 	Hydra
-shipyard korath
-	"Kar Ik Vot 637"
-	"Korath Stalker"
-	"Model 1024"
 shipyard plugin
-	"Kar Ik Vot 637"
-	"Korath Stalker"
-	"Model 1024"
 	"Paltry Freighter"
 	Adel
 	Aesalon
@@ -32,7 +25,5 @@ shipyard remnant
 	Hobby
 shipyard variants
 	leviathan_plasma_repeater
-	model_8_disruptor
-	model_8_minelayer
 shipyard wanderer
 	Scud
