@@ -1,38 +1,3 @@
-fleet adel
-	government "Unknown "
-	personality heroic
-	variant
-		Adel
-fleet aesalon
-	government "Unknown "
-	personality heroic
-	variant
-		Aesalon
-fleet bennu
-	government "Unknown "
-	personality heroic
-	variant
-		Bennu
-fleet bulwark
-	government "Unknown "
-	personality heroic
-	variant
-		Bulwark
-fleet hobby
-	government "Unknown "
-	personality heroic
-	variant
-		Hobby
-fleet hornet
-	government "Unknown "
-	personality heroic
-	variant
-		Hornet
-fleet hydra
-	government "Unknown "
-	personality heroic
-	variant
-		Hydra
 fleet kar_ik_vot_637
 	government "Unknown "
 	personality heroic
@@ -45,8 +10,3 @@ fleet model_1024
 	personality heroic
 	variant
 		"Model 1024"
-fleet paltry_freighter
-	government "Unknown "
-	personality heroic
-	variant
-		"Paltry Freighter"

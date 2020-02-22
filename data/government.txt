@@ -1,2 +1,0 @@
-government "Uninhabited "
-	color .4 .4 .4

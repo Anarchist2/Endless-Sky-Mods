@@ -63,21 +63,6 @@ fleet "Small Kor Mereti"
 	add variant 8
 		"Model 64" 3
 		model_8_disruptor 2
-fleet "Wanderer Flycatchers"
-	add variant
-		Scud 2
-	add variant
-		Scud 3
-	add variant
-		Scud 4
-	add variant
-		Scud 5
-fleet archon
-	government "Unknown "
-	personality heroic
-	variant
-		Archon
-		Sarkic 6
 fleet korath_raider
 	government "Unknown "
 	personality heroic
