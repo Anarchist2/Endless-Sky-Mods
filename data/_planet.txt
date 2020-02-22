@@ -1,6 +1,6 @@
 planet "Alta Hai"
 	tribute 38000
-		fleet quarg_ring_defence 3
+		fleet quarg_ring_defence 4
 		threshold 61000
 planet "Kuwaru Efreti"
 	tribute 57000
