@@ -483,7 +483,6 @@ planet Everything
 	outfitter drak
 	outfitter hai
 	outfitter human
-	outfitter irm
 	outfitter korath
 	outfitter plugin
 	outfitter pug
@@ -494,7 +493,6 @@ planet Everything
 	shipyard drak
 	shipyard hai
 	shipyard human
-	shipyard irm
 	shipyard korath
 	shipyard plugin
 	shipyard pug
@@ -619,13 +617,6 @@ planet Ibis
 	tribute 1
 		threshold 0
 		fleet ibis
-planet Irm
-	bribe 0
-	description `The Irm is an inward facing technocratic society, their entire civilization is undertaking the construction of a truly breathtaking megastructure. Although they very obviously despise cooperating with other species due to a lack of trust and no willingness to give them the chance to prove their trust, they have traded with the Hai before whilst observing the rise and fall of the mighty Hai empire.`
-	landscape landscape/station6
-	outfitter irm
-	shipyard irm
-	spaceport `The Irm is an inward facing technocratic society, their entire civilization is undertaking the construction of a truly breathtaking megastructure. Although they very obviously despise cooperating with other species due to a lack of trust and no willingness to give them the chance to prove their trust, they have traded with the Hai before whilst observing the rise and fall of the mighty Hai empire.`
 planet Ka'het
 	bribe 0
 	description ``

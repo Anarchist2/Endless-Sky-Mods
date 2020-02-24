@@ -34,6 +34,7 @@ event reveal_map
 	"visit planet" "Dusk Companion"
 	"visit planet" "Dwelling of Speloog"
 	"visit planet" "Elek Kartanu"
+	"visit planet" "Ember Graveyard"
 	"visit planet" "Ember Reaches"
 	"visit planet" "Ember Threshold"
 	"visit planet" "Ember Wormhole"
@@ -54,12 +55,15 @@ event reveal_map
 	"visit planet" "Fourth Shadow"
 	"visit planet" "Gentle Rain"
 	"visit planet" "Glittering Ice"
+	"visit planet" "Graveyard Wormhole (Stable)"
+	"visit planet" "Graveyard Wormhole (Unstable)"
 	"visit planet" "Gresku Fodar"
 	"visit planet" "Hammer of Debrugt"
 	"visit planet" "Huginn Station"
 	"visit planet" "Hydra Station"
 	"visit planet" "Inmost Blue"
 	"visit planet" "Into White"
+	"visit planet" "Kaeyin"
 	"visit planet" "Karek Fornati"
 	"visit planet" "Kasichara Fet"
 	"visit planet" "Keneska Fek"
@@ -99,9 +103,9 @@ event reveal_map
 	"visit planet" "New Wales"
 	"visit planet" "New Washington"
 	"visit planet" "Oberon Station"
+	"visit planet" "Pelubta Station"
 	"visit planet" "Phoenix Station"
 	"visit planet" "Plort's Water"
-	"visit planet" "Pug Kaelin"
 	"visit planet" "Refuge of Belugt"
 	"visit planet" "Rekat Moraski"
 	"visit planet" "Remnant Wormhole"
@@ -136,6 +140,8 @@ event reveal_map
 	"visit planet" "Solima Skarati"
 	"visit planet" "Sopi Lefarkata"
 	"visit planet" "Spera Anatrusk"
+	"visit planet" "Starting Rubin"
+	"visit planet" "Station Cian"
 	"visit planet" "Stronghold of Flugbu"
 	"visit planet" "Tebuteb's Table"
 	"visit planet" "Tefkar Ret"
@@ -170,17 +176,14 @@ event reveal_map
 	"visit planet" Albatross
 	"visit planet" Alexandria
 	"visit planet" Alfheim
+	"visit planet" Alix
 	"visit planet" Allhome
 	"visit planet" Amazon
 	"visit planet" Antipode
 	"visit planet" Arabia
-	"visit planet" Arena
-	"visit planet" Arx
 	"visit planet" Asgard
 	"visit planet" Avalon
 	"visit planet" Aventine
-	"visit planet" barren_wormhole
-	"visit planet" barren_wormhole2
 	"visit planet" Bivrost
 	"visit planet" Bloodsea
 	"visit planet" Bluestone
@@ -190,6 +193,8 @@ event reveal_map
 	"visit planet" Caelian
 	"visit planet" Calda
 	"visit planet" Canyon
+	"visit planet" Ceilia'sei
+	"visit planet" Celeatis
 	"visit planet" Chiron
 	"visit planet" Clark
 	"visit planet" Clink
@@ -204,12 +209,11 @@ event reveal_map
 	"visit planet" Darkwaste
 	"visit planet" Deep
 	"visit planet" Delve
-	"visit planet" Developer
 	"visit planet" Dune
 	"visit planet" Dustmaker
 	"visit planet" Earth
+	"visit planet" Eavine
 	"visit planet" Echo
-	"visit planet" Everything
 	"visit planet" Farpoint
 	"visit planet" Farseer
 	"visit planet" Farwater
@@ -229,9 +233,6 @@ event reveal_map
 	"visit planet" Glaze
 	"visit planet" Glory
 	"visit planet" Grakhord
-	"visit planet" graveyard_wormhole
-	"visit planet" graveyard_wormhole2
-	"visit planet" graveyard_wormhole3
 	"visit planet" Greenbloom
 	"visit planet" Greenrock
 	"visit planet" Greenwater
@@ -252,10 +253,8 @@ event reveal_map
 	"visit planet" Icefall
 	"visit planet" Icelake
 	"visit planet" Ingot
-	"visit planet" irm_gate
 	"visit planet" Lagrange
 	"visit planet" Lichen
-	"visit planet" link_wormhole
 	"visit planet" Lodestone
 	"visit planet" Longjump
 	"visit planet" Luna
@@ -279,27 +278,30 @@ event reveal_map
 	"visit planet" Newhome
 	"visit planet" Nifel
 	"visit planet" Nimbus
-	"visit planet" Nis
 	"visit planet" Norn
 	"visit planet" Oasis
 	"visit planet" Oblivion
+	"visit planet" Osaeli
+	"visit planet" Palarei
+	"visit planet" Parii'het
 	"visit planet" Pearl
-	"visit planet" Pesek
 	"visit planet" Pilot
 	"visit planet" Placer
-	"visit planet" Plugins
 	"visit planet" Poisonwood
 	"visit planet" Poseidos
 	"visit planet" Prime
 	"visit planet" Pugglemug
 	"visit planet" Pugglequat
+	"visit planet" Querii'ka
 	"visit planet" Quicksilver
 	"visit planet" Rand
 	"visit planet" Relic
+	"visit planet" Retilie
 	"visit planet" Reunion
 	"visit planet" Revelation
 	"visit planet" Rust
 	"visit planet" Saros
+	"visit planet" Seli'het
 	"visit planet" Serpens
 	"visit planet" Shangri-La
 	"visit planet" Shiver
@@ -307,6 +309,7 @@ event reveal_map
 	"visit planet" Shroud
 	"visit planet" Silver
 	"visit planet" Sinter
+	"visit planet" Siteria
 	"visit planet" Skillet
 	"visit planet" Skyfarm
 	"visit planet" Skymoot
@@ -330,8 +333,7 @@ event reveal_map
 	"visit planet" Twinstar
 	"visit planet" Vail
 	"visit planet" Valhalla
-	"visit planet" Vanilla
-	"visit planet" Vanilla
+	"visit planet" Veliante
 	"visit planet" Viminal
 	"visit planet" Vinci
 	"visit planet" Warfeed
@@ -342,21 +344,21 @@ event reveal_map
 	"visit planet" Zenith
 	"visit planet" Zug
 	galaxy "label arachi"
-		sprite "label/arachi"
+		sprite label/arachi
+	galaxy "label graveyard"
+		sprite label/graveyard
 	galaxy "label hai"
-		sprite "label/hai"
+		sprite label/hai
 	galaxy "label kimek"
-		sprite "label/kimek"
+		sprite label/kimek
 	galaxy "label korath"
-		sprite "label/korath"
+		sprite label/korath
 	galaxy "label saryds"
-		sprite "label/saryds"
+		sprite label/saryds
 	galaxy "label wanderers"
-		sprite "label/wanderers"
+		sprite label/wanderers
 	galaxy "label waste"
 		sprite label/waste
-	galaxy label_graveyard
-		sprite label/graveyard
 	visit "1 Axis"
 	visit "10 Pole"
 	visit "11 Autumn Above"
@@ -380,7 +382,7 @@ event reveal_map
 	visit "7 Autumn Rising"
 	visit "8 Winter Below"
 	visit "9 Spring Above"
-	visit "Ahaw On,za"
+	visit "Aki'il"
 	visit "Al Dhanab"
 	visit "Alpha Arae"
 	visit "Alpha Centauri"
@@ -399,7 +401,6 @@ event reveal_map
 	visit "Delta Sagittarii"
 	visit "Delta Velorum"
 	visit "Due Yoot"
-	visit "Dzee dzee-Bon'da"
 	visit "Ehma Ti"
 	visit "Epsilon Leonis"
 	visit "Fah Root"
@@ -431,11 +432,7 @@ event reveal_map
 	visit "Last Word"
 	visit "Lom Tahr"
 	visit "Lone Cloud"
-	visit "M'ska gwe,Demoos"
 	visit "Mei Yohn"
-	visit "Over the Rainbow"
-	visit "Pak.zin Skwa"
-	visit "Pug Aki'il"
 	visit "Pug Iyik"
 	visit "Rati Cal"
 	visit "Sagittarius A*"
@@ -446,14 +443,12 @@ event reveal_map
 	visit "Sol Saryd"
 	visit "Steep Roof"
 	visit "Tania Australis"
-	visit "Terra Incognita"
 	visit "Ula Mon"
 	visit "Ultima Thule"
 	visit "Uwa Fahn"
 	visit "Wah Ki"
 	visit "Wah Oh"
 	visit "Wah Yoot"
-	visit "World's End"
 	visit "Ya Hai"
 	visit "Yed Prior"
 	visit "Zeta Aquilae"
@@ -504,7 +499,6 @@ event reveal_map
 	visit Asikafarnut
 	visit Aspidiske
 	visit Atria
-	visit Aurigae
 	visit Avior
 	visit Aya'k'k
 	visit Beginning
@@ -526,7 +520,6 @@ event reveal_map
 	visit Castor
 	visit Cebalrai
 	visit Celeborim
-	visit Celiatis
 	visit Chikatip
 	visit Chimitarp
 	visit Chirr'ay'akai
@@ -542,7 +535,6 @@ event reveal_map
 	visit Delia
 	visit Deneb
 	visit Denebola
-	visit Diespiter
 	visit Diphda
 	visit Dixere
 	visit Dokdobaru
@@ -552,7 +544,6 @@ event reveal_map
 	visit Eber
 	visit Eblumab
 	visit Edusa
-	visit Egeria
 	visit Ek'kek'ru
 	visit Ekuarik
 	visit Elnath
@@ -569,7 +560,6 @@ event reveal_map
 	visit Faronektu
 	visit Fasitopfar
 	visit Fearis
-	visit Felii
 	visit Feraticus
 	visit Fereti
 	visit Feroteri
@@ -581,7 +571,6 @@ event reveal_map
 	visit Furmeliki
 	visit Gacrux
 	visit Gerenus
-	visit Gerusti
 	visit Gienah
 	visit Giribea
 	visit Girtab
@@ -614,7 +603,6 @@ event reveal_map
 	visit Kasikfar
 	visit Kiro'ku
 	visit Kiru'kichi
-	visit Ko,gok
 	visit Kochab
 	visit Kornephoros
 	visit Korsmanath
@@ -628,9 +616,7 @@ event reveal_map
 	visit Lolami
 	visit Lucina
 	visit Lurata
-	visit Mafari
 	visit Makferuti
-	visit Marati
 	visit Markab
 	visit Markeb
 	visit Matar
@@ -666,21 +652,17 @@ event reveal_map
 	visit Nona
 	visit Nunki
 	visit Oblate
-	visit Omnis
 	visit Orbona
 	visit Orvala
 	visit Ossipago
-	visit Ottava
 	visit Paeli
 	visit Pantica
 	visit Parca
-	visit Paritixi
 	visit Peacock
 	visit Pelubta
 	visit Peragenor
 	visit Peresedersi
 	visit Perfica
-	visit Perima
 	visit Persian
 	visit Persitar
 	visit Phact
@@ -693,23 +675,17 @@ event reveal_map
 	visit Polerius
 	visit Pollux
 	visit Porrima
-	visit Postverta
 	visit Prakacha'a
-	visit Prima
 	visit Procyon
-	visit Prosa
 	visit Quaru
 	visit Queri
 	visit Rajak
-	visit Raliesa
 	visit Rasalhague
 	visit Rastaban
 	visit Regor
 	visit Regulus
 	visit Relifer
 	visit Remembrance
-	visit Remia
-	visit Resetus
 	visit Rigel
 	visit Ritilas
 	visit Ruchbah
@@ -731,7 +707,6 @@ event reveal_map
 	visit Seketra
 	visit Sepetrosk
 	visit Sepriaptu
-	visit Serpentis
 	visit Sevrelect
 	visit Shaula
 	visit Sheratan
@@ -745,11 +720,9 @@ event reveal_map
 	visit Sobarati
 	visit Sol
 	visit Solifar
-	visit Solum
 	visit Sospi
 	visit Speloog
 	visit Spica
-	visit Statina
 	visit Stercutus
 	visit Suhail
 	visit Sumar
@@ -762,12 +735,10 @@ event reveal_map
 	visit Terminus
 	visit Torbab
 	visit Tortor
-	visit Tso-nii
 	visit Turais
 	visit Umbral
 	visit Unagi
 	visit Unukalhai
-	visit Vaticanus
 	visit Vega
 	visit Vindemiatrix
 	visit Volax
