@@ -302,7 +302,7 @@ ship Hobby
 		"tactical scan power" 46
 		"weapon capacity" 178
 		bunks 66
-		category "Medium Warship"
+		category "Heavy Warship"
 		cost 16800000
 		drag 8.2
 		hull 13900
