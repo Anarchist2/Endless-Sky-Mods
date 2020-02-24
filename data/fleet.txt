@@ -1,3 +1,8 @@
+fleet a-3_lexel
+	government "Unknown "
+	personality heroic
+	variant
+		"A-3 Lexel"
 fleet fallen
 	government Fallen
 	personality
