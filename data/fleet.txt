@@ -1,6 +1,7 @@
 fleet apocalypse
 	government "Unknown "
-	personality heroic
+	personality
+		heroic
 	variant
 		Apocalypse
 		Revelation 16
