@@ -95,8 +95,8 @@ ship "B-10 Warden"
 		"hull repair rate" 1.8
 		"jump drive" 1
 		"jump speed" 1
-		"outfit space" 392
-		"weapon capacity" 140
+		"outfit space" 379
+		"weapon capacity" 128
 		automaton 1
 		category "Medium Warship"
 		cost 4000000
@@ -117,11 +117,10 @@ ship "B-10 Warden"
 	gun 0 0
 	gun 0 0
 	gun 0 0
-	gun 0 0
 	outfits
 		"B-1 Achilles Frame"
 		"Balefire Lance"
-		"Balefire Projector" 4
+		"Balefire Projector" 3
 		"Denial Turret"
 		"Energy Cube" 63
 		"Heat Sink" 16
