@@ -1,3 +1,20 @@
+ship "Quarg Archdragon"
+	attributes
+		"cargo space" 32
+		"engine capacity" 217
+		"fuel capacity" 1000
+		"heat dissipation" .48
+		"outfit space" 900
+		"required crew" 113
+		"weapon capacity" 430
+		bunks 136
+		category "Heavy Warship"
+		cost 113782000
+		drag 12.3
+		hull 124000
+		mass 850
+		ramscoop 10
+		shields 305000
 ship "Quarg Balaur"
 	"final explode" "final explosion huge"
 	attributes
@@ -83,6 +100,91 @@ ship "Quarg Balaur"
 	turret 167 -214 "Quarg Skylance"
 	turret 198 45 "Quarg Skylance"
 	turret 198 45 "Quarg Skylance"
+ship "Quarg Cormorant"
+	attributes
+		"cargo space" 46
+		"engine capacity" 182
+		"fuel capacity" 1200
+		"heat dissipation" .67
+		"outfit space" 500
+		"required crew" 61
+		"weapon capacity" 143
+		bunks 404
+		category Transport
+		cost 49667000
+		drag 7.5
+		hull 66000
+		mass 490
+		ramscoop 10
+		shields 73000
+ship "Quarg Guan"
+	attributes
+		"cargo space" 2963
+		"engine capacity" 138
+		"fuel capacity" 1600
+		"heat dissipation" .47
+		"outfit space" 632
+		"required crew" 78
+		"weapon capacity" 186
+		bunks 102
+		category "Heavy Freighter"
+		cost 86373000
+		drag 10.9
+		hull 100000
+		mass 1100
+		ramscoop 10
+		shields 129000
+ship "Quarg Hydra"
+	attributes
+		"cargo space" 19
+		"engine capacity" 110
+		"fuel capacity" 1000
+		"heat dissipation" .52
+		"outfit space" 680
+		"required crew" 89
+		"weapon capacity" 350
+		bunks 118
+		category "Medium Warship"
+		cost 82441000
+		drag 8.6
+		hull 95000
+		mass 610
+		ramscoop 10
+		shields 194000
+ship "Quarg Lindwyrm"
+	attributes
+		"cargo space" 17
+		"engine capacity" 170
+		"fuel capacity" 800
+		"heat dissipation" .55
+		"outfit space" 650
+		"required crew" 74
+		"weapon capacity" 320
+		bunks 115
+		category "Medium Warship"
+		cost 77955000
+		drag 5.2
+		hull 73000
+		mass 440
+		ramscoop 10
+		shields 172000
+ship "Quarg Merganser"
+	attributes
+		"cargo space" 1453
+		"engine capacity" 122
+		"fuel capacity" 1600
+		"heat dissipation" .5
+		"outfit space" 585
+		"required crew" 58
+		"weapon capacity" 173
+		bunks 97
+		category "Heavy Freighter"
+		cost 68566000
+		drag 9.2
+		hull 84000
+		mass 710
+		ramscoop 10
+		shields 126000
 ship "Quarg Oriole"
 	"final explode" "final explosion small"
 	attributes
