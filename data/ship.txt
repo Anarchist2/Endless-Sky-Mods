@@ -20,13 +20,13 @@ ship "Quarg Balaur"
 	attributes
 		"active cooling" 161
 		"cargo space" 1290
-		"engine capacity" 640
+		"engine capacity" 580
 		"fuel capacity" 2200
 		"heat dissipation" .27
 		"ion resistance" 86000
-		"outfit space" 5740
+		"outfit space" 4975
 		"required crew" 808
-		"weapon capacity" 1378
+		"weapon capacity" 1278
 		bunks 3362
 		category "Heavy Warship"
 		cooling 45
