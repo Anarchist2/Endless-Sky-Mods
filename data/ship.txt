@@ -15,6 +15,17 @@ ship "Quarg Archdragon"
 		mass 850
 		ramscoop 10
 		shields 305000
+	outfits
+		"Central Repair Hub"
+		"Fluxion Shield Generator"
+		"Intrusion Countermeasures" 84
+		"Jump Drive"
+		"Large Graviton Thruster"
+		"Medium Graviton Steering"
+		"Nanotech Battery"
+		"Peripheral Repair Hub"
+		"Quantum Shield Generator"
+		"Singularity Core"
 ship "Quarg Balaur"
 	"final explode" "final explosion huge"
 	attributes
@@ -117,6 +128,15 @@ ship "Quarg Cormorant"
 		mass 490
 		ramscoop 10
 		shields 73000
+	outfits
+		"Intrusion Countermeasures" 57
+		"Jump Drive"
+		"Large Graviton Steering"
+		"Large Graviton Thruster"
+		"Nanotech Battery"
+		"Peripheral Repair Hub"
+		"Quantum Shield Generator"
+		"Tachyon Core"
 ship "Quarg Guan"
 	attributes
 		"cargo space" 2963
@@ -134,6 +154,17 @@ ship "Quarg Guan"
 		mass 1100
 		ramscoop 10
 		shields 129000
+	outfits
+		"Central Repair Hub"
+		"Infimum Shield Generator"
+		"Intrusion Countermeasures" 69
+		"Jump Drive"
+		"Medium Graviton Steering"
+		"Medium Graviton Thruster"
+		"Nanotech Battery"
+		"Peripheral Repair Hub"
+		"Quantum Shield Generator"
+		"Tachyon Core"
 ship "Quarg Hydra"
 	attributes
 		"cargo space" 19
@@ -151,6 +182,15 @@ ship "Quarg Hydra"
 		mass 610
 		ramscoop 10
 		shields 194000
+	outfits
+		"Intrusion Countermeasures" 55
+		"Jump Drive"
+		"Medium Graviton Thruster"
+		"Nanotech Battery"
+		"Peripheral Repair Hub"
+		"Quantum Shield Generator"
+		"Singularity Core"
+		"Small Graviton Steering"
 ship "Quarg Lindwyrm"
 	attributes
 		"cargo space" 17
@@ -168,6 +208,15 @@ ship "Quarg Lindwyrm"
 		mass 440
 		ramscoop 10
 		shields 172000
+	outfits
+		"Intrusion Countermeasures" 62
+		"Jump Drive"
+		"Medium Graviton Steering"
+		"Medium Graviton Thruster"
+		"Nanotech Battery"
+		"Peripheral Repair Hub"
+		"Quantum Shield Generator"
+		"Singularity Core"
 ship "Quarg Merganser"
 	attributes
 		"cargo space" 1453
@@ -185,8 +234,18 @@ ship "Quarg Merganser"
 		mass 710
 		ramscoop 10
 		shields 126000
+	outfits
+		"Central Repair Hub"
+		"Fluxion Shield Generator"
+		"Intrusion Countermeasures" 49
+		"Jump Drive"
+		"Medium Graviton Thruster"
+		"Nanotech Battery"
+		"Peripheral Repair Hub"
+		"Quantum Shield Generator"
+		"Small Graviton Steering"
+		"Tachyon Core"
 ship "Quarg Oriole"
-	"final explode" "final explosion small"
 	attributes
 		"cargo space" 60
 		"engine capacity" 86
@@ -208,23 +267,12 @@ ship "Quarg Oriole"
 			"hit force" 1500
 			"hull damage" 500
 			"shield damage" 1000
-	engine 0 61.5 1.5
-	explode "huge explosion" 20
-	explode "large explosion" 40
-	explode "medium explosion" 30
-	explode "small explosion" 16
-	explode "tiny explosion" 12
-	gun 0 -56.5 "Quarg Ranseur"
 	outfits
 		"Fluxion Shield Generator"
 		"Intrusion Countermeasures" 32
 		"Jump Drive"
 		"Nanotech Battery"
 		"Peripheral Repair Hub"
-		"Quarg Ranseur"
-		"Quarg Skydagger" 2
 		"Small Graviton Steering"
 		"Small Graviton Thruster"
 		"Tachyon Core"
-	turret -15.5 44 "Quarg Skydagger"
-	turret 15.5 44 "Quarg Skydagger"
