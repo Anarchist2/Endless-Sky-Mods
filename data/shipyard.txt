@@ -19,6 +19,7 @@ shipyard drak
 	"Void Sprite"
 	"Void Sprite Infant"
 	Archon
+	Subsidurial
 shipyard hai
 	"Lightning Bug"
 	"Pond Strider"
