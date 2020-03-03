@@ -44,6 +44,10 @@ outfitter deprecated
 	"NDR-114 Android"
 	"Reverse Thruster"
 outfitter developer
+	"Extra Engine"
+	"Extra Outfit"
+	"Extra Weapon"
+	"Remote Pilot"
 	Deterrence
 outfitter drak
 	"Drak Anti-Missile Field"
@@ -292,9 +296,9 @@ outfitter korath
 	"Triple Plasma Core"
 	Hyperdrive
 outfitter plugin
-	"Extra Engines"
+	"Extra Engine"
 	"Extra Outfit"
-	"Extra Weapons"
+	"Extra Weapon"
 	"Remote Pilot"
 	Deterrence
 outfitter pug

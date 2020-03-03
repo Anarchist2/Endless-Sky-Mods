@@ -1,10 +1,10 @@
-outfit "Extra Engines"
+outfit "Extra Engine"
 	"engine capacity" 1
 	category Systems
 outfit "Extra Outfit"
 	"outfit space" 1
 	category Systems
-outfit "Extra Weapons"
+outfit "Extra Weapon"
 	"weapon capacity" 1
 	category Systems
 outfit "Remote Pilot"
