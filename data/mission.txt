@@ -1,4 +1,4 @@
-mission aben_first_contact
+mission aben_contact
 	invisible
 	landing
 	on offer
@@ -47,15 +47,15 @@ mission aben_bounty
 		government "Hai (Unfettered)"
 		personality heroic marked target waiting
 	on complete
-		payment 140000
 		dialog
 			`Saed thanks you for your assistance in hunting down the aggressor, and hands you the agreed upon payment of <payment>.`
+		payment 160000
 	repeat
 	source
 		planet Nis
 	to offer
 		random < 60
-mission aben_harvest_aluminum_large
+mission aben_mining_aluminum_large
 	description `The Aben are offering <payment> in exchange for 90 tons of aluminum.`
 	job
 	name `Harvest Aluminum`
@@ -64,13 +64,14 @@ mission aben_harvest_aluminum_large
 			`You unload the aluminum at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Aluminum -90
 		payment 324000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 20
-mission aben_harvest_aluminum_small
+mission aben_mining_aluminum_small
 	description `The Aben are offering <payment> in exchange for 60 tons of aluminum.`
 	job
 	name `Harvest Aluminum`
@@ -79,13 +80,14 @@ mission aben_harvest_aluminum_small
 			`You unload the aluminum at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Aluminum -60
 		payment 157500
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 30
-mission aben_harvest_copper_large
+mission aben_mining_copper_large
 	description `The Aben are offering <payment> in exchange for 90 tons of copper.`
 	job
 	name `Harvest Copper`
@@ -94,13 +96,14 @@ mission aben_harvest_copper_large
 			`You unload the copper at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Copper -90
 		payment 540000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 20
-mission aben_harvest_copper_small
+mission aben_mining_copper_small
 	description `The Aben are offering <payment> in exchange for 60 tons of copper.`
 	job
 	name `Harvest Copper`
@@ -109,13 +112,14 @@ mission aben_harvest_copper_small
 			`You unload the copper at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Copper -60
 		payment 262500
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 30
-mission aben_harvest_iron_large
+mission aben_mining_iron_large
 	description `The Aben are offering <payment> in exchange for 90 tons of iron.`
 	job
 	name `Harvest Iron`
@@ -124,13 +128,14 @@ mission aben_harvest_iron_large
 			`You unload the iron at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Iron -90
 		payment 216000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 20
-mission aben_harvest_iron_small
+mission aben_mining_iron_small
 	description `The Aben are offering <payment> in exchange for 60 tons of iron.`
 	job
 	name `Harvest Iron`
@@ -139,13 +144,14 @@ mission aben_harvest_iron_small
 			`You unload the iron at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Iron -60
 		payment 105000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 30
-mission aben_harvest_lead_large
+mission aben_mining_lead_large
 	description `The Aben are offering <payment> in exchange for 90 tons of lead.`
 	job
 	name `Harvest Lead`
@@ -154,13 +160,14 @@ mission aben_harvest_lead_large
 			`You unload the lead at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Lead -90
 		payment 189000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 20
-mission aben_harvest_lead_small
+mission aben_mining_lead_small
 	description `The Aben are offering <payment> in exchange for 60 tons of lead.`
 	job
 	name `Harvest Lead`
@@ -169,13 +176,14 @@ mission aben_harvest_lead_small
 			`You unload the lead at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Lead -60
 		payment 90000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 30
-mission aben_harvest_platinum_large
+mission aben_mining_platinum_large
 	description `The Aben are offering <payment> in exchange for 90 tons of platinum.`
 	job
 	name `Harvest Platinum`
@@ -184,13 +192,14 @@ mission aben_harvest_platinum_large
 			`You unload the platinum at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Platinum -90
 		payment 3200000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 5
-mission aben_harvest_platinum_small
+mission aben_mining_platinum_small
 	description `The Aben are offering <payment> in exchange for 60 tons of platinum.`
 	job
 	name `Harvest Platinum`
@@ -199,13 +208,14 @@ mission aben_harvest_platinum_small
 			`You unload the platinum at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Platinum -60
 		payment 1500000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 10
-mission aben_harvest_silicon_large
+mission aben_mining_silicon_large
 	description `The Aben are offering <payment> in exchange for 90 tons of silicon.`
 	job
 	name `Harvest Silicon`
@@ -214,13 +224,14 @@ mission aben_harvest_silicon_large
 			`You unload the silicon at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Silicon -90
 		payment 128000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 20
-mission aben_harvest_silicon_small
+mission aben_mining_silicon_small
 	description `The Aben are offering <payment> in exchange for 60 tons of silicon.`
 	job
 	name `Harvest Silicon`
@@ -229,13 +240,14 @@ mission aben_harvest_silicon_small
 			`You unload the silicon at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Silicon -60
 		payment 60000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 30
-mission aben_harvest_silver_large
+mission aben_mining_silver_large
 	description `The Aben are offering <payment> in exchange for 90 tons of silver.`
 	job
 	name `Harvest Silver`
@@ -244,13 +256,14 @@ mission aben_harvest_silver_large
 			`You unload the silver at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Silver -90
 		payment 960000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 10
-mission aben_harvest_silver_small
+mission aben_mining_silver_small
 	description `The Aben are offering <payment> in exchange for 60 tons of silver.`
 	job
 	name `Harvest Silver`
@@ -259,13 +272,14 @@ mission aben_harvest_silver_small
 			`You unload the silver at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Silver -60
 		payment 450000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 20
-mission aben_harvest_uranium_large
+mission aben_mining_uranium_large
 	description `The Aben are offering <payment> in exchange for 90 tons of uranium.`
 	job
 	name `Harvest Uranium`
@@ -274,13 +288,14 @@ mission aben_harvest_uranium_large
 			`You unload the uranium at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Uranium -90
 		payment 1600000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
 	to offer
 		has "aben_reconnaissance_1: done"
 		random < 5
-mission aben_harvest_uranium_small
+mission aben_mining_uranium_small
 	description `The Aben are offering <payment> in exchange for 60 tons of uranium.`
 	job
 	name `Harvest Uranium`
@@ -289,6 +304,7 @@ mission aben_harvest_uranium_small
 			`You unload the uranium at the spaceport. Saed thanks you, and hands you <payment>.`
 		outfit Uranium -60
 		payment 750000
+		trust_aben ++
 	repeat
 	source
 		planet Nis
@@ -303,6 +319,7 @@ mission aben_reconnaissance_1
 			`	"Thank you greatly for your efforts, these Hai leave me optimistic of a future of peace but those soulless vessels on the other side of us worry me." you reassure him that those drones don't have the ability to travel beyond hyperspace links. He transfers to you a surprisingly large sum of <payment> and assures you that you're now cleared access to their technology.`
 		payment 2600000
 		set "license: Aben Technology"
+		trust_aben += 5
 	on offer
 		conversation
 			`On return to the hangar to leave, you are confronted by a pair of figures waiting beside your ship, Saed and the scribe that accompanies him. He seems relieved when you show up, who knows how long they've been waiting for you. He walks up to meet you half way, and says "Hello captain <last>, would you be interested in helping the aben on a more formal assignment? It would be merely a reconnaissance task."`
@@ -322,7 +339,7 @@ mission aben_reconnaissance_1
 	to complete
 		has "Discovered Hai Space: offered"
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 	waypoint "Bore Fah"
 	waypoint "Hi Yahr"
 	waypoint Asikafarnut
@@ -349,11 +366,12 @@ mission aben_retrieval_battery_module_large
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_battery_module_small: offered"
 	on accept
 		outfit "Large Battery Module" -2
 		payment 741000
+		trust_aben += 2
 mission aben_retrieval_battery_module_small
 	invisible
 	minor
@@ -376,11 +394,12 @@ mission aben_retrieval_battery_module_small
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_battery_module_large: offered"
 	on accept
 		outfit "Small Battery Module" -2
 		payment 512000
+		trust_aben ++
 mission aben_retrieval_collector_module_large
 	invisible
 	on offer
@@ -403,11 +422,12 @@ mission aben_retrieval_collector_module_large
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_collector_module_small: offered"
 	on accept
 		outfit "Large Collector Module" -2
 		payment 918000
+		trust_aben += 2
 mission aben_retrieval_collector_module_small
 	invisible
 	minor
@@ -430,11 +450,12 @@ mission aben_retrieval_collector_module_small
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_collector_module_large: offered"
 	on accept
 		outfit "Small Collector Module" -2
 		payment 607000
+		trust_aben ++
 mission aben_retrieval_hai_shield_large
 	invisible
 	on offer
@@ -457,11 +478,12 @@ mission aben_retrieval_hai_shield_large
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_hai_shield_small: offered"
 	on accept
 		outfit "Hai Diamond Regenerator" -2
 		payment 2101000
+		trust_aben += 2
 mission aben_retrieval_hai_shield_small
 	invisible
 	minor
@@ -484,11 +506,12 @@ mission aben_retrieval_hai_shield_small
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_hai_shield_large: offered"
 	on accept
 		outfit "Hai Corundum Regenerator" -2
 		payment 1490000
+		trust_aben ++
 mission aben_retrieval_heat_shunt_large
 	invisible
 	on offer
@@ -511,11 +534,12 @@ mission aben_retrieval_heat_shunt_large
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_heat_shunt_small: offered"
 	on accept
 		outfit "Large Heat Shunt" -2
 		payment 1274000
+		trust_aben += 2
 mission aben_retrieval_heat_shunt_small
 	invisible
 	minor
@@ -538,11 +562,12 @@ mission aben_retrieval_heat_shunt_small
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_heat_shunt_large: offered"
 	on accept
 		outfit "Small Heat Shunt" -2
 		payment 978000
+		trust_aben ++
 mission aben_retrieval_photovoltaic_large
 	invisible
 	on offer
@@ -565,11 +590,12 @@ mission aben_retrieval_photovoltaic_large
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_photovoltaic_small: offered"
 	on accept
 		outfit "KP-6 Photovoltaic Array" -2
 		payment 904000
+		trust_aben += 2
 mission aben_retrieval_photovoltaic_small
 	invisible
 	minor
@@ -592,11 +618,12 @@ mission aben_retrieval_photovoltaic_small
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_photovoltaic_large: offered"
 	on accept
 		outfit "KP-6 Photovoltaic Panel" -2
 		payment 791000
+		trust_aben ++
 mission aben_retrieval_repair_module_large
 	invisible
 	on offer
@@ -619,11 +646,12 @@ mission aben_retrieval_repair_module_large
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_repair_module_small: offered"
 	on accept
 		outfit "Large Repair Module" -2
 		payment 2300000
+		trust_aben += 2
 mission aben_retrieval_repair_module_small
 	invisible
 	minor
@@ -646,11 +674,12 @@ mission aben_retrieval_repair_module_small
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_repair_module_large: offered"
 	on accept
 		outfit "Small Repair Module" -2
 		payment 1506000
+		trust_aben ++
 mission aben_retrieval_systems_core_large
 	invisible
 	on offer
@@ -673,12 +702,13 @@ mission aben_retrieval_systems_core_large
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_systems_core_small: offered"
 		not	"aben_retrieval_systems_core_medium: offered"
 	on accept
 		outfit "Systems Core (Large)" -2
 		payment 1940000
+		trust_aben += 2
 mission aben_retrieval_systems_core_medium
 	invisible
 	minor
@@ -701,12 +731,13 @@ mission aben_retrieval_systems_core_medium
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_systems_core_small: offered"
 		not	"aben_retrieval_systems_core_large: offered"
 	on accept
 		outfit "Systems Core (Medium)" -2
 		payment 1104000
+		trust_aben += 2
 mission aben_retrieval_systems_core_small
 	invisible
 	minor
@@ -729,12 +760,13 @@ mission aben_retrieval_systems_core_small
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not "aben_retrieval_systems_core_medium: offered"
 		not	"aben_retrieval_systems_core_large: offered"
 	on accept
 		outfit "Systems Core (Small)" -2
 		payment 706000
+		trust_aben ++
 mission aben_retrieval_wanderer_shield_large
 	invisible
 	on offer
@@ -757,11 +789,12 @@ mission aben_retrieval_wanderer_shield_large
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_wanderer_shield_small: offered"
 	on accept
 		outfit "Dark Storm Shielding" -2
 		payment 2608000
+		trust_aben += 2
 mission aben_retrieval_wanderer_shield_small
 	invisible
 	minor
@@ -784,8 +817,29 @@ mission aben_retrieval_wanderer_shield_small
 	source
 		planet Nis
 	to offer
-		has "aben_first_contact: done"
+		has "aben_contact: done"
 		not	"aben_retrieval_wanderer_shield_large: offered"
 	on accept
 		outfit "Bright Cloud Shielding" -2
 		payment 1924000
+		trust_aben ++
+mission aben_technology_advanced
+	invisible
+	landing
+	on offer
+		event aben_technology_advanced
+	source
+		planet Nis
+	to offer
+		has "aben_contact: done"
+		trust_aben > 17
+mission aben_technology_basic
+	invisible
+	landing
+	on offer
+		event aben_technology_basic
+	source
+		planet Nis
+	to offer
+		has "aben_contact: done"
+		trust_aben > 7
