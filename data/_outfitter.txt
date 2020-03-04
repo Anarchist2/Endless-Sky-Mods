@@ -62,11 +62,6 @@ outfitter plugin
 	"Tool Rack"
 	"Type 0 Radiant Engine"
 	Capacitors
-	pet_battery
-	pet_generator_civilian
-	pet_generator_industrial
-	pet_shielding_complex
-	pet_shielding_planetary
 outfitter wanderer
 	"Deuterium Culture Tanks"
 	"Small Ramscoop Module"
