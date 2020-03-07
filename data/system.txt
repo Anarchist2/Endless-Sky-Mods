@@ -5,7 +5,7 @@ system Aurigae
 	asteroids "medium rock" 75 4
 	asteroids "small metal" 9 2
 	asteroids "small rock" 6 1
-	government Fallen
+	government Uninhabited
 	link Serpentis
 	minables copper 23 7
 	minables gold 10 4
@@ -45,7 +45,7 @@ system Serpentis
 	asteroids "medium metal" 11 2
 	asteroids "medium rock" 16 1
 	asteroids "small rock" 4 1
-	government Fallen
+	government Uninhabited
 	link Aurigae
 	minables copper 5 2
 	object

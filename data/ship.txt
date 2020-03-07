@@ -117,10 +117,10 @@ ship "B-10 Warden"
 	explode "big explosion" 10
 	explode "medium explosion" 20
 	explode "small explosion" 20
-	gun -23 -69
-	gun 0 -43
-	gun 0 -69
-	gun 23 -69
+	gun -23 -69 "Balefire Projector"
+	gun 0 -43 "Balefire Lance"
+	gun 0 -69 "Balefire Projector"
+	gun 23 -69 "Balefire Projector"
 	outfits
 		"B-1 Achilles Frame"
 		"Balefire Lance"
