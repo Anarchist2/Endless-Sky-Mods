@@ -21,14 +21,12 @@ ship "A-3 Lexel"
 			"hit force" 100
 			"hull damage" 160
 			"shield damage" 600
-	engine -24 28
-	engine 24 28
-	engine -22 35
-	engine 22 35
-	engine -20 42
-	engine 20 42
-	engine -18 48
-	engine 18 48
+	engine -5 47
+	engine 5 47
+	engine -10 39
+	engine 10 39
+	engine -13 30
+	engine 13 30
 	explode "medium explosion" 10
 	explode "small explosion" 10
 	explode "tiny explosion" 20
@@ -110,13 +108,19 @@ ship "B-10 Warden"
 			"hit force" 100
 			"hull damage" 45
 			"shield damage" 120
+	engine -13 47
+	engine -15 61
+	engine -9 37
+	engine 13 47
+	engine 15 61
+	engine 9 37
 	explode "big explosion" 10
 	explode "medium explosion" 20
 	explode "small explosion" 20
-	gun 0 0
-	gun 0 0
-	gun 0 0
-	gun 0 0
+	gun -23 -69
+	gun 0 -43
+	gun 0 -69
+	gun 23 -69
 	outfits
 		"B-1 Achilles Frame"
 		"Balefire Lance"
@@ -127,4 +131,5 @@ ship "B-10 Warden"
 		"Shield Modulator" 60
 		"Storage Cell" 28
 		"Thrust Module" 26
+	sprite ship/warden
 	turret 0 0
