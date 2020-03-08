@@ -1,7 +1,13 @@
-shipyard Havenworks
-	"Marauder Firebird"
-	"Marauder Leviathan"
-	"Modified Argosy"
+shipyark experimental
+	"Paltry Freighter"
+	Adel
+	Aesalon
+	Bulwark
+	Hobby
+	Hornet
+	Hydra
+	Sarkic
+	Scud
 shipyard human
 	"Paltry Freighter"
 	Adel
@@ -11,16 +17,7 @@ shipyard human
 	Hornet
 	Hydra
 shipyard plugin
-	"Paltry Freighter"
-	Adel
-	Aesalon
 	Bennu
-	Bulwark
-	Hobby
-	Hornet
-	Hydra
-	Sarkic
-	Scud
 shipyard remnant
 	Hobby
 shipyard variants
