@@ -504,7 +504,9 @@ planet Experimental
 	bribe 0
 	description ``
 	landscape landscape/station6
+	outfitter developer
 	outfitter experimental
+	shipyard developer
 	shipyard experimental
 	spaceport ``
 planet Falcon

@@ -15,6 +15,8 @@ shipyard coalition
 	"Saryd Sojourner"
 	"Saryd Traveler"
 	"Saryd Visitor"
+shipyard developer
+	" Caster"
 shipyard drak
 	"Void Sprite"
 	"Void Sprite Infant"
@@ -126,8 +128,6 @@ shipyard korath
 	"Tek Far 71 - Lek"
 	"Tek Far 78 - Osk"
 	Nanobot
-shipyard plugin
-	Caster
 shipyard pug
 	"Pug Arfecta"
 	"Pug Enfolta"

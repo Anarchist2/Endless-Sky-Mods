@@ -295,12 +295,6 @@ outfitter korath
 	"Thruster (Stellar Class)"
 	"Triple Plasma Core"
 	Hyperdrive
-outfitter plugin
-	"Extra Engine"
-	"Extra Outfit"
-	"Extra Weapon"
-	"Remote Pilot"
-	Deterrence
 outfitter pug
 	"Cloaking Device"
 	"Jump Drive"
