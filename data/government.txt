@@ -5,6 +5,6 @@ government Fallen
 		Militia -.1
 		Pirate -.1
 	"player reputation" -1000
-	color .3 .2 .2
+	color .5 .4 .4
 	fine 0
 	swizzle 0
