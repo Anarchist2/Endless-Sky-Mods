@@ -1,4 +1,4 @@
-outfitter plugin
+outfitter experimental
 	"Central Repair Hub"
 	"Fluxion Shield Generator"
 	"Infimum Shield Generator"
