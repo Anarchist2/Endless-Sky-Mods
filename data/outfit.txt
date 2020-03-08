@@ -13,6 +13,7 @@ outfit "Chain Blaster Turret"
 	"weapon capacity" -34
 	category Turrets
 	cost 360000
+	description `A marvel of modern day ingenuity. Not in regards to any Syndicate efforts, more so from what it says about engineers now a days; an inclination to find any 'brand new' configuration or design. Really it's the same hardware and can vary in effectiveness only so much before old technology becomes quite simply just old technology.`
 	mass 34
 	thumbnail outfit/chain_blaster_turret
 	weapon
@@ -43,6 +44,7 @@ outfit "Dual Electron Beam"
 	"weapon capacity" -41
 	category Guns
 	cost 440000
+	description `Through a method practiced in great depth throughout human space, comes the 'Dual Electron Beam' in full force. As an effect of the reinforcement of multiple units, the two Electron Beams work in conjunction with each other to form two coherent beams that boast a significantly more powerful result than that of two separate weapons.`
 	mass 41
 	thumbnail outfit/dual_electron_beam
 	weapon

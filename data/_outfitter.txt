@@ -26,9 +26,7 @@ outfitter "Wanderer Advanced"
 outfitter "Wanderer Basics"
 	"Regional Map"
 outfitter experimental
-	"Chain Blaster Turret"
 	"Deuterium Culture Tanks"
-	"Dual Electron Beam"
 	"Flame Thrower"
 	"Ion Mortar"
 	"Katabatic Scanner"
@@ -55,6 +53,8 @@ outfitter human
 	Capacitors
 outfitter plugin
 	"Capacitor Rack"
+	"Chain Blaster Turret"
+	"Dual Electron Beam"
 	"Knockout Gas"
 	"Plasma Repeater"
 	"Regional Map"
