@@ -1,3 +1,6 @@
+outfitter experimental
+	"Korath Dual Fire-Lance Turret"
+	"Korath Fire-Lance Turret"
 outfitter korath
 	"Korath Disruptor Gun"
 	"Korath Dual Fire-Lance Turret"
@@ -5,6 +8,4 @@ outfitter korath
 	"Vector Engine (Reality Class)"
 outfitter plugin
 	"Korath Disruptor Gun"
-	"Korath Dual Fire-Lance Turret"
-	"Korath Fire-Lance Turret"
 	"Vector Engine (Reality Class)"

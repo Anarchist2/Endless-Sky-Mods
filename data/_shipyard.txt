@@ -1,10 +1,11 @@
+shipyard experimental
+	"Kar Ik Vot 637"
+	"Korath Stalker"
 shipyard korath
 	"Kar Ik Vot 637"
 	"Korath Stalker"
 	"Model 1024"
 shipyard plugin
-	"Kar Ik Vot 637"
-	"Korath Stalker"
 	"Model 1024"
 shipyard variants
 	model_8_disruptor
