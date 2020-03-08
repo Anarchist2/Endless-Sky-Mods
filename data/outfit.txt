@@ -3,7 +3,7 @@ outfit "Apotropaic Anti-Missile"
 	"turret mounts" -1
 	"weapon capacity" -52
 	category Turrets
-	cost 7300000
+	cost 5380000
 	mass 52
 	weapon
 		"firing energy" 62
@@ -43,6 +43,7 @@ outfit "Tekina Engine"
 	"turning heat" 1.1
 	category Engines
 	cost 940000
+	description `The geometry and subsequently the workings of this technology is incomprehensible to any outsider. Surprisingly however, it seems hardly as effective on any ship other than the Revelation. It seems much of the engines were designed specifically for the Revelation in mind, to work in perfect conjunction with the ships peripherals and core components.`
 	mass 76
 	thrust 12.5
 	thumbnail outfit/tekina_engine
@@ -53,6 +54,7 @@ outfit "Transparency Plating"
 	category Systems
 	cloak .002
 	cost 750000
+	description `An application of cloaking technology not unknown to you, tales of space age humans working to discover methods of cloaking were told to you by few historians and academics along your travels. Apparently this application of cloaking is crude and undeveloped but in enough of a working state to function effectively, although slow to put into effect and demanding on your ships power reserves.`
 	mass 96
 	thumbnail outfit/transparency_plating
 	unplunderable 1
@@ -97,7 +99,8 @@ outfit Harrier
 	"outfit space" -31
 	"weapon capacity" -31
 	category Guns
-	cost 1160000
+	cost 3160000
+	description `The effectiveness of this beam is unparalleled. Alone, it serves as a fearsome display of power from such a small vessel however; in complement to a squadron of ships bearing additional Harriers, it's sheer destructive capabilities cannot be ignored.`
 	mass 31
 	thumbnail outfit/harrier
 	weapon

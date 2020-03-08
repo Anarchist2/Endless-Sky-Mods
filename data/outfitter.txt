@@ -1,8 +1,7 @@
-outfitter experimental
+outfitter irm
 	"Apotropaic Anti-Missile"
 	"Oginau Engine"
-	Devastator
-outfitter plugin
 	"Tekina Engine"
 	"Transparency Plating"
+	Devastator
 	Harrier
