@@ -251,6 +251,8 @@ outfit "Type 0 Radiant Engine"
 	category Engines
 	cooling 1.9
 	cost 170000
+	description `The construction of the new Scud drones prompted a need for an even smaller engine complement than was available at the time. This lead to the creation of the Type 0 Radiant Engine, the Wanderers first ever hybrid engines systems, capable of achieving speeds comparable to a set of Type 1 engines whilst remaining significantly smaller.`
+	description `This efficiency serves as a reminder to the Wanderers that their engineering has not stagnated, and that they are still capable of progressing their technology.`
 	licenses
 		"Wanderer Outfits"
 	mass 14

@@ -27,11 +27,9 @@ outfitter "Wanderer Basics"
 	"Regional Map"
 outfitter experimental
 	"Deuterium Culture Tanks"
-	"Flame Thrower"
 	"Katabatic Scanner"
 	"Mass Driver"
 	"Small Ramscoop Module"
-	"Type 0 Radiant Engine"
 outfitter hai
 	"Ion Mortar"
 	"Katabatic Scanner"
@@ -53,6 +51,7 @@ outfitter plugin
 	"Capacitor Rack"
 	"Chain Blaster Turret"
 	"Dual Electron Beam"
+	"Flame Thrower"
 	"Ion Mortar"
 	"Knockout Gas"
 	"Plasma Repeater"
@@ -62,6 +61,7 @@ outfitter plugin
 	"Smugglers Fittings"
 	"Storage Lockers"
 	"Tool Rack"
+	"Type 0 Radiant Engine"
 	Capacitors
 outfitter wanderer
 	"Deuterium Culture Tanks"
