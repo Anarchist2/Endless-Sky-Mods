@@ -1,5 +1,4 @@
-shipyark experimental
-	"Paltry Freighter"
+shipyard experimental
 	Adel
 	Aesalon
 	Bulwark
@@ -17,6 +16,7 @@ shipyard human
 	Hornet
 	Hydra
 shipyard plugin
+	"Paltry Freighter"
 	Bennu
 shipyard remnant
 	Hobby

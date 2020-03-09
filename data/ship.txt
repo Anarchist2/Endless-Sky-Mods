@@ -25,6 +25,8 @@ ship "Paltry Freighter"
 	explode "large explosion" 14
 	explode "medium explosion" 24
 	explode "small explosion" 22
+	description `Often described as unoriginal or a deathtrap, comes the Paltry Freighter. It's often mocked for its usefulness, as many ships already exist to step in at that price range for merchant captains.`
+	description `The creativity behind this vessel is very limited, it was released long after the Bulk Freighter was and is very obviously the same frame but with many of its cargo pods removed to cut down on size and price.`
 	gun 0 -73 "Sidewinder Missile Launcher"
 	leak "big leak" 50 30
 	leak "flame" 30 80
