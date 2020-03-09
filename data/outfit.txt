@@ -76,6 +76,7 @@ outfit "Ion Mortar"
 	"weapon capacity" -98
 	category Turrets
 	cost 1320000
+	description `A fearsome weapon despite it's age. The 'Ion Mortar' is no more than two classic Ion Cannons mounted onto a rotating turret base. It is because of this that the peaceful Hai often consider this to be a perversion of traditional engineering.`
 	mass 98
 	thumbnail outfit/ion_mortar
 	weapon
@@ -122,6 +123,8 @@ outfit "Mass Driver"
 	"weapon capacity" -54
 	category Guns
 	cost 558000
+	description `While the applications of electromagnetic propulsion have found uses across many scientific fields for a very long time, the weaponisation of said practice has had trouble finding much success. It wasn't long ago that the science of such a weapon wasn't promising enough to even be green lit for additional funding.`
+	description `With its advantages come its fair share of drawbacks, such as the sheer size required to make it an effective asset in combat situations.`
 	mass 54
 	weapon
 		"firing energy" 43
@@ -130,6 +133,7 @@ outfit "Mass Driver"
 		"shield damage" 272
 		inaccuracy .2
 		lifetime 115
+		piercing .2
 		reload 75
 		velocity 19
 outfit "Plasma Repeater"
@@ -164,6 +168,8 @@ outfit "Quad Plasma Turret"
 	"weapon capacity" -87
 	category Turrets
 	cost 520000
+	description `Clearly a terrifying child of Kraz Cybernetics, however running on the hotter side. The Quad Plasma Turret owes itself to the largest cooling systems on the market, the heat that just one of these turrets output is enough to put the user at a serious disadvantage if not prepared.`
+	description `Barmy Edwards himself strongly discourages relying on any more than a pair of these turrets per ship. While many pilots plainly refuse to operate one of these turrets aboard their ships because of the immense heat it generates, it is curiously popular with pilots traveling from deep within Syndicate space.`
 	mass 87
 	thumbnail outfit/quad_plasma_turret
 	weapon
