@@ -21,12 +21,11 @@ ship "A-3 Lexel"
 			"hit force" 100
 			"hull damage" 160
 			"shield damage" 600
-	engine -5 47
-	engine 5 47
-	engine -10 39
-	engine 10 39
-	engine -13 30
-	engine 13 30
+	engine -13 37 .8
+	engine 13 37 .8
+
+	engine -16 33 .4
+	engine 16 33 .4
 	explode "medium explosion" 10
 	explode "small explosion" 10
 	explode "tiny explosion" 20
@@ -132,4 +131,5 @@ ship "B-10 Warden"
 		"Storage Cell" 28
 		"Thrust Module" 26
 	sprite ship/warden
+	thumbnail thumbnail/warden
 	turret 0 0
