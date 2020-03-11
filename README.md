@@ -1,2 +1,2 @@
-# Adde Endless Sky
-Any Adde content that doesn't fit in another or deserve it's own branch. This includes many new outfits and ships for various aspects of the vanilla game, even new missions here and there.
+# Adde Endless Sky | Korath Expansion
+This plugin is intended to experiment with the Korath by creating new content for them in the form of ships, outfits, and missions. Any content I consider to fit well with vanilla is put alongside the existing Korath while any less fitting content is kept out of the vanilla experience, only accessible through Omnis.
