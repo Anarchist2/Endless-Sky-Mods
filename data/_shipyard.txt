@@ -1,12 +1,8 @@
 shipyard experimental
-	Adel
-	Aesalon
 	Bulwark
 	Hobby
-	Hornet
 	Hydra
 	Sarkic
-	Scud
 shipyard human
 	"Paltry Freighter"
 	Adel
@@ -17,7 +13,11 @@ shipyard human
 	Hydra
 shipyard plugin
 	"Paltry Freighter"
+	Adel
+	Aesalon
 	Bennu
+	Hornet
+	Scud
 shipyard remnant
 	Hobby
 shipyard variants
