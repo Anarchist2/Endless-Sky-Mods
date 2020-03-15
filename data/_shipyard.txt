@@ -1,6 +1,4 @@
 shipyard experimental
-	Bulwark
-	Hobby
 	Hydra
 	Sarkic
 shipyard human
@@ -16,6 +14,8 @@ shipyard plugin
 	Adel
 	Aesalon
 	Bennu
+	Bulwark
+	Hobby
 	Hornet
 	Scud
 shipyard remnant

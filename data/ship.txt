@@ -259,6 +259,8 @@ ship Bulwark
 			"hit force" 2600
 			"hull damage" 850
 			"shield damage" 1700
+	description `The Bulwark is the ship designed to transcend the classic Protector model that was made famous by Stars and Starships Magazine so long ago. The Bulwark surpasses the Protector not in elegance, but sheer firepower and ability to take a heavy beating. Many syndicate employees have voiced their concern and regret for continuing the legacy of the notorious Protector, however many of these employees have since been unable to comment further on the matter.`
+	description `Rumors have spread of a stolen prototype raiding the star systems bordering the core, merchants have reported sightings of said prototype seemingly appearing from empty space before turning its weapons on nearby vessels.`
 	engine -11 122 .8
 	engine -34 99
 	engine 11 122
@@ -320,6 +322,7 @@ ship Hobby
 			"shield damage" 4200
 			"hull damage" 1200
 			"hit force" 4800
+	description `Not actually a standalone ship design, the 'Hobby' is the name given to a certain modification of the Albatross. Literally an Albatross with its wings removed off the base model, this popular modification also is usually paired with a modification to the core internals, focused on engine tuning. Despite the focus on engines, the 'Hobby' modification can keep the majority of its arsenal even after the heavy modifications to the stock hull.`
 	engine -18 170
 	engine 0 177 1.4
 	engine 18 170
