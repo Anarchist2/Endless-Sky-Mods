@@ -1,6 +1,7 @@
+shipyard drak
+	Sarkic
 shipyard experimental
 	Hydra
-	Sarkic
 shipyard human
 	"Paltry Freighter"
 	Adel
@@ -17,6 +18,7 @@ shipyard plugin
 	Bulwark
 	Hobby
 	Hornet
+	Sarkic
 	Scud
 shipyard remnant
 	Hobby
