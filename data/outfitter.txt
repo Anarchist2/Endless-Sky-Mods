@@ -9,6 +9,7 @@ outfitter coalition
 	"Finisher Torpedo"
 	"Heliarch Attractor"
 	"Heliarch Repulsor"
+	"Ion Hail Turret"
 	"Ion Rain Gun"
 	"Large Battery Module"
 	"Large Collector Module"
@@ -325,6 +326,7 @@ outfitter quarg
 outfitter remnant
 	"Aeon Cell"
 	"Anvil-Class Engine"
+	"Bellows-Class Afterburner"
 	"Bunk Room"
 	"Cargo Expansion"
 	"Crucible-Class Steering"
@@ -337,6 +339,7 @@ outfitter remnant
 	"Forge-Class Steering"
 	"Forge-Class Thruster"
 	"Inhibitor Cannon"
+	"Inhibitor Turret"
 	"Jump Drive (Broken)"
 	"Millennium Cell"
 	"Outfits Expansion"
