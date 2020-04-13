@@ -65,7 +65,7 @@ mission money
 				`	[Leave this room]`
 					decline
 	source
-		government Unknown
+		government cheat
 mission reveal_map
 	job
 	name `Reveal Map`

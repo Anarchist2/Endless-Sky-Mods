@@ -1,121 +1,121 @@
 fleet aerie
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Aerie
 		Dagger 2
 fleet albatross
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Albatross
 fleet aphid
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Aphid
 fleet arach_courier
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Arach Courier"
 fleet arach_freighter
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Arach Freighter"
 fleet arach_hulk
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Arach Hulk"
 fleet arach_spindle
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Arach Spindle"
 fleet arach_transport
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Arach Transport"
 fleet archon
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Archon
 fleet argosy
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Argosy
 fleet arrow
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Arrow
 fleet autumn_leaf
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Autumn Leaf"
 fleet bactrian
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Bactrian
 		Dagger 3
 fleet bastion
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Bastion
 fleet behemoth
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Behemoth
 fleet berserker
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Berserker
 fleet blackbird
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Blackbird
 fleet bounder
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Bounder
 fleet bulk_freighter
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Bulk Freighter"
 fleet carrier
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
@@ -123,188 +123,188 @@ fleet carrier
 		Carrier
 		Lance 4
 fleet centipede
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Centipede
 fleet clipper
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Clipper
 fleet cool_breeze
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Cool Breeze"
 fleet corvette
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Corvette
 fleet cruiser
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Combat Drone" 4
 		Cruiser
 fleet deep_river
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Deep River"
 fleet derecho
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Derecho
 fleet dreadnought
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Dreadnought
 fleet earth_shaper
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Earth Shaper"
 fleet falcon
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Falcon
 fleet firebird
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Firebird
 fleet flivver
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Flivver
 fleet freighter
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Freighter
 fleet frigate
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Frigate
 fleet fury
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Fury
 fleet gascraft
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Gascraft
 fleet geocoris
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Geocoris
 fleet grasshopper
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Grasshopper
 fleet gull
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Gull
 fleet gunboat
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Gunboat
 fleet hauler
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Hauler
 fleet hauler_ii
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Hauler II"
 fleet hauler_iii
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Hauler III"
 fleet hawk
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Hawk
 fleet headhunter
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Headhunter
 fleet heavy_shuttle
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Heavy Shuttle"
 fleet heliarch_interdictor
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Heliarch Interdictor"
 fleet heliarch_neutralizer
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Heliarch Neutralizer"
 fleet heliarch_punisher
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Heliarch Punisher"
 fleet hurricane
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Hurricane
 fleet ibis
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
@@ -312,350 +312,350 @@ fleet ibis
 		Petrel 2
 		Tern 4
 fleet kar_ik_vot_349
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Kar Ik Vot 349"
 fleet kestrel
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Kestrel
 fleet kimek_briar
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Kimek Briar"
 fleet kimek_spire
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Kimek Spire"
 fleet kimek_thistle
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Kimek Thistle"
 fleet kimek_thorn
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Kimek Thorn"
 fleet korath_raider
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Korath Chaser" 2
 		"Korath Raider"
 fleet korath_world-ship_a
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Korath World-Ship"
 fleet lance
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Lance
 fleet leviathan
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Leviathan
 fleet lightning_bug
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Lightning Bug"
 fleet maeri'het
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Maeri'het
 fleet manta
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Manta
 fleet met_par_tek_53
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Met Par Tek 53"
 fleet model_128
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Model 128"
 fleet model_16
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Model 16"
 fleet model_256
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Model 256"
 fleet model_32
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Model 32"
 fleet model_512
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Model 512"
 fleet model_64
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Model 64"
 fleet model_8
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Model 8"
 fleet modified_argosy
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Modified Argosy"
 fleet mule
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Dagger
 		Mule
 fleet nest
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Finch 2
 		Nest
 fleet osprey
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Osprey
 fleet pelican
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Pelican
 fleet penguin
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Penguin
 fleet pond_strider
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Flea 8
 		"Pond Strider"
 fleet protector
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Protector
 fleet pug_arfecta
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Pug Arfecta"
 fleet pug_enfolta
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Pug Enfolta"
 fleet pug_maboro
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Pug Maboro"
 fleet pug_zibruka
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Pug Zibruka"
 fleet quarg_skylark
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Quarg Skylark"
 fleet quarg_wardragon
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Quarg Wardragon"
 fleet quicksilver
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Quicksilver
 fleet rainmaker
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Rainmaker
 fleet raven
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Raven
 fleet riptide
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Riptide
 fleet roost
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Finch 4
 		Roost
 fleet saryd_runabout
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Saryd Runabout"
 fleet saryd_sojourner
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Saryd Sojourner"
 fleet saryd_traveler
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Saryd Traveler"
 fleet saryd_visitor
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Saryd Visitor"
 fleet scout
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Scout
 fleet shield_beetle
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Shield Beetle"
 fleet shuttle
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Shuttle
 fleet skein
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Finch 6
 		Skein
 fleet solifuge
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Violin Spider" 6
 		Solifuge
 fleet sparrow
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Sparrow
 fleet splinter
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Splinter
 fleet starling
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Starling
 fleet star_barge
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Star Barge"
 fleet star_queen
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Star Queen"
 fleet strong_wind
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Strong Wind"
 fleet summer_leaf
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Summer Leaf"
 fleet tek_far_109
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
@@ -663,63 +663,63 @@ fleet tek_far_109
 		"Far Osk 27" 7
 		"Tek Far 109"
 fleet tek_far_71_lek
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Far Lek 14" 10
 		"Tek Far 71 - Lek"
 fleet tek_far_78_osk
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Far Osk 27" 9
 		"Tek Far 78 - Osk"
 fleet telis'het
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Telis'het
 fleet tempest
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Tempest
 fleet vanguard
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Vanguard
 fleet void_sprite_infant
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Void Sprite (Infant)"
 fleet void_sprite
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Void Sprite"
 fleet wasp
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		Wasp
 fleet water_bug
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant
 		"Water Bug"
 fleet winter_gale
-	government "Unknown "
+	government arena
 	personality
 		heroic
 	variant

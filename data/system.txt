@@ -1,5 +1,5 @@
 system Omnis
-	government Unknown
+	government cheat
 	object "Albatross "
 		distance 6000
 		offset 8
