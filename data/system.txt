@@ -44,7 +44,7 @@ system Diespiter
 	asteroids "medium rock" 14 1
 	asteroids "small metal" 74 2
 	asteroids "small rock" 65 3
-	government "Uninhabited "
+	government ember_waste
 	haze _menu/haze-red
 	link Postverta
 	link Prosa
@@ -78,7 +78,7 @@ system Egeria
 	asteroids "medium metal" 86 3
 	asteroids "medium rock" 20 5
 	asteroids "small rock" 1 8
-	government "Uninhabited "
+	government ember_waste
 	haze _menu/haze-red
 	link Prosa
 	link Vaticanus
@@ -396,7 +396,7 @@ system Postverta
 	asteroids "large rock" 4 3
 	asteroids "medium metal" 52 1
 	asteroids "medium rock" 4 2
-	government "Uninhabited "
+	government ember_waste
 	haze _menu/haze-red
 	link Diespiter
 	link Prosa
@@ -473,7 +473,7 @@ system Prosa
 	asteroids "medium metal" 11 2
 	asteroids "medium rock" 16 1
 	asteroids "small rock" 4 1
-	government "Uninhabited "
+	government ember_waste
 	haze _menu/haze-red
 	link Diespiter
 	link Egeria
@@ -658,7 +658,7 @@ system Statina
 	asteroids "large rock" 1 4
 	asteroids "medium metal" 72 3
 	asteroids "small metal" 39 3
-	government "Uninhabited "
+	government ember_waste
 	haze _menu/haze-red
 	link Diespiter
 	link Postverta
@@ -700,7 +700,7 @@ system Vaticanus
 	asteroids "medium rock" 11 9
 	asteroids "small metal" 14 8
 	asteroids "small rock" 3 6
-	government "Uninhabited "
+	government ember_waste
 	haze _menu/haze-red
 	link Egeria
 	link Prosa

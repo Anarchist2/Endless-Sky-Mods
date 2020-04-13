@@ -1,23 +1,23 @@
 system Aescolanus
-	government "Uninhabited "
+	government ember_waste
 system Caeculus
 	add object barren_wormhole2
 		distance 2313
 		period 389
 		sprite planet/wormhole-red
-	government "Uninhabited "
+	government ember_waste
 system Coluber
-	government "Uninhabited "
+	government ember_waste
 system Edusa
-	government "Uninhabited "
+	government ember_waste
 system Levana
-	government "Uninhabited "
+	government ember_waste
 system Lucina
 	add object barren_wormhole
 		distance 2313
 		period 389
 		sprite planet/wormhole-red
-	government "Uninhabited "
+	government ember_waste
 system Omnis
 	add object "Paltry Freighter"
 		distance 4000
@@ -52,10 +52,10 @@ system Omnis
 		offset -32
 		sprite ship/hydra
 system Parca
-	government "Uninhabited "
+	government ember_waste
 system Peragenor
-	government "Uninhabited "
+	government ember_waste
 system Segesta
-	government "Uninhabited "
+	government ember_waste
 system Stercutus
-	government "Uninhabited "
+	government ember_waste
