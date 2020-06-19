@@ -1,2 +1,0 @@
-# Adde Endless Sky | Quarg Expansion
-This plugin was made to get an early glimpse into the possible future of the Quarg faction. A PR on hold is where a large part of this plugin came from, however a small part of it is mine and I intend it to fit in somewhat. Any content I consider to fit well with vanilla is put alongside the existing Quarg while any less fitting content is kept out of the vanilla experience, only accessible through Omnis.
