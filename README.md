@@ -1,6 +1,6 @@
 # These are my Endless Sky mods!
 ### Aben
-> New aliens that are uncapable of spaceflight as far as the player is concerned, offers the player multiple missions in aiding the Aben which also benefit the player in turn.
+> New aliens that are incapable of spaceflight as far as the player is concerned, offers the player multiple missions in aiding the Aben which also benefit the player in turn.
 ### Fallen
 > A redesign of an old plugin that used to pop up from time to time way back when. Most of the outfits use the same stats, the ships will get new sprites, outfits might not. This is in no way a revival, it's just a small nod to an old plugin.
 ### Irm
