@@ -138,12 +138,12 @@ shipyard quarg
 	"Quarg Wardragon"
 shipyard remnant
 	Albatross
-	Gascraft
 	Gull
 	Ibis
 	Pelican
 	Penguin
 	Petrel
+	Puffin
 	Starling
 	Tern
 shipyard vanilla
@@ -255,7 +255,6 @@ shipyard vanilla
 	Freighter
 	Frigate
 	Fury
-	Gascraft
 	Geocoris
 	Grasshopper
 	Gull
@@ -278,6 +277,7 @@ shipyard vanilla
 	Penguin
 	Petrel
 	Protector
+	Puffin
 	Quicksilver
 	Rainmaker
 	Raven
