@@ -547,12 +547,6 @@ planet Fury
 	tribute 1
 		threshold 0
 		fleet fury
-planet Gascraft
-	bribe 0
-	government arena
-	tribute 1
-		threshold 0
-		fleet gascraft
 planet Geocoris
 	bribe 0
 	government arena
@@ -708,6 +702,12 @@ planet Protector
 	tribute 1
 		threshold 0
 		fleet protector
+planet Puffin
+	bribe 0
+	government arena
+	tribute 1
+		threshold 0
+		fleet puffin
 planet Pug
 	bribe 0
 	description `The Quarg claim that the Pug are powerful enough that they could defeat the Quarg, or even the Drak, if they chose to. But the Pug treat warfare like a game. When battling another species, the Pug will limit themselves to ships and weapons that are weak enough that the other species has a chance of defeating them.`

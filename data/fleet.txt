@@ -213,12 +213,6 @@ fleet fury
 		heroic
 	variant
 		Fury
-fleet gascraft
-	government arena
-	personality
-		heroic
-	variant
-		Gascraft
 fleet geocoris
 	government arena
 	personality
@@ -489,6 +483,12 @@ fleet protector
 		heroic
 	variant
 		Protector
+fleet puffin
+	government arena
+	personality
+		heroic
+	variant
+		Puffin
 fleet pug_arfecta
 	government arena
 	personality

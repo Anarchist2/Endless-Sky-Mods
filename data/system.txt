@@ -413,10 +413,6 @@ system Omnis
 		distance 4000
 		offset 116
 		sprite ship/fury
-	object Gascraft
-		distance 6000
-		offset 12
-		sprite ship/gascraft
 	object Geocoris
 		distance 5000
 		offset 32
@@ -523,6 +519,10 @@ system Omnis
 		distance 4000
 		offset 164
 		sprite ship/protector
+	object Puffin
+		distance 6000
+		offset 12
+		sprite ship/puffin
 	object Pug
 		distance 12000
 		sprite sprite/black-hole-core-land
