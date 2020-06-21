@@ -249,6 +249,8 @@ outfitter ka'het
 	"Ka'het Ravager Turret"
 	"Ka'het Shield Restorer"
 	"Ka'het Support Cooling"
+	"Ka'het MHD Generator"
+	"Ka'het Reserve Accumulator"
 outfitter korath
 	"Command Center"
 	"Control Transceiver"
