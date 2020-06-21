@@ -299,7 +299,7 @@ system Omnis
 		sprite ship/cruiser
 	object Deprecated
 		distance 444
-		offset 216
+		offset 225
 		sprite sprite/station8
 	object Derecho
 		distance 9000
@@ -387,7 +387,7 @@ system Omnis
 		sprite sprite/everything
 	object Experimental
 		distance 444
-		offset 144
+		offset 135
 		sprite sprite/station8
 	object Falcon
 		distance 4000
@@ -517,7 +517,7 @@ system Omnis
 		sprite ship/penguin/penguin
 	object Plugins
 		distance 444
-		offset 72
+		offset 45
 		sprite sprite/station8
 	object Protector
 		distance 4000
@@ -596,10 +596,7 @@ system Omnis
 		sprite ship/vanguard
 	object Vanilla
 		distance 444
-		sprite sprite/station8
-	object Variants
-		distance 444
-		offset 288
+		offset 315
 		sprite sprite/station8
 	object Wanderer
 		distance 9000

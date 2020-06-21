@@ -820,12 +820,6 @@ planet Vanilla
 	outfitter vanilla
 	shipyard vanilla
 	spaceport ``
-planet Variants
-	bribe 0
-	description ``
-	landscape landscape/station6
-	shipyard variants
-	spaceport ``
 planet Wanderer
 	bribe 0
 	description `The Wanderers are a bird-like species who inhabit a small region of space adjacent to the Hai. They have been under attack by the "Unfettered" Hai for some time. The Wanderers claim to be peaceful, and most of their ships are not designed for military use.`
