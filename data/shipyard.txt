@@ -60,6 +60,7 @@ shipyard human
 	Aerie
 	Argosy
 	Arrow
+	Auxiliary
 	Bactrian
 	Barb
 	Bastion
@@ -74,6 +75,7 @@ shipyard human
 	Cruiser
 	Dagger
 	Dreadnought
+	Dropship
 	Falcon
 	Finch
 	Firebird

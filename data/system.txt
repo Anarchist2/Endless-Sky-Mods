@@ -28,6 +28,10 @@ system Omnis
 		distance 9000
 		offset 6
 		sprite "ship/autumn leaf"
+	object "Auxiliary"
+		distance 4000
+		offset 208
+		sprite "ship/auxiliaryh"
 	object "Bulk Freighter"
 		distance 4000
 		offset 8
